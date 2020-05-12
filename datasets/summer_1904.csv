@@ -1,0 +1,471 @@
+,City,Edition,Sport,Discipline,Athlete,NOC,Gender,Event,Event_gender,Medal
+663,St Louis,1904,Aquatics,Diving,"BRAUNSCHWEIGER, Alfred",GER,Men,10m platform,M,Bronze
+664,St Louis,1904,Aquatics,Diving,"KEHOE, Frank",USA,Men,10m platform,M,Bronze
+665,St Louis,1904,Aquatics,Diving,"SHELDON, George",USA,Men,10m platform,M,Gold
+666,St Louis,1904,Aquatics,Diving,"HOFFMANN, Georg",GER,Men,10m platform,M,Silver
+667,St Louis,1904,Aquatics,Diving,"GOODWIN, Leo Budd",USA,Men,plunge for distance,M,Bronze
+668,St Louis,1904,Aquatics,Diving,"DICKEY, William Paul",USA,Men,plunge for distance,M,Gold
+669,St Louis,1904,Aquatics,Diving,"ADAMS, Edgar H.",USA,Men,plunge for distance,M,Silver
+670,St Louis,1904,Aquatics,Swimming,"ZACHARIAS, Georg",GER,Men,100m backstroke,M,Bronze
+671,St Louis,1904,Aquatics,Swimming,"BRACK, Walter",GER,Men,100m backstroke,M,Gold
+672,St Louis,1904,Aquatics,Swimming,"HOFFMANN, Georg",GER,Men,100m backstroke,M,Silver
+673,St Louis,1904,Aquatics,Swimming,"LEARY, J. Scott",USA,Men,100m freestyle,M,Bronze
+674,St Louis,1904,Aquatics,Swimming,"HALMAY, Zoltan",HUN,Men,100m freestyle,M,Gold
+675,St Louis,1904,Aquatics,Swimming,"DANIELS, Charles",USA,Men,100m freestyle,M,Silver
+676,St Louis,1904,Aquatics,Swimming,"GAILEY, Francis",USA,Men,1500m freestyle,M,Bronze
+677,St Louis,1904,Aquatics,Swimming,"RAUSCH, Emil",GER,Men,1500m freestyle,M,Gold
+678,St Louis,1904,Aquatics,Swimming,"KISS, Geza",HUN,Men,1500m freestyle,M,Silver
+679,St Louis,1904,Aquatics,Swimming,"RAUSCH, Emil",GER,Men,200m freestyle,M,Bronze
+680,St Louis,1904,Aquatics,Swimming,"DANIELS, Charles",USA,Men,200m freestyle,M,Gold
+681,St Louis,1904,Aquatics,Swimming,"GAILEY, Francis",USA,Men,200m freestyle,M,Silver
+682,St Louis,1904,Aquatics,Swimming,"HANDY, Hehry Jamison",USA,Men,400m breaststroke,M,Bronze
+683,St Louis,1904,Aquatics,Swimming,"ZACHARIAS, Georg",GER,Men,400m breaststroke,M,Gold
+684,St Louis,1904,Aquatics,Swimming,"BRACK, Walter",GER,Men,400m breaststroke,M,Silver
+685,St Louis,1904,Aquatics,Swimming,"WAHLE, Otto",AUT,Men,400m freestyle,M,Bronze
+686,St Louis,1904,Aquatics,Swimming,"DANIELS, Charles",USA,Men,400m freestyle,M,Gold
+687,St Louis,1904,Aquatics,Swimming,"GAILEY, Francis",USA,Men,400m freestyle,M,Silver
+688,St Louis,1904,Aquatics,Swimming,"EVANS, Gwynne",USA,Men,4x50y freestyle relay,M,Bronze
+689,St Louis,1904,Aquatics,Swimming,"ORTHWEIN, William Robert",USA,Men,4x50y freestyle relay,M,Bronze
+690,St Louis,1904,Aquatics,Swimming,"REYBURN, Amadee",USA,Men,4x50y freestyle relay,M,Bronze
+691,St Louis,1904,Aquatics,Swimming,"SCHWARTZ, Marquard",USA,Men,4x50y freestyle relay,M,Bronze
+692,St Louis,1904,Aquatics,Swimming,"DANIELS, Charles",USA,Men,4x50y freestyle relay,M,Gold
+693,St Louis,1904,Aquatics,Swimming,"GOODWIN, Leo Budd",USA,Men,4x50y freestyle relay,M,Gold
+694,St Louis,1904,Aquatics,Swimming,"HANDLEY, Louis De Breda",USA,Men,4x50y freestyle relay,M,Gold
+695,St Louis,1904,Aquatics,Swimming,"RUDDY, Joseph A.",USA,Men,4x50y freestyle relay,M,Gold
+696,St Louis,1904,Aquatics,Swimming,"GOETZ, Hugo",USA,Men,4x50y freestyle relay,M,Silver
+697,St Louis,1904,Aquatics,Swimming,"HAMMOND, David",USA,Men,4x50y freestyle relay,M,Silver
+698,St Louis,1904,Aquatics,Swimming,"THORNE, Raymond",USA,Men,4x50y freestyle relay,M,Silver
+699,St Louis,1904,Aquatics,Swimming,"TUTTLE, William",USA,Men,4x50y freestyle relay,M,Silver
+700,St Louis,1904,Aquatics,Swimming,"DANIELS, Charles",USA,Men,50y freestyle (45.72m),M,Bronze
+701,St Louis,1904,Aquatics,Swimming,"HALMAY, Zoltan",HUN,Men,50y freestyle (45.72m),M,Gold
+702,St Louis,1904,Aquatics,Swimming,"LEARY, J. Scott",USA,Men,50y freestyle (45.72m),M,Silver
+703,St Louis,1904,Aquatics,Swimming,"KISS, Geza",HUN,Men,880y freestyle (804.66m),M,Bronze
+704,St Louis,1904,Aquatics,Swimming,"RAUSCH, Emil",GER,Men,880y freestyle (804.66m),M,Gold
+705,St Louis,1904,Aquatics,Swimming,"GAILEY, Francis",USA,Men,880y freestyle (804.66m),M,Silver
+706,St Louis,1904,Archery,Archery,"THOMPSON, William Henry",USA,Men,double american round (60y - 50y - 40y),M,Bronze
+707,St Louis,1904,Archery,Archery,"BRYANT, George Philipp",USA,Men,double american round (60y - 50y - 40y),M,Gold
+708,St Louis,1904,Archery,Archery,"WILLIAMS, Robert",USA,Men,double american round (60y - 50y - 40y),M,Silver
+709,St Louis,1904,Archery,Archery,"POLLOCK, Jessie",USA,Women,double columbia round (50y - 40y - 30y),W,Bronze
+710,St Louis,1904,Archery,Archery,"HOWELL, Matilda Scott",USA,Women,double columbia round (50y - 40y - 30y),W,Gold
+711,St Louis,1904,Archery,Archery,"COOKE, Emma C.",USA,Women,double columbia round (50y - 40y - 30y),W,Silver
+712,St Louis,1904,Archery,Archery,"POLLOCK, Jessie",USA,Women,double national round (60y - 50y),W,Bronze
+713,St Louis,1904,Archery,Archery,"HOWELL, Matilda Scott",USA,Women,double national round (60y - 50y),W,Gold
+714,St Louis,1904,Archery,Archery,"COOKE, Emma C.",USA,Women,double national round (60y - 50y),W,Silver
+715,St Louis,1904,Archery,Archery,"THOMPSON, William Henry",USA,Men,double york round (100y - 80y - 60y),M,Bronze
+716,St Louis,1904,Archery,Archery,"BRYANT, George Philipp",USA,Men,double york round (100y - 80y - 60y),M,Gold
+717,St Louis,1904,Archery,Archery,"WILLIAMS, Robert",USA,Men,double york round (100y - 80y - 60y),M,Silver
+718,St Louis,1904,Archery,Archery,"BRYANT, George Philipp",USA,Men,team round 60y,M,Bronze
+719,St Louis,1904,Archery,Archery,"BRYANT, Wallace",USA,Men,team round 60y,M,Bronze
+720,St Louis,1904,Archery,Archery,"DALLIN, Cyrus Edwin",USA,Men,team round 60y,M,Bronze
+721,St Louis,1904,Archery,Archery,"RICHARDSON, Henry Barber",USA,Men,team round 60y,M,Bronze
+722,St Louis,1904,Archery,Archery,"MAXSON, Louis W.",USA,Men,team round 60y,M,Gold
+723,St Louis,1904,Archery,Archery,"SPENCER, Galen Carter",USA,Men,team round 60y,M,Gold
+724,St Louis,1904,Archery,Archery,"THOMPSON, William Henry",USA,Men,team round 60y,M,Gold
+725,St Louis,1904,Archery,Archery,"WILLIAMS, Robert",USA,Men,team round 60y,M,Gold
+726,St Louis,1904,Archery,Archery,"CLARK, William A.",USA,Men,team round 60y,M,Silver
+727,St Louis,1904,Archery,Archery,"DUVALL, Samuel Harding",USA,Men,team round 60y,M,Silver
+728,St Louis,1904,Archery,Archery,"HUBBARD, Charles R.",USA,Men,team round 60y,M,Silver
+729,St Louis,1904,Archery,Archery,"WOODRUFF, Charles S.",USA,Men,team round 60y,M,Silver
+730,St Louis,1904,Archery,Archery,"HOWELL, Matilda Scott",USA,Women,teams FITA round,W,Gold
+731,St Louis,1904,Archery,Archery,"POLLOCK, Jessie",USA,Women,teams FITA round,W,Gold
+732,St Louis,1904,Archery,Archery,"TAYLOR, Louise",USA,Women,teams FITA round,W,Gold
+733,St Louis,1904,Archery,Archery,"WOODRUFF, Laura",USA,Women,teams FITA round,W,Gold
+734,St Louis,1904,Archery,Archery,"COOKE, Emma C.",USA,Women,teams FITA round,W,Silver
+735,St Louis,1904,Archery,Archery,"TAYLOR, Mabel",USA,Women,teams FITA round,W,Silver
+736,St Louis,1904,Athletics,Athletics,"HOGENSON, William",USA,Men,100m,M,Bronze
+737,St Louis,1904,Athletics,Athletics,"HAHN, Archie",USA,Men,100m,M,Gold
+738,St Louis,1904,Athletics,Athletics,"CARTMELL, John Nathaniel",USA,Men,100m,M,Silver
+739,St Louis,1904,Athletics,Athletics,"ASHBURNER, Lesley",USA,Men,110m hurdles,M,Bronze
+740,St Louis,1904,Athletics,Athletics,"SCHULE, Frederick",USA,Men,110m hurdles,M,Gold
+741,St Louis,1904,Athletics,Athletics,"SHIDELER, Thaddeus",USA,Men,110m hurdles,M,Silver
+742,St Louis,1904,Athletics,Athletics,"HEARN, Lacey",USA,Men,1500m,M,Bronze
+743,St Louis,1904,Athletics,Athletics,"LIGHTBODY, James",USA,Men,1500m,M,Gold
+744,St Louis,1904,Athletics,Athletics,"VERNER, William Frank",USA,Men,1500m,M,Silver
+745,St Louis,1904,Athletics,Athletics,"HOGENSON, William",USA,Men,200m,M,Bronze
+746,St Louis,1904,Athletics,Athletics,"HAHN, Archie",USA,Men,200m,M,Gold
+747,St Louis,1904,Athletics,Athletics,"CARTMELL, John Nathaniel",USA,Men,200m,M,Silver
+748,St Louis,1904,Athletics,Athletics,"POAGE, George",USA,Men,200m hurdles,M,Bronze
+749,St Louis,1904,Athletics,Athletics,"HILLMAN, Harry",USA,Men,200m hurdles,M,Gold
+750,St Louis,1904,Athletics,Athletics,"CASTLEMAN, Frank",USA,Men,200m hurdles,M,Silver
+751,St Louis,1904,Athletics,Athletics,"NEWTON, Arthur",USA,Men,3000m steeplechase,M,Bronze
+752,St Louis,1904,Athletics,Athletics,"LIGHTBODY, James",USA,Men,3000m steeplechase,M,Gold
+753,St Louis,1904,Athletics,Athletics,"DALY, John",GBR,Men,3000m steeplechase,M,Silver
+754,St Louis,1904,Athletics,Athletics,"GROMAN, Herman",USA,Men,400m,M,Bronze
+755,St Louis,1904,Athletics,Athletics,"HILLMAN, Harry",USA,Men,400m,M,Gold
+756,St Louis,1904,Athletics,Athletics,"WALLER, Frank",USA,Men,400m,M,Silver
+757,St Louis,1904,Athletics,Athletics,"POAGE, George",USA,Men,400m hurdles,M,Bronze
+758,St Louis,1904,Athletics,Athletics,"HILLMAN, Harry",USA,Men,400m hurdles,M,Gold
+759,St Louis,1904,Athletics,Athletics,"WALLER, Frank",USA,Men,400m hurdles,M,Silver
+760,St Louis,1904,Athletics,Athletics,"MUNSON, David Curtis",USA,Men,4miles team,M,Gold
+761,St Louis,1904,Athletics,Athletics,"NEWTON, Arthur",USA,Men,4miles team,M,Gold
+762,St Louis,1904,Athletics,Athletics,"PILGRIM, Paul Harry",USA,Men,4miles team,M,Gold
+763,St Louis,1904,Athletics,Athletics,"UNDERWOOD, George",USA,Men,4miles team,M,Gold
+764,St Louis,1904,Athletics,Athletics,"VALENTINE, Howard",USA,Men,4miles team,M,Gold
+765,St Louis,1904,Athletics,Athletics,"CORAY, Albert",ZZX,Men,4miles team,M,Silver
+766,St Louis,1904,Athletics,Athletics,"HATCH, Sidney",ZZX,Men,4miles team,M,Silver
+767,St Louis,1904,Athletics,Athletics,"HEARN, Lacey",ZZX,Men,4miles team,M,Silver
+768,St Louis,1904,Athletics,Athletics,"LIGHTBODY, James",ZZX,Men,4miles team,M,Silver
+769,St Louis,1904,Athletics,Athletics,"VERNER, William Frank",ZZX,Men,4miles team,M,Silver
+770,St Louis,1904,Athletics,Athletics,"MITCHELL, James",USA,Men,56lb weight throw (25.4kg),M,Bronze
+771,St Louis,1904,Athletics,Athletics,"DESMARTEAU, Etienne",CAN,Men,56lb weight throw (25.4kg),M,Gold
+772,St Louis,1904,Athletics,Athletics,"FLANAGAN, John Jesus",USA,Men,56lb weight throw (25.4kg),M,Silver
+773,St Louis,1904,Athletics,Athletics,"MOULTON, Fay",USA,Men,60m,M,Bronze
+774,St Louis,1904,Athletics,Athletics,"HAHN, Archie",USA,Men,60m,M,Gold
+775,St Louis,1904,Athletics,Athletics,"HOGENSON, William",USA,Men,60m,M,Silver
+776,St Louis,1904,Athletics,Athletics,"BREITKREUTZ, Emil",USA,Men,800m,M,Bronze
+777,St Louis,1904,Athletics,Athletics,"LIGHTBODY, James",USA,Men,800m,M,Gold
+778,St Louis,1904,Athletics,Athletics,"VALENTINE, Howard",USA,Men,800m,M,Silver
+779,St Louis,1904,Athletics,Athletics,"HARE, Thomas Truxton",USA,Men,decathlon,M,Bronze
+780,St Louis,1904,Athletics,Athletics,"KIELY, Thomas Francis",GBR,Men,decathlon,M,Gold
+781,St Louis,1904,Athletics,Athletics,"GUNN, Adam",USA,Men,decathlon,M,Silver
+782,St Louis,1904,Athletics,Athletics,"GEORGANDAS, Nicolaos",GRE,Men,discus throw,M,Bronze
+783,St Louis,1904,Athletics,Athletics,"SHERIDAN, Martin",USA,Men,discus throw,M,Gold
+784,St Louis,1904,Athletics,Athletics,"ROSE, Ralph",USA,Men,discus throw,M,Silver
+785,St Louis,1904,Athletics,Athletics,"ROSE, Ralph",USA,Men,hammer throw,M,Bronze
+786,St Louis,1904,Athletics,Athletics,"FLANAGAN, John Jesus",USA,Men,hammer throw,M,Gold
+787,St Louis,1904,Athletics,Athletics,"DEWITT, John",USA,Men,hammer throw,M,Silver
+788,St Louis,1904,Athletics,Athletics,"WEINSTEIN, Paul",GER,Men,high jump,M,Bronze
+789,St Louis,1904,Athletics,Athletics,"JONES, Samuel",USA,Men,high jump,M,Gold
+790,St Louis,1904,Athletics,Athletics,"SERVISS, Garrett",USA,Men,high jump,M,Silver
+791,St Louis,1904,Athletics,Athletics,"ROBERTSON, Lawson N.",USA,Men,"high jump, standing",M,Bronze
+792,St Louis,1904,Athletics,Athletics,"EWRY, Ray",USA,Men,"high jump, standing",M,Gold
+793,St Louis,1904,Athletics,Athletics,"STADLER, Joseph F.",USA,Men,"high jump, standing",M,Silver
+794,St Louis,1904,Athletics,Athletics,"STANGLAND, Robert",USA,Men,long jump,M,Bronze
+795,St Louis,1904,Athletics,Athletics,"PRINSTEIN, Meyer",USA,Men,long jump,M,Gold
+796,St Louis,1904,Athletics,Athletics,"FRANK, Daniel",USA,Men,long jump,M,Silver
+797,St Louis,1904,Athletics,Athletics,"BILLER, John",USA,Men,"long jump, standing",M,Bronze
+798,St Louis,1904,Athletics,Athletics,"EWRY, Ray",USA,Men,"long jump, standing",M,Gold
+799,St Louis,1904,Athletics,Athletics,"KING, Charles",USA,Men,"long jump, standing",M,Silver
+800,St Louis,1904,Athletics,Athletics,"NEWTON, Arthur",USA,Men,marathon,M,Bronze
+801,St Louis,1904,Athletics,Athletics,"HICKS, Thomas",USA,Men,marathon,M,Gold
+802,St Louis,1904,Athletics,Athletics,"CORAY, Albert",USA,Men,marathon,M,Silver
+803,St Louis,1904,Athletics,Athletics,"WILKINS, Louis",USA,Men,pole vault,M,Bronze
+804,St Louis,1904,Athletics,Athletics,"DVORAK, Charles",USA,Men,pole vault,M,Gold
+805,St Louis,1904,Athletics,Athletics,"SAMSE, Leroy",USA,Men,pole vault,M,Silver
+806,St Louis,1904,Athletics,Athletics,"FEUERBACH, Lawrence E. Joseph",USA,Men,shot put,M,Bronze
+807,St Louis,1904,Athletics,Athletics,"ROSE, Ralph",USA,Men,shot put,M,Gold
+808,St Louis,1904,Athletics,Athletics,"COE, William Wesley",USA,Men,shot put,M,Silver
+809,St Louis,1904,Athletics,Athletics,"MERZ, William",USA,Men,triathlon (long jump / shot put / 100 yards),M,Bronze
+810,St Louis,1904,Athletics,Athletics,"EMMERICH, Max",USA,Men,triathlon (long jump / shot put / 100 yards),M,Gold
+811,St Louis,1904,Athletics,Athletics,"GRIEB, John",USA,Men,triathlon (long jump / shot put / 100 yards),M,Silver
+812,St Louis,1904,Athletics,Athletics,"STANGLAND, Robert",USA,Men,triple jump,M,Bronze
+813,St Louis,1904,Athletics,Athletics,"PRINSTEIN, Meyer",USA,Men,triple jump,M,Gold
+814,St Louis,1904,Athletics,Athletics,"ENGLEHARDT, Frederick",USA,Men,triple jump,M,Silver
+815,St Louis,1904,Athletics,Athletics,"STADLER, Joseph F.",USA,Men,"triple jump, standing",M,Bronze
+816,St Louis,1904,Athletics,Athletics,"EWRY, Ray",USA,Men,"triple jump, standing",M,Gold
+817,St Louis,1904,Athletics,Athletics,"KING, Charles",USA,Men,"triple jump, standing",M,Silver
+818,St Louis,1904,Boxing,Boxing,"FINNEGAN, George",USA,Men,- 47.63kg (flyweight),M,Gold
+819,St Louis,1904,Boxing,Boxing,"BURKE, Miles",USA,Men,- 47.63kg (flyweight),M,Silver
+820,St Louis,1904,Boxing,Boxing,"MICHAELS, William",USA,Men,+ 71.67kg (heavyweight),M,Bronze
+821,St Louis,1904,Boxing,Boxing,"BERGER, Samuel",USA,Men,+ 71.67kg (heavyweight),M,Gold
+822,St Louis,1904,Boxing,Boxing,"MAYER, Charles",USA,Men,+ 71.67kg (heavyweight),M,Silver
+823,St Louis,1904,Boxing,Boxing,"KIRK, Oliver L.",USA,Men,47.63 - 52.16kg (bantamweight),M,Gold
+824,St Louis,1904,Boxing,Boxing,"FINNEGAN, George",USA,Men,47.63 - 52.16kg (bantamweight),M,Silver
+825,St Louis,1904,Boxing,Boxing,"GILMORE, Frederick",USA,Men,52.16 - 56.7kg (featherweight),M,Bronze
+826,St Louis,1904,Boxing,Boxing,"KIRK, Oliver L.",USA,Men,52.16 - 56.7kg (featherweight),M,Gold
+827,St Louis,1904,Boxing,Boxing,"HALLER, Frank",USA,Men,52.16 - 56.7kg (featherweight),M,Silver
+828,St Louis,1904,Boxing,Boxing,"VAN HORN, Russell",USA,Men,56.7 - 61.24kg (lightweight),M,Bronze
+829,St Louis,1904,Boxing,Boxing,"SPANGER, Harry J.",USA,Men,56.7 - 61.24kg (lightweight),M,Gold
+830,St Louis,1904,Boxing,Boxing,"EAGAN, James Jack",USA,Men,56.7 - 61.24kg (lightweight),M,Silver
+831,St Louis,1904,Boxing,Boxing,"EAGAN, James Jack",USA,Men,61.24 - 65.77kg (welterweight),M,Bronze
+832,St Louis,1904,Boxing,Boxing,"LYDON, Joseph",USA,Men,61.24 - 65.77kg (welterweight),M,Bronze
+833,St Louis,1904,Boxing,Boxing,"YOUNG, Albert",USA,Men,61.24 - 65.77kg (welterweight),M,Gold
+834,St Louis,1904,Boxing,Boxing,"SPANGER, Harry J.",USA,Men,61.24 - 65.77kg (welterweight),M,Silver
+835,St Louis,1904,Boxing,Boxing,"MAYER, Charles",USA,Men,65.77 - 71.67kg (middleweight),M,Gold
+836,St Louis,1904,Boxing,Boxing,"SPRADLEY, Benjamin",USA,Men,65.77 - 71.67kg (middleweight),M,Silver
+837,St Louis,1904,Cycling,Cycling Track,"BILLINGTON, Edward",USA,Men,1 mile (1609.3m),M,Bronze
+838,St Louis,1904,Cycling,Cycling Track,"HURLEY, Marcus",USA,Men,1 mile (1609.3m),M,Gold
+839,St Louis,1904,Cycling,Cycling Track,"DOWNING, Burton",USA,Men,1 mile (1609.3m),M,Silver
+840,St Louis,1904,Cycling,Cycling Track,"DOWNING, Burton",USA,Men,1/2 mile (804.7m),M,Bronze
+841,St Louis,1904,Cycling,Cycling Track,"HURLEY, Marcus",USA,Men,1/2 mile (804.7m),M,Gold
+842,St Louis,1904,Cycling,Cycling Track,"BILLINGTON, Edward",USA,Men,1/2 mile (804.7m),M,Silver
+843,St Louis,1904,Cycling,Cycling Track,"BILLINGTON, Edward",USA,Men,1/3 mile (536.5m),M,Bronze
+844,St Louis,1904,Cycling,Cycling Track,"HURLEY, Marcus",USA,Men,1/3 mile (536.5m),M,Gold
+845,St Louis,1904,Cycling,Cycling Track,"DOWNING, Burton",USA,Men,1/3 mile (536.5m),M,Silver
+846,St Louis,1904,Cycling,Cycling Track,"BILLINGTON, Edward",USA,Men,1/4 mile (402.3m),M,Bronze
+847,St Louis,1904,Cycling,Cycling Track,"HURLEY, Marcus",USA,Men,1/4 mile (402.3m),M,Gold
+848,St Louis,1904,Cycling,Cycling Track,"DOWNING, Burton",USA,Men,1/4 mile (402.3m),M,Silver
+849,St Louis,1904,Cycling,Cycling Track,"HURLEY, Marcus",USA,Men,2 miles (3.218km),M,Bronze
+850,St Louis,1904,Cycling,Cycling Track,"DOWNING, Burton",USA,Men,2 miles (3.218km),M,Gold
+851,St Louis,1904,Cycling,Cycling Track,"GOERKE, Oscar",USA,Men,2 miles (3.218km),M,Silver
+852,St Louis,1904,Cycling,Cycling Track,"WILEY, George",USA,Men,25 miles (40.232km),M,Bronze
+853,St Louis,1904,Cycling,Cycling Track,"DOWNING, Burton",USA,Men,25 miles (40.232km),M,Gold
+854,St Louis,1904,Cycling,Cycling Track,"ANDREWS, Arthur F.",USA,Men,25 miles (40.232km),M,Silver
+855,St Louis,1904,Cycling,Cycling Track,"ANDREWS, Arthur F.",USA,Men,5 miles (8.046km),M,Bronze
+856,St Louis,1904,Cycling,Cycling Track,"SCHLEE, Charles",USA,Men,5 miles (8.046km),M,Gold
+857,St Louis,1904,Cycling,Cycling Track,"WILEY, George",USA,Men,5 miles (8.046km),M,Silver
+858,St Louis,1904,Fencing,Fencing,"VAN ZO POST, Albertson",CUB,Men,épée individual,M,Bronze
+859,St Louis,1904,Fencing,Fencing,"FONST, Ramon",CUB,Men,épée individual,M,Gold
+860,St Louis,1904,Fencing,Fencing,"TATHAM, Charles",CUB,Men,épée individual,M,Silver
+861,St Louis,1904,Fencing,Fencing,"TATHAM, Charles",CUB,Men,foil individual,M,Bronze
+862,St Louis,1904,Fencing,Fencing,"FONST, Ramon",CUB,Men,foil individual,M,Gold
+863,St Louis,1904,Fencing,Fencing,"VAN ZO POST, Albertson",CUB,Men,foil individual,M,Silver
+864,St Louis,1904,Fencing,Fencing,"DIAZ, Manuel",ZZX,Men,foil team,M,Gold
+865,St Louis,1904,Fencing,Fencing,"FONST, Ramon",ZZX,Men,foil team,M,Gold
+866,St Louis,1904,Fencing,Fencing,"VAN ZO POST, Albertson",ZZX,Men,foil team,M,Gold
+867,St Louis,1904,Fencing,Fencing,"FOX, Arthur",USA,Men,foil team,M,Silver
+868,St Louis,1904,Fencing,Fencing,"TATHAM, Charles",USA,Men,foil team,M,Silver
+869,St Louis,1904,Fencing,Fencing,"TOWNSEND, Charles Fitzhugh",USA,Men,foil team,M,Silver
+870,St Louis,1904,Fencing,Fencing,"VAN ZO POST, Albertson",CUB,Men,sabre individual,M,Bronze
+871,St Louis,1904,Fencing,Fencing,"DIAZ, Manuel",CUB,Men,sabre individual,M,Gold
+872,St Louis,1904,Fencing,Fencing,"GREBE, William",USA,Men,sabre individual,M,Silver
+873,St Louis,1904,Fencing,Fencing,"GREBE, William",USA,Men,"stick, single",M,Bronze
+874,St Louis,1904,Fencing,Fencing,"VAN ZO POST, Albertson",CUB,Men,"stick, single",M,Gold
+875,St Louis,1904,Fencing,Fencing,"O'CONNOR, William Scott",USA,Men,"stick, single",M,Silver
+876,St Louis,1904,Football,Football,"BRADY, Joseph J.",USA,Men,football,M,Bronze
+877,St Louis,1904,Football,Football,"COOKE, George Edwin",USA,Men,football,M,Bronze
+878,St Louis,1904,Football,Football,"COOKE, Thomas J.",USA,Men,football,M,Bronze
+879,St Louis,1904,Football,Football,"COSTGROVE, Cormic F.",USA,Men,football,M,Bronze
+880,St Louis,1904,Football,Football,DIERKES,USA,Men,football,M,Bronze
+881,St Louis,1904,Football,Football,"DOOLING, Martin T.",USA,Men,football,M,Bronze
+882,St Louis,1904,Football,Football,"FROST, Frank",USA,Men,football,M,Bronze
+883,St Louis,1904,Football,Football,"JAMESON, Claude Stanley",USA,Men,football,M,Bronze
+884,St Louis,1904,Football,Football,"JAMESON, Henry Wood",USA,Men,football,M,Bronze
+885,St Louis,1904,Football,Football,"JOHNSON, -",USA,Men,football,M,Bronze
+886,St Louis,1904,Football,Football,O'CONNELL,USA,Men,football,M,Bronze
+887,St Louis,1904,Football,Football,"TATE, Harry",USA,Men,football,M,Bronze
+888,St Louis,1904,Football,Football,"BARTLIFF, Charles Albert",USA,Men,football,M,Gold
+889,St Louis,1904,Football,Football,"BRADY, Joseph J.",USA,Men,football,M,Gold
+890,St Louis,1904,Football,Football,"BRITTINGHAM, Warren G.",USA,Men,football,M,Gold
+891,St Louis,1904,Football,Football,"BROCKMEYER, Oscar B.",USA,Men,football,M,Gold
+892,St Louis,1904,Football,Football,"COOKE, George Edwin",USA,Men,football,M,Gold
+893,St Louis,1904,Football,Football,"COOKE, Thomas J.",USA,Men,football,M,Gold
+894,St Louis,1904,Football,Football,"COSTGROVE, Cormic F.",USA,Men,football,M,Gold
+895,St Louis,1904,Football,Football,"CUDMORE, Alexander",USA,Men,football,M,Gold
+896,St Louis,1904,Football,Football,DIERKES,USA,Men,football,M,Gold
+897,St Louis,1904,Football,Football,"DOOLING, Martin T.",USA,Men,football,M,Gold
+898,St Louis,1904,Football,Football,"DUCKER, George",CAN,Men,football,M,Gold
+899,St Louis,1904,Football,Football,"FRASER, John Alexander",CAN,Men,football,M,Gold
+900,St Louis,1904,Football,Football,"FROST, Frank",USA,Men,football,M,Gold
+901,St Louis,1904,Football,Football,"GOURLEY, John",CAN,Men,football,M,Gold
+902,St Louis,1904,Football,Football,"HALL, Alexander",CAN,Men,football,M,Gold
+903,St Louis,1904,Football,Football,"JAMESON, Claude Stanley",USA,Men,football,M,Gold
+904,St Louis,1904,Football,Football,"JAMESON, Henry Wood",USA,Men,football,M,Gold
+905,St Louis,1904,Football,Football,"JANUARY, Charles James",USA,Men,football,M,Gold
+906,St Louis,1904,Football,Football,"JANUARY, John Hartnett",USA,Men,football,M,Gold
+907,St Louis,1904,Football,Football,"JANUARY, Thomas Thurston",USA,Men,football,M,Gold
+908,St Louis,1904,Football,Football,"JOHNSON, -",USA,Men,football,M,Gold
+909,St Louis,1904,Football,Football,"JOHNSON, Albert",CAN,Men,football,M,Gold
+910,St Louis,1904,Football,Football,"LANE, Robert",CAN,Men,football,M,Gold
+911,St Louis,1904,Football,Football,"LAWLER, Raymond E.",USA,Men,football,M,Gold
+912,St Louis,1904,Football,Football,"LINTON, Ernest",CAN,Men,football,M,Gold
+913,St Louis,1904,Football,Football,"LYDON, Joseph",USA,Men,football,M,Gold
+914,St Louis,1904,Football,Football,"MACDONALD, Gordon",CAN,Men,football,M,Gold
+915,St Louis,1904,Football,Football,"MENGES, Louis John",USA,Men,football,M,Gold
+916,St Louis,1904,Football,Football,O'CONNELL,USA,Men,football,M,Gold
+917,St Louis,1904,Football,Football,"RATICAN, Peter Joseph",USA,Men,football,M,Gold
+918,St Louis,1904,Football,Football,"STEEP, Frederick",CAN,Men,football,M,Gold
+919,St Louis,1904,Football,Football,"TATE, Harry",USA,Men,football,M,Gold
+920,St Louis,1904,Football,Football,"TAYLOR, Thomas",CAN,Men,football,M,Gold
+921,St Louis,1904,Football,Football,"TWAITS, William",CAN,Men,football,M,Gold
+922,St Louis,1904,Football,Football,"BARTLIFF, Charles Albert",USA,Men,football,M,Silver
+923,St Louis,1904,Football,Football,"BRITTINGHAM, Warren G.",USA,Men,football,M,Silver
+924,St Louis,1904,Football,Football,"BROCKMEYER, Oscar B.",USA,Men,football,M,Silver
+925,St Louis,1904,Football,Football,"CUDMORE, Alexander",USA,Men,football,M,Silver
+926,St Louis,1904,Football,Football,"JANUARY, Charles James",USA,Men,football,M,Silver
+927,St Louis,1904,Football,Football,"JANUARY, John Hartnett",USA,Men,football,M,Silver
+928,St Louis,1904,Football,Football,"JANUARY, Thomas Thurston",USA,Men,football,M,Silver
+929,St Louis,1904,Football,Football,"LAWLER, Raymond E.",USA,Men,football,M,Silver
+930,St Louis,1904,Football,Football,"LYDON, Joseph",USA,Men,football,M,Silver
+931,St Louis,1904,Football,Football,"MENGES, Louis John",USA,Men,football,M,Silver
+932,St Louis,1904,Football,Football,"RATICAN, Peter Joseph",USA,Men,football,M,Silver
+933,St Louis,1904,Golf,Golf,"MCKINNIE, Burt P.",USA,Men,individual,M,Bronze
+934,St Louis,1904,Golf,Golf,"NEWTON, Francis Clement",USA,Men,individual,M,Bronze
+935,St Louis,1904,Golf,Golf,"LYON, George Seymour",CAN,Men,individual,M,Gold
+936,St Louis,1904,Golf,Golf,"EGAN, Henri Chandler",USA,Men,individual,M,Silver
+937,St Louis,1904,Golf,Golf,"CUMMINS, Edward M.",USA,Men,team,M,Gold
+938,St Louis,1904,Golf,Golf,"EDWARDS, Kenneth Paine",USA,Men,team,M,Gold
+939,St Louis,1904,Golf,Golf,"EGAN, Henri Chandler",USA,Men,team,M,Gold
+940,St Louis,1904,Golf,Golf,"EGAN, Walter Eugene",USA,Men,team,M,Gold
+941,St Louis,1904,Golf,Golf,"HUNTER, Robert Edward",USA,Men,team,M,Gold
+942,St Louis,1904,Golf,Golf,"MOORE, Nathaniel Fish",USA,Men,team,M,Gold
+943,St Louis,1904,Golf,Golf,"PHELPS, Mason Elliot",USA,Men,team,M,Gold
+944,St Louis,1904,Golf,Golf,"SAWYER, Danieledward",USA,Men,team,M,Gold
+945,St Louis,1904,Golf,Golf,"SMOOT, Clement E.",USA,Men,team,M,Gold
+946,St Louis,1904,Golf,Golf,"WOOD, Warren K.",USA,Men,team,M,Gold
+947,St Louis,1904,Golf,Golf,"CADY, John Deere",USA,Men,team,M,Silver
+948,St Louis,1904,Golf,Golf,"LAMBERT, Albert Bond",USA,Men,team,M,Silver
+949,St Louis,1904,Golf,Golf,"MAXWELL, John R.",USA,Men,team,M,Silver
+950,St Louis,1904,Golf,Golf,"MCKINNIE, Burt P.",USA,Men,team,M,Silver
+951,St Louis,1904,Golf,Golf,"MCKITTRICK, Ralph",USA,Men,team,M,Silver
+952,St Louis,1904,Golf,Golf,"NEWTON, Francis Clement",USA,Men,team,M,Silver
+953,St Louis,1904,Golf,Golf,"POTTER, Henry",USA,Men,team,M,Silver
+954,St Louis,1904,Golf,Golf,"SEMPLE, Frederick",USA,Men,team,M,Silver
+955,St Louis,1904,Golf,Golf,"STICKNEY, Arthur William",USA,Men,team,M,Silver
+956,St Louis,1904,Golf,Golf,"STICKNEY, Stuart Grosvenor",USA,Men,team,M,Silver
+957,St Louis,1904,Gymnastics,Artistic G.,"WILSON, Ralph",USA,Men,club swinging,M,Bronze
+958,St Louis,1904,Gymnastics,Artistic G.,"HENNIG, Edward",USA,Men,club swinging,M,Gold
+959,St Louis,1904,Gymnastics,Artistic G.,"VOIGT, Emil",USA,Men,club swinging,M,Silver
+960,St Louis,1904,Gymnastics,Artistic G.,"WEBER, Wilhelm",GER,Men,combined 3 events,M,Bronze
+961,St Louis,1904,Gymnastics,Artistic G.,"SPINNLER, Adolf",SUI,Men,combined 3 events,M,Gold
+962,St Louis,1904,Gymnastics,Artistic G.,"LENHART, Julius",USA,Men,combined 3 events,M,Silver
+963,St Louis,1904,Gymnastics,Artistic G.,"MERZ, William",USA,Men,combined 4 events,M,Bronze
+964,St Louis,1904,Gymnastics,Artistic G.,"HEIDA, Anton",USA,Men,combined 4 events,M,Gold
+965,St Louis,1904,Gymnastics,Artistic G.,"EYSER, George",USA,Men,combined 4 events,M,Silver
+966,St Louis,1904,Gymnastics,Artistic G.,"EYSER, George",USA,Men,horizontal bar,M,Bronze
+967,St Louis,1904,Gymnastics,Artistic G.,"HEIDA, Anton",USA,Men,horizontal bar,M,Gold
+968,St Louis,1904,Gymnastics,Artistic G.,"HENNIG, Edward",USA,Men,horizontal bar,M,Gold
+969,St Louis,1904,Gymnastics,Artistic G.,"SPINNLER, Adolf",SUI,Men,individual all-round,M,Bronze
+970,St Louis,1904,Gymnastics,Artistic G.,"LENHART, Julius",USA,Men,individual all-round,M,Gold
+971,St Louis,1904,Gymnastics,Artistic G.,"WEBER, Wilhelm",GER,Men,individual all-round,M,Silver
+972,St Louis,1904,Gymnastics,Artistic G.,"DUHA, John",USA,Men,parallel bars,M,Bronze
+973,St Louis,1904,Gymnastics,Artistic G.,"EYSER, George",USA,Men,parallel bars,M,Gold
+974,St Louis,1904,Gymnastics,Artistic G.,"HEIDA, Anton",USA,Men,parallel bars,M,Silver
+975,St Louis,1904,Gymnastics,Artistic G.,"MERZ, William",USA,Men,pommel horse,M,Bronze
+976,St Louis,1904,Gymnastics,Artistic G.,"HEIDA, Anton",USA,Men,pommel horse,M,Gold
+977,St Louis,1904,Gymnastics,Artistic G.,"EYSER, George",USA,Men,pommel horse,M,Silver
+978,St Louis,1904,Gymnastics,Artistic G.,"VOIGT, Emil",USA,Men,rings,M,Bronze
+979,St Louis,1904,Gymnastics,Artistic G.,"GLASS, Hermann",USA,Men,rings,M,Gold
+980,St Louis,1904,Gymnastics,Artistic G.,"MERZ, William",USA,Men,rings,M,Silver
+981,St Louis,1904,Gymnastics,Artistic G.,"VOIGT, Emil",USA,Men,rope climbing,M,Bronze
+982,St Louis,1904,Gymnastics,Artistic G.,"EYSER, George",USA,Men,rope climbing,M,Gold
+983,St Louis,1904,Gymnastics,Artistic G.,"KRAUSE, Charles",USA,Men,rope climbing,M,Silver
+984,St Louis,1904,Gymnastics,Artistic G.,"DUHA, John",USA,Men,team competition,M,Bronze
+985,St Louis,1904,Gymnastics,Artistic G.,"KRAUSE, Charles",USA,Men,team competition,M,Bronze
+986,St Louis,1904,Gymnastics,Artistic G.,"MAYACK, Robert",USA,Men,team competition,M,Bronze
+987,St Louis,1904,Gymnastics,Artistic G.,"MEYER, George",USA,Men,team competition,M,Bronze
+988,St Louis,1904,Gymnastics,Artistic G.,"SCHUSTER, Philipp",USA,Men,team competition,M,Bronze
+989,St Louis,1904,Gymnastics,Artistic G.,"SIEGLER, Edward",USA,Men,team competition,M,Bronze
+990,St Louis,1904,Gymnastics,Artistic G.,"GRIEB, John",USA,Men,team competition,M,Gold
+991,St Louis,1904,Gymnastics,Artistic G.,"HEIDA, Anton",USA,Men,team competition,M,Gold
+992,St Louis,1904,Gymnastics,Artistic G.,"HESS, Max",USA,Men,team competition,M,Gold
+993,St Louis,1904,Gymnastics,Artistic G.,"KASSEL, Philipp",USA,Men,team competition,M,Gold
+994,St Louis,1904,Gymnastics,Artistic G.,"LENHART, Julius",USA,Men,team competition,M,Gold
+995,St Louis,1904,Gymnastics,Artistic G.,"RECKEWEG, Ernst",USA,Men,team competition,M,Gold
+996,St Louis,1904,Gymnastics,Artistic G.,"BEYER, Emil",USA,Men,team competition,M,Silver
+997,St Louis,1904,Gymnastics,Artistic G.,"BISSINGER, John",USA,Men,team competition,M,Silver
+998,St Louis,1904,Gymnastics,Artistic G.,"ROSENKAMPF, Arthur",USA,Men,team competition,M,Silver
+999,St Louis,1904,Gymnastics,Artistic G.,"SCHMITZ, Julian",USA,Men,team competition,M,Silver
+1000,St Louis,1904,Gymnastics,Artistic G.,"STEFFEN, Otto",USA,Men,team competition,M,Silver
+1001,St Louis,1904,Gymnastics,Artistic G.,"WOLF, Max",USA,Men,team competition,M,Silver
+1002,St Louis,1904,Gymnastics,Artistic G.,"MERZ, William",USA,Men,vault,M,Bronze
+1003,St Louis,1904,Gymnastics,Artistic G.,"EYSER, George",USA,Men,vault,M,Gold
+1004,St Louis,1904,Gymnastics,Artistic G.,"HEIDA, Anton",USA,Men,vault,M,Gold
+1005,St Louis,1904,Lacrosse,Lacrosse,"BLANCHARD, Elie",CAN,Men,lacrosse,M,Gold
+1006,St Louis,1904,Lacrosse,Lacrosse,"BRENNAUGH, W.",CAN,Men,lacrosse,M,Gold
+1007,St Louis,1904,Lacrosse,Lacrosse,"BRETZ, George",CAN,Men,lacrosse,M,Gold
+1008,St Louis,1904,Lacrosse,Lacrosse,"BURNS, William Laurie",CAN,Men,lacrosse,M,Gold
+1009,St Louis,1904,Lacrosse,Lacrosse,"CATTANACH, George",CAN,Men,lacrosse,M,Gold
+1010,St Louis,1904,Lacrosse,Lacrosse,"CLOUTIER, George",CAN,Men,lacrosse,M,Gold
+1011,St Louis,1904,Lacrosse,Lacrosse,"COWAN, Sandy",CAN,Men,lacrosse,M,Gold
+1012,St Louis,1904,Lacrosse,Lacrosse,"FLETT, Jack",CAN,Men,lacrosse,M,Gold
+1013,St Louis,1904,Lacrosse,Lacrosse,"JAMIESON, Benjamin",CAN,Men,lacrosse,M,Gold
+1014,St Louis,1904,Lacrosse,Lacrosse,"LAIDLAW, Hilliard",CAN,Men,lacrosse,M,Gold
+1015,St Louis,1904,Lacrosse,Lacrosse,"LYLE, H.",CAN,Men,lacrosse,M,Gold
+1016,St Louis,1904,Lacrosse,Lacrosse,"ORRIS, William F.L.",CAN,Men,lacrosse,M,Gold
+1017,St Louis,1904,Lacrosse,Lacrosse,"PENTLAND, L.H.",CAN,Men,lacrosse,M,Gold
+1018,St Louis,1904,Lacrosse,Lacrosse,"CROGAN, Patrick",USA,Men,lacrosse,M,Silver
+1019,St Louis,1904,Lacrosse,Lacrosse,"DOWLING, J.W.",USA,Men,lacrosse,M,Silver
+1020,St Louis,1904,Lacrosse,Lacrosse,GIBSON,USA,Men,lacrosse,M,Silver
+1021,St Louis,1904,Lacrosse,Lacrosse,HESS,USA,Men,lacrosse,M,Silver
+1022,St Louis,1904,Lacrosse,Lacrosse,"HUNTER, Robert Edward",USA,Men,lacrosse,M,Silver
+1023,St Louis,1904,Lacrosse,Lacrosse,LEHMAN,USA,Men,lacrosse,M,Silver
+1024,St Louis,1904,Lacrosse,Lacrosse,MURPHY,USA,Men,lacrosse,M,Silver
+1025,St Louis,1904,Lacrosse,Lacrosse,PARTRIDGE,USA,Men,lacrosse,M,Silver
+1026,St Louis,1904,Lacrosse,Lacrosse,"PASSMORE, George",USA,Men,lacrosse,M,Silver
+1027,St Louis,1904,Lacrosse,Lacrosse,SULLIVAN,USA,Men,lacrosse,M,Silver
+1028,St Louis,1904,Lacrosse,Lacrosse,"VENN, A.H.",USA,Men,lacrosse,M,Silver
+1029,St Louis,1904,Lacrosse,Lacrosse,WOODS,USA,Men,lacrosse,M,Silver
+1030,St Louis,1904,Lacrosse,Lacrosse,YOUNG,USA,Men,lacrosse,M,Silver
+1031,St Louis,1904,Roque,Roque,"BROWN, Charles",USA,Men,individual,M,Bronze
+1032,St Louis,1904,Roque,Roque,"JACOBUS, Charles",USA,Men,individual,M,Gold
+1033,St Louis,1904,Roque,Roque,"STREETER, Smith O.",USA,Men,individual,M,Silver
+1034,St Louis,1904,Rowing,Rowing,"BUERGER, Joseph",USA,Men,coxless pair (2-),M,Bronze
+1035,St Louis,1904,Rowing,Rowing,"JOACHIM, John",USA,Men,coxless pair (2-),M,Bronze
+1036,St Louis,1904,Rowing,Rowing,"FARNAM, Robert",USA,Men,coxless pair (2-),M,Gold
+1037,St Louis,1904,Rowing,Rowing,"RYAN, Joseph",USA,Men,coxless pair (2-),M,Gold
+1038,St Louis,1904,Rowing,Rowing,"MULCAHY, John J.F.",USA,Men,coxless pair (2-),M,Silver
+1039,St Louis,1904,Rowing,Rowing,"VARLEY, William",USA,Men,coxless pair (2-),M,Silver
+1040,St Louis,1904,Rowing,Rowing,"RAVANACK, Joseph",USA,Men,double sculls (2x),M,Bronze
+1041,St Louis,1904,Rowing,Rowing,"WELLS, John",USA,Men,double sculls (2x),M,Bronze
+1042,St Louis,1904,Rowing,Rowing,"MULCAHY, John J.F.",USA,Men,double sculls (2x),M,Gold
+1043,St Louis,1904,Rowing,Rowing,"VARLEY, William",USA,Men,double sculls (2x),M,Gold
+1044,St Louis,1904,Rowing,Rowing,"HOBEN, John Grey",USA,Men,double sculls (2x),M,Silver
+1045,St Louis,1904,Rowing,Rowing,"MCLOUGHLIN, James",USA,Men,double sculls (2x),M,Silver
+1046,St Louis,1904,Rowing,Rowing,"ABELL, Louis",USA,Men,eight with coxswain (8+),M,Gold
+1047,St Louis,1904,Rowing,Rowing,"ARMSTRONG, Charles E.",USA,Men,eight with coxswain (8+),M,Gold
+1048,St Louis,1904,Rowing,Rowing,"CRESSER, Frederick",USA,Men,eight with coxswain (8+),M,Gold
+1049,St Louis,1904,Rowing,Rowing,"DEMPSEY, Joseph F.",USA,Men,eight with coxswain (8+),M,Gold
+1050,St Louis,1904,Rowing,Rowing,"EXLEY, John",USA,Men,eight with coxswain (8+),M,Gold
+1051,St Louis,1904,Rowing,Rowing,"FLANIGAN, James",USA,Men,eight with coxswain (8+),M,Gold
+1052,St Louis,1904,Rowing,Rowing,"GLEASON, Michael D.",USA,Men,eight with coxswain (8+),M,Gold
+1053,St Louis,1904,Rowing,Rowing,"LOTT, Harry Hunter",USA,Men,eight with coxswain (8+),M,Gold
+1054,St Louis,1904,Rowing,Rowing,"SCHELL, Frank Reaner",USA,Men,eight with coxswain (8+),M,Gold
+1055,St Louis,1904,Rowing,Rowing,"BAILEY, Arthur B.",CAN,Men,eight with coxswain (8+),M,Silver
+1056,St Louis,1904,Rowing,Rowing,"BOYD, Philip Ewing",CAN,Men,eight with coxswain (8+),M,Silver
+1057,St Louis,1904,Rowing,Rowing,"LOUDON, Thomas Richardson",CAN,Men,eight with coxswain (8+),M,Silver
+1058,St Louis,1904,Rowing,Rowing,"MACKENZIE, Donald",CAN,Men,eight with coxswain (8+),M,Silver
+1059,St Louis,1904,Rowing,Rowing,"REIFFENSTEIN, George Patrick",CAN,Men,eight with coxswain (8+),M,Silver
+1060,St Louis,1904,Rowing,Rowing,"RICE, William",CAN,Men,eight with coxswain (8+),M,Silver
+1061,St Louis,1904,Rowing,Rowing,"STRANGE, George  M.",CAN,Men,eight with coxswain (8+),M,Silver
+1062,St Louis,1904,Rowing,Rowing,"WADSWORTH, William",CAN,Men,eight with coxswain (8+),M,Silver
+1063,St Louis,1904,Rowing,Rowing,"WRIGHT, Joseph George",CAN,Men,eight with coxswain (8+),M,Silver
+1064,St Louis,1904,Rowing,Rowing,"DUNIMERTH, Frank",USA,Men,four without coxswain (4-),M,Bronze
+1065,St Louis,1904,Rowing,Rowing,"FREITAG, John",USA,Men,four without coxswain (4-),M,Bronze
+1066,St Louis,1904,Rowing,Rowing,"HELM, Louis G.",USA,Men,four without coxswain (4-),M,Bronze
+1067,St Louis,1904,Rowing,Rowing,"VOERG, Gustav",USA,Men,four without coxswain (4-),M,Bronze
+1068,St Louis,1904,Rowing,Rowing,"DIETZ, George",USA,Men,four without coxswain (4-),M,Gold
+1069,St Louis,1904,Rowing,Rowing,"ERKER, August",USA,Men,four without coxswain (4-),M,Gold
+1070,St Louis,1904,Rowing,Rowing,"NASSE, Albert",USA,Men,four without coxswain (4-),M,Gold
+1071,St Louis,1904,Rowing,Rowing,"STOCKHOFF, Arthur",USA,Men,four without coxswain (4-),M,Gold
+1072,St Louis,1904,Rowing,Rowing,"AMAN, Charles",USA,Men,four without coxswain (4-),M,Silver
+1073,St Louis,1904,Rowing,Rowing,"BEGLEY, Michael",USA,Men,four without coxswain (4-),M,Silver
+1074,St Louis,1904,Rowing,Rowing,"FROMANACK, Martin",USA,Men,four without coxswain (4-),M,Silver
+1075,St Louis,1904,Rowing,Rowing,"SUERIG, Frederick",USA,Men,four without coxswain (4-),M,Silver
+1076,St Louis,1904,Rowing,Rowing,"TITUS, Constance",USA,Men,single sculls (1x),M,Bronze
+1077,St Louis,1904,Rowing,Rowing,"GREER, Frank",USA,Men,single sculls (1x),M,Gold
+1078,St Louis,1904,Rowing,Rowing,"JUVENAL, James",USA,Men,single sculls (1x),M,Silver
+1079,St Louis,1904,Tennis,Tennis,"GAMBLE, Clarence Olivier",USA,Men,doubles,M,Bronze
+1080,St Louis,1904,Tennis,Tennis,"WEAR, Arthur Yancey",USA,Men,doubles,M,Bronze
+1081,St Louis,1904,Tennis,Tennis,"WEAR, Joseph Walker",USA,Men,doubles,M,Bronze
+1082,St Louis,1904,Tennis,Tennis,"WEST, Allen Tarwater",USA,Men,doubles,M,Bronze
+1083,St Louis,1904,Tennis,Tennis,"LEONARD, Edgar Welch",USA,Men,doubles,M,Gold
+1084,St Louis,1904,Tennis,Tennis,"WRIGHT, Beals Coleman",USA,Men,doubles,M,Gold
+1085,St Louis,1904,Tennis,Tennis,"BELL, Alphonzo Edward",USA,Men,doubles,M,Silver
+1086,St Louis,1904,Tennis,Tennis,"LEROY, Robert",USA,Men,doubles,M,Silver
+1087,St Louis,1904,Tennis,Tennis,"BELL, Alphonzo Edward",USA,Men,singles,M,Bronze
+1088,St Louis,1904,Tennis,Tennis,"LEONARD, Edgar Welch",USA,Men,singles,M,Bronze
+1089,St Louis,1904,Tennis,Tennis,"WRIGHT, Beals Coleman",USA,Men,singles,M,Gold
+1090,St Louis,1904,Tennis,Tennis,"LEROY, Robert",USA,Men,singles,M,Silver
+1091,St Louis,1904,Tug of War,Tug of War,"FRIDE, H.",USA,Men,tug of war,M,Bronze
+1092,St Louis,1904,Tug of War,Tug of War,"HABERCORN, Charles",USA,Men,tug of war,M,Bronze
+1093,St Louis,1904,Tug of War,Tug of War,"JACOBS, H.",USA,Men,tug of war,M,Bronze
+1094,St Louis,1904,Tug of War,Tug of War,"KUNGLER, Frank",USA,Men,tug of war,M,Bronze
+1095,St Louis,1904,Tug of War,Tug of War,"THEAS, Charles",USA,Men,tug of war,M,Bronze
+1096,St Louis,1904,Tug of War,Tug of War,"FLANAGAN, Patrick",USA,Men,tug of war,M,Gold
+1097,St Louis,1904,Tug of War,Tug of War,"JOHNSON, Sydney B.",USA,Men,tug of war,M,Gold
+1098,St Louis,1904,Tug of War,Tug of War,"MAGNUSSEN, Conrad",USA,Men,tug of war,M,Gold
+1099,St Louis,1904,Tug of War,Tug of War,"OLSON, Oscar G.",USA,Men,tug of war,M,Gold
+1100,St Louis,1904,Tug of War,Tug of War,"SICLING, H.",USA,Men,tug of war,M,Gold
+1101,St Louis,1904,Tug of War,Tug of War,"BRAUN, Max",USA,Men,tug of war,M,Silver
+1102,St Louis,1904,Tug of War,Tug of War,"RODENBERGER, August",USA,Men,tug of war,M,Silver
+1103,St Louis,1904,Tug of War,Tug of War,"ROSE, Charles",USA,Men,tug of war,M,Silver
+1104,St Louis,1904,Tug of War,Tug of War,"SEILING, William",USA,Men,tug of war,M,Silver
+1105,St Louis,1904,Tug of War,Tug of War,"UPSHAW, Orrin Thomas",USA,Men,tug of war,M,Silver
+1106,St Louis,1904,Weightlifting,Weightlifting,"KUNGLER, Frank",USA,Men,all-around Dumbbell contest,M,Bronze
+1107,St Louis,1904,Weightlifting,Weightlifting,"OSTHOFF, Oscar Paul",USA,Men,all-around Dumbbell contest,M,Gold
+1108,St Louis,1904,Weightlifting,Weightlifting,"WINTERS, Frederick",USA,Men,all-around Dumbbell contest,M,Silver
+1109,St Louis,1904,Weightlifting,Weightlifting,"KUNGLER, Frank",USA,Men,heavyweight - two hand lift,M,Bronze
+1110,St Louis,1904,Weightlifting,Weightlifting,"KAKOUSIS, Perikles",GRE,Men,heavyweight - two hand lift,M,Gold
+1111,St Louis,1904,Weightlifting,Weightlifting,"OSTHOFF, Oscar Paul",USA,Men,heavyweight - two hand lift,M,Silver
+1112,St Louis,1904,Wrestling,Wrestling Free.,"THIEFENTHALER, Gustav",USA,Men,- 47.6kg (light-flyweight),M,Bronze
+1113,St Louis,1904,Wrestling,Wrestling Free.,"CURRY, Robert",USA,Men,- 47.6kg (light-flyweight),M,Gold
+1114,St Louis,1904,Wrestling,Wrestling Free.,"HEIN, John",USA,Men,- 47.6kg (light-flyweight),M,Silver
+1115,St Louis,1904,Wrestling,Wrestling Free.,"WARMBOLD, Frederick Charles",USA,Men,+ 71.67kg (heavyweight),M,Bronze
+1116,St Louis,1904,Wrestling,Wrestling Free.,"HANSEN, Bernhuff",USA,Men,+ 71.67kg (heavyweight),M,Gold
+1117,St Louis,1904,Wrestling,Wrestling Free.,"KUNGLER, Frank",USA,Men,+ 71.67kg (heavyweight),M,Silver
+1118,St Louis,1904,Wrestling,Wrestling Free.,"NELSON, William",USA,Men,47.6 - 52.16kg (flyweight),M,Bronze
+1119,St Louis,1904,Wrestling,Wrestling Free.,"MEHNERT, George Nicholas",USA,Men,47.6 - 52.16kg (flyweight),M,Gold
+1120,St Louis,1904,Wrestling,Wrestling Free.,"BAUER, Gustav",USA,Men,47.6 - 52.16kg (flyweight),M,Silver
+1121,St Louis,1904,Wrestling,Wrestling Free.,"STREBLER, Zenon B.",USA,Men,52.16 - 56.7kg (bantamweight),M,Bronze
+1122,St Louis,1904,Wrestling,Wrestling Free.,"NIFLOT, Isidor",USA,Men,52.16 - 56.7kg (bantamweight),M,Gold
+1123,St Louis,1904,Wrestling,Wrestling Free.,"WESTER, August",USA,Men,52.16 - 56.7kg (bantamweight),M,Silver
+1124,St Louis,1904,Wrestling,Wrestling Free.,"CLAPPER, Charles E.",USA,Men,56.7 - 61.23kg (featherweight),M,Bronze
+1125,St Louis,1904,Wrestling,Wrestling Free.,"BRADSHAW, Benjamin Joseph",USA,Men,56.7 - 61.23kg (featherweight),M,Gold
+1126,St Louis,1904,Wrestling,Wrestling Free.,"MCLEAR, Theodore",USA,Men,56.7 - 61.23kg (featherweight),M,Silver
+1127,St Louis,1904,Wrestling,Wrestling Free.,"ZIRKEL, Albert",USA,Men,61.23 - 65.77kg (lightweight),M,Bronze
+1128,St Louis,1904,Wrestling,Wrestling Free.,"ROEHM, Otto F.",USA,Men,61.23 - 65.77kg (lightweight),M,Gold
+1129,St Louis,1904,Wrestling,Wrestling Free.,"TESING, Rudolph",USA,Men,61.23 - 65.77kg (lightweight),M,Silver
+1130,St Louis,1904,Wrestling,Wrestling Free.,"WINHOLTZ, Jerry",USA,Men,65.77 - 71.67kg (welterweight),M,Bronze
+1131,St Louis,1904,Wrestling,Wrestling Free.,"ERICKSEN, Charles",USA,Men,65.77 - 71.67kg (welterweight),M,Gold
+1132,St Louis,1904,Wrestling,Wrestling Free.,"BECKMANN, William",USA,Men,65.77 - 71.67kg (welterweight),M,Silver

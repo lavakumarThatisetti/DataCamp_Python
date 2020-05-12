@@ -1,0 +1,152 @@
+,City,Edition,Sport,Discipline,Athlete,NOC,Gender,Event,Event_gender,Medal
+0,Athens,1896,Aquatics,Swimming,"HAJOS, Alfred",HUN,Men,100m freestyle,M,Gold
+1,Athens,1896,Aquatics,Swimming,"HERSCHMANN, Otto",AUT,Men,100m freestyle,M,Silver
+2,Athens,1896,Aquatics,Swimming,"DRIVAS, Dimitrios",GRE,Men,100m freestyle for sailors,M,Bronze
+3,Athens,1896,Aquatics,Swimming,"MALOKINIS, Ioannis",GRE,Men,100m freestyle for sailors,M,Gold
+4,Athens,1896,Aquatics,Swimming,"CHASAPIS, Spiridon",GRE,Men,100m freestyle for sailors,M,Silver
+5,Athens,1896,Aquatics,Swimming,"CHOROPHAS, Efstathios",GRE,Men,1200m freestyle,M,Bronze
+6,Athens,1896,Aquatics,Swimming,"HAJOS, Alfred",HUN,Men,1200m freestyle,M,Gold
+7,Athens,1896,Aquatics,Swimming,"ANDREOU, Joannis",GRE,Men,1200m freestyle,M,Silver
+8,Athens,1896,Aquatics,Swimming,"CHOROPHAS, Efstathios",GRE,Men,400m freestyle,M,Bronze
+9,Athens,1896,Aquatics,Swimming,"NEUMANN, Paul",AUT,Men,400m freestyle,M,Gold
+10,Athens,1896,Aquatics,Swimming,"PEPANOS, Antonios",GRE,Men,400m freestyle,M,Silver
+11,Athens,1896,Athletics,Athletics,"LANE, Francis",USA,Men,100m,M,Bronze
+12,Athens,1896,Athletics,Athletics,"SZOKOLYI, Alajos",HUN,Men,100m,M,Bronze
+13,Athens,1896,Athletics,Athletics,"BURKE, Thomas",USA,Men,100m,M,Gold
+14,Athens,1896,Athletics,Athletics,"HOFMANN, Fritz",GER,Men,100m,M,Silver
+15,Athens,1896,Athletics,Athletics,"CURTIS, Thomas",USA,Men,110m hurdles,M,Gold
+16,Athens,1896,Athletics,Athletics,"GOULDING, Grantley",GBR,Men,110m hurdles,M,Silver
+17,Athens,1896,Athletics,Athletics,"LERMUSIAUX, Albin",FRA,Men,1500m,M,Bronze
+18,Athens,1896,Athletics,Athletics,"FLACK, Edwin",AUS,Men,1500m,M,Gold
+19,Athens,1896,Athletics,Athletics,"BLAKE, Arthur",USA,Men,1500m,M,Silver
+20,Athens,1896,Athletics,Athletics,"GMELIN, Charles",GBR,Men,400m,M,Bronze
+21,Athens,1896,Athletics,Athletics,"BURKE, Thomas",USA,Men,400m,M,Gold
+22,Athens,1896,Athletics,Athletics,"JAMISON, Herbert",USA,Men,400m,M,Silver
+23,Athens,1896,Athletics,Athletics,"GOLEMIS, Dimitrios",GRE,Men,800m,M,Bronze
+24,Athens,1896,Athletics,Athletics,"FLACK, Edwin",AUS,Men,800m,M,Gold
+25,Athens,1896,Athletics,Athletics,"DANI, Nandor",HUN,Men,800m,M,Silver
+26,Athens,1896,Athletics,Athletics,"VERSIS, Sotirios",GRE,Men,discus throw,M,Bronze
+27,Athens,1896,Athletics,Athletics,"GARRETT, Robert",USA,Men,discus throw,M,Gold
+28,Athens,1896,Athletics,Athletics,"PARASKEVOPOULOS, Panagiotis",GRE,Men,discus throw,M,Silver
+29,Athens,1896,Athletics,Athletics,"CLARK, Ellery",USA,Men,high jump,M,Gold
+30,Athens,1896,Athletics,Athletics,"CONNOLLY, James",USA,Men,high jump,M,Silver
+31,Athens,1896,Athletics,Athletics,"GARRETT, Robert",USA,Men,high jump,M,Silver
+32,Athens,1896,Athletics,Athletics,"CONNOLLY, James",USA,Men,long jump,M,Bronze
+33,Athens,1896,Athletics,Athletics,"CLARK, Ellery",USA,Men,long jump,M,Gold
+34,Athens,1896,Athletics,Athletics,"GARRETT, Robert",USA,Men,long jump,M,Silver
+35,Athens,1896,Athletics,Athletics,"KELLNER, Gyula",HUN,Men,marathon,M,Bronze
+36,Athens,1896,Athletics,Athletics,"LOUIS, Spyridon",GRE,Men,marathon,M,Gold
+37,Athens,1896,Athletics,Athletics,"VASILAKOS, Kharilaos",GRE,Men,marathon,M,Silver
+38,Athens,1896,Athletics,Athletics,"DAMASKOS, Evangelos",GRE,Men,pole vault,M,Bronze
+39,Athens,1896,Athletics,Athletics,"THEODOROPOULOS, Ioannis",GRE,Men,pole vault,M,Bronze
+40,Athens,1896,Athletics,Athletics,"HOYT, William Welles",USA,Men,pole vault,M,Gold
+41,Athens,1896,Athletics,Athletics,"TYLER, Albert",USA,Men,pole vault,M,Silver
+42,Athens,1896,Athletics,Athletics,"PAPASIDERIS, Georgios",GRE,Men,shot put,M,Bronze
+43,Athens,1896,Athletics,Athletics,"GARRETT, Robert",USA,Men,shot put,M,Gold
+44,Athens,1896,Athletics,Athletics,"GOUSKOS, Miltiadis",GRE,Men,shot put,M,Silver
+45,Athens,1896,Athletics,Athletics,"PERSAKIS, Ioannis",GRE,Men,triple jump,M,Bronze
+46,Athens,1896,Athletics,Athletics,"CONNOLLY, James",USA,Men,triple jump,M,Gold
+47,Athens,1896,Athletics,Athletics,"TUFFERI, Alexandre",FRA,Men,triple jump,M,Silver
+48,Athens,1896,Cycling,Cycling Road,"BATTEL, Edward",GBR,Men,individual road race,M,Bronze
+49,Athens,1896,Cycling,Cycling Road,"KONSTANTINIDIS, Aristidis",GRE,Men,individual road race,M,Gold
+50,Athens,1896,Cycling,Cycling Road,"GOEDRICH, August",GER,Men,individual road race,M,Silver
+51,Athens,1896,Cycling,Cycling Track,"FLAMENG, Léon",FRA,Men,100km,M,Gold
+52,Athens,1896,Cycling,Cycling Track,"KOLETTIS, Georgios",GRE,Men,100km,M,Silver
+53,Athens,1896,Cycling,Cycling Track,"SCHMAL, Adolf",AUT,Men,10km,M,Bronze
+54,Athens,1896,Cycling,Cycling Track,"MASSON, Paul",FRA,Men,10km,M,Gold
+55,Athens,1896,Cycling,Cycling Track,"FLAMENG, Léon",FRA,Men,10km,M,Silver
+56,Athens,1896,Cycling,Cycling Track,"SCHMAL, Adolf",AUT,Men,12-hour race,M,Gold
+57,Athens,1896,Cycling,Cycling Track,"KEEPING, Frank",GBR,Men,12-hour race,M,Silver
+58,Athens,1896,Cycling,Cycling Track,"SCHMAL, Adolf",AUT,Men,1km time trial,M,Bronze
+59,Athens,1896,Cycling,Cycling Track,"MASSON, Paul",FRA,Men,1km time trial,M,Gold
+60,Athens,1896,Cycling,Cycling Track,"NIKOLOPOULOS, Stamatios",GRE,Men,1km time trial,M,Silver
+61,Athens,1896,Cycling,Cycling Track,"FLAMENG, Léon",FRA,Men,Sprint indivual,M,Bronze
+62,Athens,1896,Cycling,Cycling Track,"MASSON, Paul",FRA,Men,Sprint indivual,M,Gold
+63,Athens,1896,Cycling,Cycling Track,"NIKOLOPOULOS, Stamatios",GRE,Men,Sprint indivual,M,Silver
+64,Athens,1896,Fencing,Fencing,"PIERRAKOS-MAVROMICHALIS, Perikles",GRE,Men,foil individual,M,Bronze
+65,Athens,1896,Fencing,Fencing,"GRAVELOTTE, Eugène-Henri",FRA,Men,foil individual,M,Gold
+66,Athens,1896,Fencing,Fencing,"CALLOT, Henri",FRA,Men,foil individual,M,Silver
+67,Athens,1896,Fencing,Fencing,"PYRGOS, Leonidas",GRE,Men,"foil, masters",M,Gold
+68,Athens,1896,Fencing,Fencing,"PERRONNET, Maurice",FRA,Men,"foil, masters",M,Silver
+69,Athens,1896,Fencing,Fencing,"NIELSEN, Holger",DEN,Men,sabre individual,M,Bronze
+70,Athens,1896,Fencing,Fencing,"GEORGIADIS, Ioannis",GRE,Men,sabre individual,M,Gold
+71,Athens,1896,Fencing,Fencing,"KARAKALOS, Telemachos",GRE,Men,sabre individual,M,Silver
+72,Athens,1896,Gymnastics,Artistic G.,"WEINGÄRTNER, Hermann",GER,Men,horizontal bar,M,Gold
+73,Athens,1896,Gymnastics,Artistic G.,"FLATOW, Alfred",GER,Men,horizontal bar,M,Silver
+74,Athens,1896,Gymnastics,Artistic G.,"FLATOW, Alfred",GER,Men,parallel bars,M,Gold
+75,Athens,1896,Gymnastics,Artistic G.,"ZUTTER, Louis",SUI,Men,parallel bars,M,Silver
+76,Athens,1896,Gymnastics,Artistic G.,"ZUTTER, Louis",SUI,Men,pommel horse,M,Gold
+77,Athens,1896,Gymnastics,Artistic G.,"WEINGÄRTNER, Hermann",GER,Men,pommel horse,M,Silver
+78,Athens,1896,Gymnastics,Artistic G.,"PERSAKIS, Petros",GRE,Men,rings,M,Bronze
+79,Athens,1896,Gymnastics,Artistic G.,"MITROPOULOS, Ioannis",GRE,Men,rings,M,Gold
+80,Athens,1896,Gymnastics,Artistic G.,"WEINGÄRTNER, Hermann",GER,Men,rings,M,Silver
+81,Athens,1896,Gymnastics,Artistic G.,"HOFMANN, Fritz",GER,Men,rope climbing,M,Bronze
+82,Athens,1896,Gymnastics,Artistic G.,"ANDRIAKOPOULOS, Nicolaos",GRE,Men,rope climbing,M,Gold
+83,Athens,1896,Gymnastics,Artistic G.,"XENAKIS, Thomasios",GRE,Men,rope climbing,M,Silver
+84,Athens,1896,Gymnastics,Artistic G.,"BÖCKER, Konrad",GER,Men,"team, horizontal bar",M,Gold
+85,Athens,1896,Gymnastics,Artistic G.,"FLATOW, Alfred",GER,Men,"team, horizontal bar",M,Gold
+86,Athens,1896,Gymnastics,Artistic G.,"FLATOW, Gustav Felix",GER,Men,"team, horizontal bar",M,Gold
+87,Athens,1896,Gymnastics,Artistic G.,"HILMAR, Georg",GER,Men,"team, horizontal bar",M,Gold
+88,Athens,1896,Gymnastics,Artistic G.,"HOFMANN, Fritz",GER,Men,"team, horizontal bar",M,Gold
+89,Athens,1896,Gymnastics,Artistic G.,"MANTEUFFEL, Fritz",GER,Men,"team, horizontal bar",M,Gold
+90,Athens,1896,Gymnastics,Artistic G.,"NEUKIRCH, Karl",GER,Men,"team, horizontal bar",M,Gold
+91,Athens,1896,Gymnastics,Artistic G.,"RÖSTEL, Richard",GER,Men,"team, horizontal bar",M,Gold
+92,Athens,1896,Gymnastics,Artistic G.,"SCHUFT, Gustav",GER,Men,"team, horizontal bar",M,Gold
+93,Athens,1896,Gymnastics,Artistic G.,"SCHUMANN, Carl",GER,Men,"team, horizontal bar",M,Gold
+94,Athens,1896,Gymnastics,Artistic G.,"WEINGÄRTNER, Hermann",GER,Men,"team, horizontal bar",M,Gold
+95,Athens,1896,Gymnastics,Artistic G.,"CHRYSAPHIS, Ioannis",GRE,Men,"team, parallel bars",M,Bronze
+96,Athens,1896,Gymnastics,Artistic G.,"KARVELAS, Phillippos",GRE,Men,"team, parallel bars",M,Bronze
+97,Athens,1896,Gymnastics,Artistic G.,"LOUNDRAS, Dimitrios",GRE,Men,"team, parallel bars",M,Bronze
+98,Athens,1896,Gymnastics,Artistic G.,"MITROPOULOS, Ioannis",GRE,Men,"team, parallel bars",M,Bronze
+99,Athens,1896,Gymnastics,Artistic G.,"BÖCKER, Konrad",GER,Men,"team, parallel bars",M,Gold
+100,Athens,1896,Gymnastics,Artistic G.,"FLATOW, Alfred",GER,Men,"team, parallel bars",M,Gold
+101,Athens,1896,Gymnastics,Artistic G.,"FLATOW, Gustav Felix",GER,Men,"team, parallel bars",M,Gold
+102,Athens,1896,Gymnastics,Artistic G.,"HILMAR, Georg",GER,Men,"team, parallel bars",M,Gold
+103,Athens,1896,Gymnastics,Artistic G.,"HOFMANN, Fritz",GER,Men,"team, parallel bars",M,Gold
+104,Athens,1896,Gymnastics,Artistic G.,"MANTEUFFEL, Fritz",GER,Men,"team, parallel bars",M,Gold
+105,Athens,1896,Gymnastics,Artistic G.,"NEUKIRCH, Karl",GER,Men,"team, parallel bars",M,Gold
+106,Athens,1896,Gymnastics,Artistic G.,"RÖSTEL, Richard",GER,Men,"team, parallel bars",M,Gold
+107,Athens,1896,Gymnastics,Artistic G.,"SCHUFT, Gustav",GER,Men,"team, parallel bars",M,Gold
+108,Athens,1896,Gymnastics,Artistic G.,"SCHUMANN, Carl",GER,Men,"team, parallel bars",M,Gold
+109,Athens,1896,Gymnastics,Artistic G.,"WEINGÄRTNER, Hermann",GER,Men,"team, parallel bars",M,Gold
+110,Athens,1896,Gymnastics,Artistic G.,"ANDRIAKOPOULOS, Nicolaos",GRE,Men,"team, parallel bars",M,Silver
+111,Athens,1896,Gymnastics,Artistic G.,"ATHANASOPOULOS, Spyros",GRE,Men,"team, parallel bars",M,Silver
+112,Athens,1896,Gymnastics,Artistic G.,"PERSAKIS, Petros",GRE,Men,"team, parallel bars",M,Silver
+113,Athens,1896,Gymnastics,Artistic G.,"XENAKIS, Thomasios",GRE,Men,"team, parallel bars",M,Silver
+114,Athens,1896,Gymnastics,Artistic G.,"WEINGÄRTNER, Hermann",GER,Men,vault,M,Bronze
+115,Athens,1896,Gymnastics,Artistic G.,"SCHUMANN, Carl",GER,Men,vault,M,Gold
+116,Athens,1896,Gymnastics,Artistic G.,"ZUTTER, Louis",SUI,Men,vault,M,Silver
+117,Athens,1896,Shooting,Shooting,"MORAKIS, Nikolaos",GRE,Men,25m army pistol,M,Bronze
+118,Athens,1896,Shooting,Shooting,"PAINE, John",USA,Men,25m army pistol,M,Gold
+119,Athens,1896,Shooting,Shooting,"PAINE, Sumner",USA,Men,25m army pistol,M,Silver
+120,Athens,1896,Shooting,Shooting,"NIELSEN, Holger",DEN,Men,25m rapid fire pistol (60 shots),M,Bronze
+121,Athens,1896,Shooting,Shooting,"PHRANGOUDIS, Joannis",GRE,Men,25m rapid fire pistol (60 shots),M,Gold
+122,Athens,1896,Shooting,Shooting,"ORPHANIDIS, Georgios",GRE,Men,25m rapid fire pistol (60 shots),M,Silver
+123,Athens,1896,Shooting,Shooting,"PHRANGOUDIS, Joannis",GRE,Men,50m pistol (60 shots),M,Bronze
+124,Athens,1896,Shooting,Shooting,"PAINE, Sumner",USA,Men,50m pistol (60 shots),M,Gold
+125,Athens,1896,Shooting,Shooting,"NIELSEN, Holger",DEN,Men,50m pistol (60 shots),M,Silver
+126,Athens,1896,Shooting,Shooting,"TRIKUPIS, Nicolaos",GRE,Men,"army rifle, 200m",M,Bronze
+127,Athens,1896,Shooting,Shooting,"KARASEVDAS, Pantelis",GRE,Men,"army rifle, 200m",M,Gold
+128,Athens,1896,Shooting,Shooting,"PAVLIDIS, Pavlos",GRE,Men,"army rifle, 200m",M,Silver
+129,Athens,1896,Shooting,Shooting,"JENSEN, Viggo",DEN,Men,"army rifle, 300m",M,Bronze
+130,Athens,1896,Shooting,Shooting,"ORPHANIDIS, Georgios",GRE,Men,"army rifle, 300m",M,Gold
+131,Athens,1896,Shooting,Shooting,"PHRANGOUDIS, Joannis",GRE,Men,"army rifle, 300m",M,Silver
+132,Athens,1896,Tennis,Tennis,"FLACK, Edwin",ZZX,Men,doubles,M,Bronze
+133,Athens,1896,Tennis,Tennis,"ROBERTSON, George Stuart",ZZX,Men,doubles,M,Bronze
+134,Athens,1896,Tennis,Tennis,"BOLAND, John",ZZX,Men,doubles,M,Gold
+135,Athens,1896,Tennis,Tennis,"TRAUN, Friedrich",ZZX,Men,doubles,M,Gold
+136,Athens,1896,Tennis,Tennis,"KASDAGLIS, Dionysios",ZZX,Men,doubles,M,Silver
+137,Athens,1896,Tennis,Tennis,"PETROKOKKINOS, Demetrios",ZZX,Men,doubles,M,Silver
+138,Athens,1896,Tennis,Tennis,"PASPATIS, Konstantinos",GRE,Men,singles,M,Bronze
+139,Athens,1896,Tennis,Tennis,"TAPAVICZA, Momcsillo",HUN,Men,singles,M,Bronze
+140,Athens,1896,Tennis,Tennis,"BOLAND, John",GBR,Men,singles,M,Gold
+141,Athens,1896,Tennis,Tennis,"KASDAGLIS, Dionysios",GRE,Men,singles,M,Silver
+142,Athens,1896,Weightlifting,Weightlifting,"NIKOLOPOULOS, Alexandros",GRE,Men,heavyweight - one hand lift,M,Bronze
+143,Athens,1896,Weightlifting,Weightlifting,"ELLIOTT, Launceston",GBR,Men,heavyweight - one hand lift,M,Gold
+144,Athens,1896,Weightlifting,Weightlifting,"JENSEN, Viggo",DEN,Men,heavyweight - one hand lift,M,Silver
+145,Athens,1896,Weightlifting,Weightlifting,"VERSIS, Sotirios",GRE,Men,heavyweight - two hand lift,M,Bronze
+146,Athens,1896,Weightlifting,Weightlifting,"JENSEN, Viggo",DEN,Men,heavyweight - two hand lift,M,Gold
+147,Athens,1896,Weightlifting,Weightlifting,"ELLIOTT, Launceston",GBR,Men,heavyweight - two hand lift,M,Silver
+148,Athens,1896,Wrestling,Wrestling Gre-R,"CHRISTOPOULOS, Stephanos",GRE,Men,open event,M,Bronze
+149,Athens,1896,Wrestling,Wrestling Gre-R,"SCHUMANN, Carl",GER,Men,open event,M,Gold
+150,Athens,1896,Wrestling,Wrestling Gre-R,"TSITAS, Georgios",GRE,Men,open event,M,Silver

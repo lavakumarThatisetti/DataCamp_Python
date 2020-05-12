@@ -1,0 +1,711 @@
+,City,Edition,Sport,Discipline,Athlete,NOC,Gender,Event,Event_gender,Medal
+5004,Amsterdam,1928,Aquatics,Diving,"GALITZEN, Michael Riley",USA,Men,10m platform,M,Bronze
+5005,Amsterdam,1928,Aquatics,Diving,"DESJARDINS, Ulise Joseph ""Peter""",USA,Men,10m platform,M,Gold
+5006,Amsterdam,1928,Aquatics,Diving,"SIMAIKA, Farid",EGY,Men,10m platform,M,Silver
+5007,Amsterdam,1928,Aquatics,Diving,"SJÖQVIST, Laura",SWE,Women,10m platform,W,Bronze
+5008,Amsterdam,1928,Aquatics,Diving,"BECKER-PINKSTON, Elizabeth",USA,Women,10m platform,W,Gold
+5009,Amsterdam,1928,Aquatics,Diving,"COLEMAN, Georgia V.",USA,Women,10m platform,W,Silver
+5010,Amsterdam,1928,Aquatics,Diving,"SIMAIKA, Farid",EGY,Men,3m springboard,M,Bronze
+5011,Amsterdam,1928,Aquatics,Diving,"DESJARDINS, Ulise Joseph ""Peter""",USA,Men,3m springboard,M,Gold
+5012,Amsterdam,1928,Aquatics,Diving,"GALITZEN, Michael Riley",USA,Men,3m springboard,M,Silver
+5013,Amsterdam,1928,Aquatics,Diving,"COLEMAN, Georgia V.",USA,Women,3m springboard,W,Bronze
+5014,Amsterdam,1928,Aquatics,Diving,"MEANY, Helen",USA,Women,3m springboard,W,Gold
+5015,Amsterdam,1928,Aquatics,Diving,"POYNTON-HILL, Dorothy",USA,Women,3m springboard,W,Silver
+5016,Amsterdam,1928,Aquatics,Swimming,"WYATT, Paul",USA,Men,100m backstroke,M,Bronze
+5017,Amsterdam,1928,Aquatics,Swimming,"KOJAC, George Harold",USA,Men,100m backstroke,M,Gold
+5018,Amsterdam,1928,Aquatics,Swimming,"LAUFER, Walter",USA,Men,100m backstroke,M,Silver
+5019,Amsterdam,1928,Aquatics,Swimming,"COOPER, Margaret Joyce",GBR,Women,100m backstroke,W,Bronze
+5020,Amsterdam,1928,Aquatics,Swimming,"BRAUN, Maria Johanna",NED,Women,100m backstroke,W,Gold
+5021,Amsterdam,1928,Aquatics,Swimming,"KING, Ellen Elizabeth",GBR,Women,100m backstroke,W,Silver
+5022,Amsterdam,1928,Aquatics,Swimming,"TAKAISHI, Katsuo",JPN,Men,100m freestyle,M,Bronze
+5023,Amsterdam,1928,Aquatics,Swimming,"WEISSMULLER, Johnny",USA,Men,100m freestyle,M,Gold
+5024,Amsterdam,1928,Aquatics,Swimming,"BARANY, Istvan",HUN,Men,100m freestyle,M,Silver
+5025,Amsterdam,1928,Aquatics,Swimming,"COOPER, Margaret Joyce",GBR,Women,100m freestyle,W,Bronze
+5026,Amsterdam,1928,Aquatics,Swimming,"OSIPOWICH, Albina Lucy",USA,Women,100m freestyle,W,Gold
+5027,Amsterdam,1928,Aquatics,Swimming,"SAVILLE, Eleanor",USA,Women,100m freestyle,W,Silver
+5028,Amsterdam,1928,Aquatics,Swimming,"CRABBE, Clarence",USA,Men,1500m freestyle,M,Bronze
+5029,Amsterdam,1928,Aquatics,Swimming,"BORG, Arne",SWE,Men,1500m freestyle,M,Gold
+5030,Amsterdam,1928,Aquatics,Swimming,"CHARLTON, Andrew",AUS,Men,1500m freestyle,M,Silver
+5031,Amsterdam,1928,Aquatics,Swimming,"YLDEFONSO, Teofilo",PHI,Men,200m breaststroke,M,Bronze
+5032,Amsterdam,1928,Aquatics,Swimming,"TSURUTA, Yoshiyuki",JPN,Men,200m breaststroke,M,Gold
+5033,Amsterdam,1928,Aquatics,Swimming,"RADEMACHER, Erich",GER,Men,200m breaststroke,M,Silver
+5034,Amsterdam,1928,Aquatics,Swimming,"MÜHE, Charlotte",GER,Women,200m breaststroke,W,Bronze
+5035,Amsterdam,1928,Aquatics,Swimming,"SCHRADER, Hilde",GER,Women,200m breaststroke,W,Gold
+5036,Amsterdam,1928,Aquatics,Swimming,"BARON, Mietje",NED,Women,200m breaststroke,W,Silver
+5037,Amsterdam,1928,Aquatics,Swimming,"BORG, Arne",SWE,Men,400m freestyle,M,Bronze
+5038,Amsterdam,1928,Aquatics,Swimming,"ZORRILLA, Victoriano",ARG,Men,400m freestyle,M,Gold
+5039,Amsterdam,1928,Aquatics,Swimming,"CHARLTON, Andrew",AUS,Men,400m freestyle,M,Silver
+5040,Amsterdam,1928,Aquatics,Swimming,"MCKIM, Josephine E.",USA,Women,400m freestyle,W,Bronze
+5041,Amsterdam,1928,Aquatics,Swimming,"NORELIUS, Martha",USA,Women,400m freestyle,W,Gold
+5042,Amsterdam,1928,Aquatics,Swimming,"BRAUN, Maria Johanna",NED,Women,400m freestyle,W,Silver
+5043,Amsterdam,1928,Aquatics,Swimming,"REDFORD, Marie E.",RSA,Women,4x100m freestyle relay,W,Bronze
+5044,Amsterdam,1928,Aquatics,Swimming,"RENNIE, Rhoda",RSA,Women,4x100m freestyle relay,W,Bronze
+5045,Amsterdam,1928,Aquatics,Swimming,"RUSSELL, Kathleen",RSA,Women,4x100m freestyle relay,W,Bronze
+5046,Amsterdam,1928,Aquatics,Swimming,"VAN DER GOES, Frederica Johanna",RSA,Women,4x100m freestyle relay,W,Bronze
+5047,Amsterdam,1928,Aquatics,Swimming,"LAMBERT, Adelaide T.",USA,Women,4x100m freestyle relay,W,Gold
+5048,Amsterdam,1928,Aquatics,Swimming,"NORELIUS, Martha",USA,Women,4x100m freestyle relay,W,Gold
+5049,Amsterdam,1928,Aquatics,Swimming,"OSIPOWICH, Albina Lucy",USA,Women,4x100m freestyle relay,W,Gold
+5050,Amsterdam,1928,Aquatics,Swimming,"SAVILLE, Eleanor",USA,Women,4x100m freestyle relay,W,Gold
+5051,Amsterdam,1928,Aquatics,Swimming,"COOPER, Margaret Joyce",GBR,Women,4x100m freestyle relay,W,Silver
+5052,Amsterdam,1928,Aquatics,Swimming,"KING, Ellen Elizabeth",GBR,Women,4x100m freestyle relay,W,Silver
+5053,Amsterdam,1928,Aquatics,Swimming,"STEWART, Sarah Gillow Marshal",GBR,Women,4x100m freestyle relay,W,Silver
+5054,Amsterdam,1928,Aquatics,Swimming,"TANNER, Vera",GBR,Women,4x100m freestyle relay,W,Silver
+5055,Amsterdam,1928,Aquatics,Swimming,"AULT, Garnet Walter",CAN,Men,4x200m freestyle relay,M,Bronze
+5056,Amsterdam,1928,Aquatics,Swimming,"BOURNE, Frederick Munroe",CAN,Men,4x200m freestyle relay,M,Bronze
+5057,Amsterdam,1928,Aquatics,Swimming,"SPENCE, Walter",CAN,Men,4x200m freestyle relay,M,Bronze
+5058,Amsterdam,1928,Aquatics,Swimming,"THOMPSON, James",CAN,Men,4x200m freestyle relay,M,Bronze
+5059,Amsterdam,1928,Aquatics,Swimming,"CLAPP, Austin Rhone",USA,Men,4x200m freestyle relay,M,Gold
+5060,Amsterdam,1928,Aquatics,Swimming,"KOJAC, George Harold",USA,Men,4x200m freestyle relay,M,Gold
+5061,Amsterdam,1928,Aquatics,Swimming,"LAUFER, Walter",USA,Men,4x200m freestyle relay,M,Gold
+5062,Amsterdam,1928,Aquatics,Swimming,"WEISSMULLER, Johnny",USA,Men,4x200m freestyle relay,M,Gold
+5063,Amsterdam,1928,Aquatics,Swimming,"ARAI, Nobuo",JPN,Men,4x200m freestyle relay,M,Silver
+5064,Amsterdam,1928,Aquatics,Swimming,"SADA, Tokuhei",JPN,Men,4x200m freestyle relay,M,Silver
+5065,Amsterdam,1928,Aquatics,Swimming,"TAKAISHI, Katsuo",JPN,Men,4x200m freestyle relay,M,Silver
+5066,Amsterdam,1928,Aquatics,Swimming,"YONEYAMA, Hiroshi",JPN,Men,4x200m freestyle relay,M,Silver
+5067,Amsterdam,1928,Aquatics,Water polo,"BULTEEL, Emile J.",FRA,Men,water polo,M,Bronze
+5068,Amsterdam,1928,Aquatics,Water polo,"CUVELIER, Henri G.",FRA,Men,water polo,M,Bronze
+5069,Amsterdam,1928,Aquatics,Water polo,"DUJARDIN, Paul",FRA,Men,water polo,M,Bronze
+5070,Amsterdam,1928,Aquatics,Water polo,"KEIGNAERT, Jules",FRA,Men,water polo,M,Bronze
+5071,Amsterdam,1928,Aquatics,Water polo,"PADOU SR., Henri",FRA,Men,water polo,M,Bronze
+5072,Amsterdam,1928,Aquatics,Water polo,"ROGER, Ernest",FRA,Men,water polo,M,Bronze
+5073,Amsterdam,1928,Aquatics,Water polo,"THÉVENON, Albert",FRA,Men,water polo,M,Bronze
+5074,Amsterdam,1928,Aquatics,Water polo,"TRIBOUILLET, Achille C. M.",FRA,Men,water polo,M,Bronze
+5075,Amsterdam,1928,Aquatics,Water polo,"VAN DE PLANCKE, Albert D.",FRA,Men,water polo,M,Bronze
+5076,Amsterdam,1928,Aquatics,Water polo,"AMANN, Max",GER,Men,water polo,M,Gold
+5077,Amsterdam,1928,Aquatics,Water polo,"BÄHRE, Karl",GER,Men,water polo,M,Gold
+5078,Amsterdam,1928,Aquatics,Water polo,"BENECKE, Emil",GER,Men,water polo,M,Gold
+5079,Amsterdam,1928,Aquatics,Water polo,"BLANK, Johann",GER,Men,water polo,M,Gold
+5080,Amsterdam,1928,Aquatics,Water polo,"CORDES, Otto",GER,Men,water polo,M,Gold
+5081,Amsterdam,1928,Aquatics,Water polo,"GUNST, Fritz",GER,Men,water polo,M,Gold
+5082,Amsterdam,1928,Aquatics,Water polo,"RADEMACHER, Erich",GER,Men,water polo,M,Gold
+5083,Amsterdam,1928,Aquatics,Water polo,"RADEMACHER, Joachim",GER,Men,water polo,M,Gold
+5084,Amsterdam,1928,Aquatics,Water polo,"BARTA, István",HUN,Men,water polo,M,Silver
+5085,Amsterdam,1928,Aquatics,Water polo,"HALASSY, Oliver",HUN,Men,water polo,M,Silver
+5086,Amsterdam,1928,Aquatics,Water polo,"HOMONNAI, Márton",HUN,Men,water polo,M,Silver
+5087,Amsterdam,1928,Aquatics,Water polo,"IVÁDY, Sándor",HUN,Men,water polo,M,Silver
+5088,Amsterdam,1928,Aquatics,Water polo,"KESERU, Alajos",HUN,Men,water polo,M,Silver
+5089,Amsterdam,1928,Aquatics,Water polo,"KESERU, Ferenc",HUN,Men,water polo,M,Silver
+5090,Amsterdam,1928,Aquatics,Water polo,"VRABELY, Jozsef",HUN,Men,water polo,M,Silver
+5091,Amsterdam,1928,Athletics,Athletics,"WIDE, Edvin",SWE,Men,10000m,M,Bronze
+5092,Amsterdam,1928,Athletics,Athletics,"NURMI, Paavo",FIN,Men,10000m,M,Gold
+5093,Amsterdam,1928,Athletics,Athletics,"RITOLA, Ville",FIN,Men,10000m,M,Silver
+5094,Amsterdam,1928,Athletics,Athletics,"LAMMERS, Georg",GER,Men,100m,M,Bronze
+5095,Amsterdam,1928,Athletics,Athletics,"WILLIAMS, Percy",CAN,Men,100m,M,Gold
+5096,Amsterdam,1928,Athletics,Athletics,"LONDON, John Edward",GBR,Men,100m,M,Silver
+5097,Amsterdam,1928,Athletics,Athletics,"SMITH, Ethel M.",CAN,Women,100m,W,Bronze
+5098,Amsterdam,1928,Athletics,Athletics,"ROBINSON, Elizabeth",USA,Women,100m,W,Gold
+5099,Amsterdam,1928,Athletics,Athletics,"ROSENFELD, Fanny",CAN,Women,100m,W,Silver
+5100,Amsterdam,1928,Athletics,Athletics,"COLLIER, John",USA,Men,110m hurdles,M,Bronze
+5101,Amsterdam,1928,Athletics,Athletics,"ATKINSON, Sidney",RSA,Men,110m hurdles,M,Gold
+5102,Amsterdam,1928,Athletics,Athletics,"ANDERSON, Stephen",USA,Men,110m hurdles,M,Silver
+5103,Amsterdam,1928,Athletics,Athletics,"PURJE, Eino Alfred",FIN,Men,1500m,M,Bronze
+5104,Amsterdam,1928,Athletics,Athletics,"LARVA, Harri Edvin",FIN,Men,1500m,M,Gold
+5105,Amsterdam,1928,Athletics,Athletics,"LADOUMEGUE, Jules",FRA,Men,1500m,M,Silver
+5106,Amsterdam,1928,Athletics,Athletics,"KÖRNIG, Helmuth",GER,Men,200m,M,Bronze
+5107,Amsterdam,1928,Athletics,Athletics,"WILLIAMS, Percy",CAN,Men,200m,M,Gold
+5108,Amsterdam,1928,Athletics,Athletics,"RANGELEY, Walter",GBR,Men,200m,M,Silver
+5109,Amsterdam,1928,Athletics,Athletics,"ANDERSEN, Ove",FIN,Men,3000m steeplechase,M,Bronze
+5110,Amsterdam,1928,Athletics,Athletics,"LOUKOLA, Toivo Aarne",FIN,Men,3000m steeplechase,M,Gold
+5111,Amsterdam,1928,Athletics,Athletics,"NURMI, Paavo",FIN,Men,3000m steeplechase,M,Silver
+5112,Amsterdam,1928,Athletics,Athletics,"BÜCHNER, Joachim",GER,Men,400m,M,Bronze
+5113,Amsterdam,1928,Athletics,Athletics,"BARBUTI, Raymond James",USA,Men,400m,M,Gold
+5114,Amsterdam,1928,Athletics,Athletics,"BALL, James A.",CAN,Men,400m,M,Silver
+5115,Amsterdam,1928,Athletics,Athletics,"TAYLOR, Frederick Morgan",USA,Men,400m hurdles,M,Bronze
+5116,Amsterdam,1928,Athletics,Athletics,"BURGHLEY, David George",GBR,Men,400m hurdles,M,Gold
+5117,Amsterdam,1928,Athletics,Athletics,"CUHEL, Frank Josef",USA,Men,400m hurdles,M,Silver
+5118,Amsterdam,1928,Athletics,Athletics,"GILL, Cyril William",GBR,Men,4x100m relay,M,Bronze
+5119,Amsterdam,1928,Athletics,Athletics,"LONDON, John Edward",GBR,Men,4x100m relay,M,Bronze
+5120,Amsterdam,1928,Athletics,Athletics,"RANGELEY, Walter",GBR,Men,4x100m relay,M,Bronze
+5121,Amsterdam,1928,Athletics,Athletics,"SMOUHA, Edward Ralph",GBR,Men,4x100m relay,M,Bronze
+5122,Amsterdam,1928,Athletics,Athletics,"BORAH, Charles Edward",USA,Men,4x100m relay,M,Gold
+5123,Amsterdam,1928,Athletics,Athletics,"QUINN, James F.",USA,Men,4x100m relay,M,Gold
+5124,Amsterdam,1928,Athletics,Athletics,"RUSSELL, Henry Argue",USA,Men,4x100m relay,M,Gold
+5125,Amsterdam,1928,Athletics,Athletics,"WYKOFF, Frank Clifford",USA,Men,4x100m relay,M,Gold
+5126,Amsterdam,1928,Athletics,Athletics,"CORTS, Richard",GER,Men,4x100m relay,M,Silver
+5127,Amsterdam,1928,Athletics,Athletics,"HOUBEN, Hubert",GER,Men,4x100m relay,M,Silver
+5128,Amsterdam,1928,Athletics,Athletics,"KÖRNIG, Helmuth",GER,Men,4x100m relay,M,Silver
+5129,Amsterdam,1928,Athletics,Athletics,"LAMMERS, Georg",GER,Men,4x100m relay,M,Silver
+5130,Amsterdam,1928,Athletics,Athletics,"HOLDMANN, Anny",GER,Women,4x100m relay,W,Bronze
+5131,Amsterdam,1928,Athletics,Athletics,"JUNKER, Helene",GER,Women,4x100m relay,W,Bronze
+5132,Amsterdam,1928,Athletics,Athletics,"KELLNER, Rose",GER,Women,4x100m relay,W,Bronze
+5133,Amsterdam,1928,Athletics,Athletics,"SCHMIDT, Helene ""Leni""",GER,Women,4x100m relay,W,Bronze
+5134,Amsterdam,1928,Athletics,Athletics,"COOK, Myrtle Alice",CAN,Women,4x100m relay,W,Gold
+5135,Amsterdam,1928,Athletics,Athletics,"ROSENFELD, Fanny",CAN,Women,4x100m relay,W,Gold
+5136,Amsterdam,1928,Athletics,Athletics,"SMITH, Ethel M.",CAN,Women,4x100m relay,W,Gold
+5137,Amsterdam,1928,Athletics,Athletics,"THOMPSON, Jean",CAN,Women,4x100m relay,W,Gold
+5138,Amsterdam,1928,Athletics,Athletics,"CROSS, Jessica West",USA,Women,4x100m relay,W,Silver
+5139,Amsterdam,1928,Athletics,Athletics,"MCNEIL, Loretta T.",USA,Women,4x100m relay,W,Silver
+5140,Amsterdam,1928,Athletics,Athletics,"ROBINSON, Elizabeth",USA,Women,4x100m relay,W,Silver
+5141,Amsterdam,1928,Athletics,Athletics,"WASHBURN, Mary T.",USA,Women,4x100m relay,W,Silver
+5142,Amsterdam,1928,Athletics,Athletics,"BALL, James A.",CAN,Men,4x400m relay,M,Bronze
+5143,Amsterdam,1928,Athletics,Athletics,"EDWARDS, Philip",CAN,Men,4x400m relay,M,Bronze
+5144,Amsterdam,1928,Athletics,Athletics,"GLOVER, Stanley",CAN,Men,4x400m relay,M,Bronze
+5145,Amsterdam,1928,Athletics,Athletics,"WILSON, Alexander S.",CAN,Men,4x400m relay,M,Bronze
+5146,Amsterdam,1928,Athletics,Athletics,"ALDERMAN, Frederick Pitt",USA,Men,4x400m relay,M,Gold
+5147,Amsterdam,1928,Athletics,Athletics,"BAIRD, George Hetzel",USA,Men,4x400m relay,M,Gold
+5148,Amsterdam,1928,Athletics,Athletics,"BARBUTI, Raymond James",USA,Men,4x400m relay,M,Gold
+5149,Amsterdam,1928,Athletics,Athletics,"SPENCER, Emerson Lane",USA,Men,4x400m relay,M,Gold
+5150,Amsterdam,1928,Athletics,Athletics,"ENGELHARD, Hermann",GER,Men,4x400m relay,M,Silver
+5151,Amsterdam,1928,Athletics,Athletics,"KREBS, Richard",GER,Men,4x400m relay,M,Silver
+5152,Amsterdam,1928,Athletics,Athletics,"NEUMANN, Otto",GER,Men,4x400m relay,M,Silver
+5153,Amsterdam,1928,Athletics,Athletics,"STORZ, Harry",GER,Men,4x400m relay,M,Silver
+5154,Amsterdam,1928,Athletics,Athletics,"WIDE, Edvin",SWE,Men,5000m,M,Bronze
+5155,Amsterdam,1928,Athletics,Athletics,"RITOLA, Ville",FIN,Men,5000m,M,Gold
+5156,Amsterdam,1928,Athletics,Athletics,"NURMI, Paavo",FIN,Men,5000m,M,Silver
+5157,Amsterdam,1928,Athletics,Athletics,"ENGELHARD, Hermann",GER,Men,800m,M,Bronze
+5158,Amsterdam,1928,Athletics,Athletics,"LOWE, Douglas Gordon",GBR,Men,800m,M,Gold
+5159,Amsterdam,1928,Athletics,Athletics,"BYLEHN, Erik",SWE,Men,800m,M,Silver
+5160,Amsterdam,1928,Athletics,Athletics,"GENTZEL, Inga K.",SWE,Women,800m,W,Bronze
+5161,Amsterdam,1928,Athletics,Athletics,"RADKE, Karoline ""Lina""",GER,Women,800m,W,Gold
+5162,Amsterdam,1928,Athletics,Athletics,"HITOMI, Kinue",JPN,Women,800m,W,Silver
+5163,Amsterdam,1928,Athletics,Athletics,"DOHERTY, John Kenneth",USA,Men,decathlon,M,Bronze
+5164,Amsterdam,1928,Athletics,Athletics,"YRJÖLÄ, Paavo Ilmari",FIN,Men,decathlon,M,Gold
+5165,Amsterdam,1928,Athletics,Athletics,"JÄRVINEN, Akiles Eero Johannes",FIN,Men,decathlon,M,Silver
+5166,Amsterdam,1928,Athletics,Athletics,"CORSON, James Hunt",USA,Men,discus throw,M,Bronze
+5167,Amsterdam,1928,Athletics,Athletics,"HOUSER, Lemuel Clarence",USA,Men,discus throw,M,Gold
+5168,Amsterdam,1928,Athletics,Athletics,"KIVI, Antero Lauro",FIN,Men,discus throw,M,Silver
+5169,Amsterdam,1928,Athletics,Athletics,"SVEDBERG, Ruth A.",SWE,Women,discus throw,W,Bronze
+5170,Amsterdam,1928,Athletics,Athletics,"KONOPACKA, Halina",POL,Women,discus throw,W,Gold
+5171,Amsterdam,1928,Athletics,Athletics,"COPELAND, Lillian",USA,Women,discus throw,W,Silver
+5172,Amsterdam,1928,Athletics,Athletics,"BLACK, Edmund Franklin",USA,Men,hammer throw,M,Bronze
+5173,Amsterdam,1928,Athletics,Athletics,"O'CALLAGHAN, Patrick",IRL,Men,hammer throw,M,Gold
+5174,Amsterdam,1928,Athletics,Athletics,"SKIÖLD, Ossian E.",SWE,Men,hammer throw,M,Silver
+5175,Amsterdam,1928,Athletics,Athletics,"MENARD, Claude Charles",FRA,Men,high jump,M,Bronze
+5176,Amsterdam,1928,Athletics,Athletics,"KING, Robert Wade",USA,Men,high jump,M,Gold
+5177,Amsterdam,1928,Athletics,Athletics,"HEDGES, Benjamen Van Doren",USA,Men,high jump,M,Silver
+5178,Amsterdam,1928,Athletics,Athletics,"WILEY, Mildred Olive",USA,Women,high jump,W,Bronze
+5179,Amsterdam,1928,Athletics,Athletics,"CATHERWOOD, Ethel",CAN,Women,high jump,W,Gold
+5180,Amsterdam,1928,Athletics,Athletics,"GISOLF, Carolina Anna",NED,Women,high jump,W,Silver
+5181,Amsterdam,1928,Athletics,Athletics,"SUNDE, Olav",NOR,Men,javelin throw,M,Bronze
+5182,Amsterdam,1928,Athletics,Athletics,"LUNDQVIST, Erik H.",SWE,Men,javelin throw,M,Gold
+5183,Amsterdam,1928,Athletics,Athletics,"SZEPES-STRAUCH, Bela",HUN,Men,javelin throw,M,Silver
+5184,Amsterdam,1928,Athletics,Athletics,"BATES, Alfred Hilborn",USA,Men,long jump,M,Bronze
+5185,Amsterdam,1928,Athletics,Athletics,"HAMM, Edward Barton",USA,Men,long jump,M,Gold
+5186,Amsterdam,1928,Athletics,Athletics,"CATOR, Silvio M.",HAI,Men,long jump,M,Silver
+5187,Amsterdam,1928,Athletics,Athletics,"MARTTELIN, Martti B.",FIN,Men,marathon,M,Bronze
+5188,Amsterdam,1928,Athletics,Athletics,"EL OUAFI, BoughÃ©ra Mohamed",FRA,Men,marathon,M,Gold
+5189,Amsterdam,1928,Athletics,Athletics,"PLAZA REYES, Manuel",CHI,Men,marathon,M,Silver
+5190,Amsterdam,1928,Athletics,Athletics,"MCGINNIS, Charles English",USA,Men,pole vault,M,Bronze
+5191,Amsterdam,1928,Athletics,Athletics,"CARR, Sabin William",USA,Men,pole vault,M,Gold
+5192,Amsterdam,1928,Athletics,Athletics,"DROEGEMUELLER, William Herbert",USA,Men,pole vault,M,Silver
+5193,Amsterdam,1928,Athletics,Athletics,"HIRSCHFELD, Emil",GER,Men,shot put,M,Bronze
+5194,Amsterdam,1928,Athletics,Athletics,"KUCK, John H.",USA,Men,shot put,M,Gold
+5195,Amsterdam,1928,Athletics,Athletics,"BRIX, Herman Harold",USA,Men,shot put,M,Silver
+5196,Amsterdam,1928,Athletics,Athletics,"TUULOS, Vilho Immanuel",FIN,Men,triple jump,M,Bronze
+5197,Amsterdam,1928,Athletics,Athletics,"ODA, Mikio",JPN,Men,triple jump,M,Gold
+5198,Amsterdam,1928,Athletics,Athletics,"CASEY, Levi B.",USA,Men,triple jump,M,Silver
+5199,Amsterdam,1928,Boxing,Boxing,"CAVAGNOLI, Carlo",ITA,Men,- 50.8kg (flyweight),M,Bronze
+5200,Amsterdam,1928,Boxing,Boxing,"KOCSIS, Antal",HUN,Men,- 50.8kg (flyweight),M,Gold
+5201,Amsterdam,1928,Boxing,Boxing,"APELL, Armand",FRA,Men,- 50.8kg (flyweight),M,Silver
+5202,Amsterdam,1928,Boxing,Boxing,"MICHAELSEN, Michael Jacob",DEN,Men,+ 79.38kg (heavyweight),M,Bronze
+5203,Amsterdam,1928,Boxing,Boxing,"RODRIGUEZ JURADO, Arturo",ARG,Men,+ 79.38kg (heavyweight),M,Gold
+5204,Amsterdam,1928,Boxing,Boxing,"RAMM, Nils Arvid",SWE,Men,+ 79.38kg (heavyweight),M,Silver
+5205,Amsterdam,1928,Boxing,Boxing,"ISAACS, Harry",RSA,Men,50.8 - 53.52kg (bantamweight),M,Bronze
+5206,Amsterdam,1928,Boxing,Boxing,"TAMAGNINI, Vittorio",ITA,Men,50.8 - 53.52kg (bantamweight),M,Gold
+5207,Amsterdam,1928,Boxing,Boxing,"DALEY, John Lawrence",USA,Men,50.8 - 53.52kg (bantamweight),M,Silver
+5208,Amsterdam,1928,Boxing,Boxing,"DEVINE, Harold George",USA,Men,53.52 - 57.15kg (featherweight),M,Bronze
+5209,Amsterdam,1928,Boxing,Boxing,"VAN KLAVEREN, Lambertus",NED,Men,53.52 - 57.15kg (featherweight),M,Gold
+5210,Amsterdam,1928,Boxing,Boxing,"PERALTA, Victor",ARG,Men,53.52 - 57.15kg (featherweight),M,Silver
+5211,Amsterdam,1928,Boxing,Boxing,"BERGGREN, Gunnar A. E.",SWE,Men,57.15 - 61.24kg (lightweight),M,Bronze
+5212,Amsterdam,1928,Boxing,Boxing,"ORLANDI, Carlo",ITA,Men,57.15 - 61.24kg (lightweight),M,Gold
+5213,Amsterdam,1928,Boxing,Boxing,"HALAIKO, Stephen Michael",USA,Men,57.15 - 61.24kg (lightweight),M,Silver
+5214,Amsterdam,1928,Boxing,Boxing,"SMILLIE, Raymond",CAN,Men,61.24 - 66.68kg (welterweight),M,Bronze
+5215,Amsterdam,1928,Boxing,Boxing,"MORGAN, Edward",NZL,Men,61.24 - 66.68kg (welterweight),M,Gold
+5216,Amsterdam,1928,Boxing,Boxing,"LANDINI, Raul",ARG,Men,61.24 - 66.68kg (welterweight),M,Silver
+5217,Amsterdam,1928,Boxing,Boxing,"STEYAERT, Léonard",BEL,Men,66.68 - 72.57kg (middleweight),M,Bronze
+5218,Amsterdam,1928,Boxing,Boxing,"TOSCANI, Piero",ITA,Men,66.68 - 72.57kg (middleweight),M,Gold
+5219,Amsterdam,1928,Boxing,Boxing,"HERMANEK, Jan",TCH,Men,66.68 - 72.57kg (middleweight),M,Silver
+5220,Amsterdam,1928,Boxing,Boxing,"MILJON, Karel Leendert",NED,Men,72.57 - 79.38kg (light-heavyweight),M,Bronze
+5221,Amsterdam,1928,Boxing,Boxing,"AVENDANO, Victor",ARG,Men,72.57 - 79.38kg (light-heavyweight),M,Gold
+5222,Amsterdam,1928,Boxing,Boxing,"PISTULLA, Ernst",GER,Men,72.57 - 79.38kg (light-heavyweight),M,Silver
+5223,Amsterdam,1928,Cycling,Cycling Road,"CARLSSON, Gösta V.",SWE,Men,individual time trial,M,Bronze
+5224,Amsterdam,1928,Cycling,Cycling Road,"HANSEN, Henry Peter Christian",DEN,Men,individual time trial,M,Gold
+5225,Amsterdam,1928,Cycling,Cycling Road,"SOUTHALL, Frank William",GBR,Men,individual time trial,M,Silver
+5226,Amsterdam,1928,Cycling,Cycling Road,"CARLSSON, Gösta V.",SWE,Men,team time trial,M,Bronze
+5227,Amsterdam,1928,Cycling,Cycling Road,"JANSSON, Erik",SWE,Men,team time trial,M,Bronze
+5228,Amsterdam,1928,Cycling,Cycling Road,"JOHNSSON, E. Georg",SWE,Men,team time trial,M,Bronze
+5229,Amsterdam,1928,Cycling,Cycling Road,"HANSEN, Henry Peter Christian",DEN,Men,team time trial,M,Gold
+5230,Amsterdam,1928,Cycling,Cycling Road,"JÖRGENSEN, Oving Orla",DEN,Men,team time trial,M,Gold
+5231,Amsterdam,1928,Cycling,Cycling Road,"NIELSEN, Leo",DEN,Men,team time trial,M,Gold
+5232,Amsterdam,1928,Cycling,Cycling Road,"LAUTERWASSER, John Jacob",GBR,Men,team time trial,M,Silver
+5233,Amsterdam,1928,Cycling,Cycling Road,"MIDDLETON, John Kenneth",GBR,Men,team time trial,M,Silver
+5234,Amsterdam,1928,Cycling,Cycling Road,"SOUTHALL, Frank William",GBR,Men,team time trial,M,Silver
+5235,Amsterdam,1928,Cycling,Cycling Track,"FALCK HANSEN, Willy",DEN,Men,1km Pursuit,M,Bronze
+5236,Amsterdam,1928,Cycling,Cycling Track,"BEAUFRAND, Roger",FRA,Men,1km Pursuit,M,Gold
+5237,Amsterdam,1928,Cycling,Cycling Track,"MAZAIRAC, Antonius Hendrikus",NED,Men,1km Pursuit,M,Silver
+5238,Amsterdam,1928,Cycling,Cycling Track,"GRAY, Edgar Laurence",AUS,Men,1km time trial,M,Bronze
+5239,Amsterdam,1928,Cycling,Cycling Track,"FALCK HANSEN, Willy",DEN,Men,1km time trial,M,Gold
+5240,Amsterdam,1928,Cycling,Cycling Track,"BOSCH VAN DRAKESTEIN, Gerald Henri",NED,Men,1km time trial,M,Silver
+5241,Amsterdam,1928,Cycling,Cycling Track,"BERNHARDT, Hans",GER,Men,2000m tandem,M,Bronze
+5242,Amsterdam,1928,Cycling,Cycling Track,"KÖTHER, Karl",GER,Men,2000m tandem,M,Bronze
+5243,Amsterdam,1928,Cycling,Cycling Track,"LEENE, Bernardus Petrus",NED,Men,2000m tandem,M,Gold
+5244,Amsterdam,1928,Cycling,Cycling Track,"VAN DIJK, Daniel (Daan)",NED,Men,2000m tandem,M,Gold
+5245,Amsterdam,1928,Cycling,Cycling Track,"CHAMBERS, Ernest Henry",GBR,Men,2000m tandem,M,Silver
+5246,Amsterdam,1928,Cycling,Cycling Track,"SIBBIT, John Ephraim",GBR,Men,2000m tandem,M,Silver
+5247,Amsterdam,1928,Cycling,Cycling Track,"FALCK HANSEN, Willy",DEN,Men,Sprint indivual,M,Bronze
+5248,Amsterdam,1928,Cycling,Cycling Track,"BEAUFRAND, Roger",FRA,Men,Sprint indivual,M,Gold
+5249,Amsterdam,1928,Cycling,Cycling Track,"MAZAIRAC, Antonius Hendrikus",NED,Men,Sprint indivual,M,Silver
+5250,Amsterdam,1928,Cycling,Cycling Track,"SOUTHALL, Michael George",GBR,Men,Team Pursuit (4000m),M,Bronze
+5251,Amsterdam,1928,Cycling,Cycling Track,"WYLD, Frederick Henry",GBR,Men,Team Pursuit (4000m),M,Bronze
+5252,Amsterdam,1928,Cycling,Cycling Track,"WYLD, Leonard Arthur",GBR,Men,Team Pursuit (4000m),M,Bronze
+5253,Amsterdam,1928,Cycling,Cycling Track,"WYLD, Percy",GBR,Men,Team Pursuit (4000m),M,Bronze
+5254,Amsterdam,1928,Cycling,Cycling Track,"CATTANEO, Marco",ITA,Men,Team Pursuit (4000m),M,Gold
+5255,Amsterdam,1928,Cycling,Cycling Track,"FACCIANI, Cesare",ITA,Men,Team Pursuit (4000m),M,Gold
+5256,Amsterdam,1928,Cycling,Cycling Track,"LUSIANI, Mario",ITA,Men,Team Pursuit (4000m),M,Gold
+5257,Amsterdam,1928,Cycling,Cycling Track,"TASSELLI, Luigi",ITA,Men,Team Pursuit (4000m),M,Gold
+5258,Amsterdam,1928,Cycling,Cycling Track,"BRASPENNIN, Adriaan Jacobus",NED,Men,Team Pursuit (4000m),M,Silver
+5259,Amsterdam,1928,Cycling,Cycling Track,"MAAS, Johannes Leonardus",NED,Men,Team Pursuit (4000m),M,Silver
+5260,Amsterdam,1928,Cycling,Cycling Track,"PIJNENBURG, Johannes Baptist Norbertus",NED,Men,Team Pursuit (4000m),M,Silver
+5261,Amsterdam,1928,Cycling,Cycling Track,"VAN DER HORST, Pieter M.",NED,Men,Team Pursuit (4000m),M,Silver
+5262,Amsterdam,1928,Equestrian,Dressage,"OLSON, Ragnar",SWE,Men,individual,X,Bronze
+5263,Amsterdam,1928,Equestrian,Dressage,"VON LANGEN, Carl-Friedrich",GER,Men,individual,X,Gold
+5264,Amsterdam,1928,Equestrian,Dressage,"MARION, Charles Louis Pierre",FRA,Men,individual,X,Silver
+5265,Amsterdam,1928,Equestrian,Dressage,"LE HEUX, Gerard Willem",NED,Men,team,X,Bronze
+5266,Amsterdam,1928,Equestrian,Dressage,"VAN REEDE, Jan Hermannus",NED,Men,team,X,Bronze
+5267,Amsterdam,1928,Equestrian,Dressage,"VERSTEEGH, Pierre Marie Robert",NED,Men,team,X,Bronze
+5268,Amsterdam,1928,Equestrian,Dressage,"LINKENBACH, Hermann",GER,Men,team,X,Gold
+5269,Amsterdam,1928,Equestrian,Dressage,"VON LANGEN, Carl-Friedrich",GER,Men,team,X,Gold
+5270,Amsterdam,1928,Equestrian,Dressage,"VON LOTZBECK, Eugen",GER,Men,team,X,Gold
+5271,Amsterdam,1928,Equestrian,Dressage,"BONDE, Carl",SWE,Men,team,X,Silver
+5272,Amsterdam,1928,Equestrian,Dressage,"LUNDBLAD, Janne",SWE,Men,team,X,Silver
+5273,Amsterdam,1928,Equestrian,Dressage,"OLSON, Ragnar",SWE,Men,team,X,Silver
+5274,Amsterdam,1928,Equestrian,Eventing,"NEUMANN, Bruno",GER,Men,individual,X,Bronze
+5275,Amsterdam,1928,Equestrian,Eventing,"PAHUD DE MORTANGES, Charles Ferdinand",NED,Men,individual,X,Gold
+5276,Amsterdam,1928,Equestrian,Eventing,"DE KRUIJFF, Gerard Pieter",NED,Men,individual,X,Silver
+5277,Amsterdam,1928,Equestrian,Eventing,"ANTONIEWICZ, Michal",POL,Men,team,X,Bronze
+5278,Amsterdam,1928,Equestrian,Eventing,"DE ROMMEL (BARON), Karol",POL,Men,team,X,Bronze
+5279,Amsterdam,1928,Equestrian,Eventing,"TRENKWALD, Jozef",POL,Men,team,X,Bronze
+5280,Amsterdam,1928,Equestrian,Eventing,"DE KRUIJFF, Gerard Pieter",NED,Men,team,X,Gold
+5281,Amsterdam,1928,Equestrian,Eventing,"PAHUD DE MORTANGES, Charles Ferdinand",NED,Men,team,X,Gold
+5282,Amsterdam,1928,Equestrian,Eventing,"VAN DER VOORT VAN ZIJP, Adolf Dirk C.",NED,Men,team,X,Gold
+5283,Amsterdam,1928,Equestrian,Eventing,"JOHANSEN, Wilhelm Eugen",NOR,Men,team,X,Silver
+5284,Amsterdam,1928,Equestrian,Eventing,"ORDING, Bjart",NOR,Men,team,X,Silver
+5285,Amsterdam,1928,Equestrian,Eventing,"QVIST, Arthur",NOR,Men,team,X,Silver
+5286,Amsterdam,1928,Equestrian,Jumping,"KUHN, Charles-Gustave",SUI,Men,individual,X,Bronze
+5287,Amsterdam,1928,Equestrian,Jumping,"VENTURA, Frantisek",TCH,Men,individual,X,Gold
+5288,Amsterdam,1928,Equestrian,Jumping,"BERTRAN DE BALANDA, Pierre Louis",FRA,Men,individual,X,Silver
+5289,Amsterdam,1928,Equestrian,Jumping,PEPITA,SUI,Women,individual,X,Bronze
+5290,Amsterdam,1928,Equestrian,Jumping,"BJÖRNSTJERNA, Carl",SWE,Men,team,X,Bronze
+5291,Amsterdam,1928,Equestrian,Jumping,"HALLBERG, Ernst",SWE,Men,team,X,Bronze
+5292,Amsterdam,1928,Equestrian,Jumping,"HANSEN, Karl",SWE,Men,team,X,Bronze
+5293,Amsterdam,1928,Equestrian,Jumping,DE LOS TRUJILLOS (MARQUIS),ESP,Men,team,X,Gold
+5294,Amsterdam,1928,Equestrian,Jumping,"GARCIA FERNANDEZ, Julio",ESP,Men,team,X,Gold
+5295,Amsterdam,1928,Equestrian,Jumping,"NAVARRO-MORENES, José",ESP,Men,team,X,Gold
+5296,Amsterdam,1928,Equestrian,Jumping,"ANTONIEWICZ, Michal",POL,Men,team,X,Silver
+5297,Amsterdam,1928,Equestrian,Jumping,"GZOWSKI, Kazimierz",POL,Men,team,X,Silver
+5298,Amsterdam,1928,Equestrian,Jumping,"SZOSLAND, Kazimierz",POL,Men,team,X,Silver
+5299,Amsterdam,1928,Fencing,Fencing,"CALNAN, George Charles",USA,Men,épée individual,M,Bronze
+5300,Amsterdam,1928,Fencing,Fencing,"GAUDIN, Lucien",FRA,Men,épée individual,M,Gold
+5301,Amsterdam,1928,Fencing,Fencing,"BUCHARD, Georges",FRA,Men,épée individual,M,Silver
+5302,Amsterdam,1928,Fencing,Fencing,"GAUDINI, Giulio",ITA,Men,foil individual,M,Bronze
+5303,Amsterdam,1928,Fencing,Fencing,"GAUDIN, Lucien",FRA,Men,foil individual,M,Gold
+5304,Amsterdam,1928,Fencing,Fencing,"CASMIR, Erwin",GER,Men,foil individual,M,Silver
+5305,Amsterdam,1928,Fencing,Fencing,"OELKERS, Olga",GER,Women,foil individual,W,Bronze
+5306,Amsterdam,1928,Fencing,Fencing,"MAYER, Helene",GER,Women,foil individual,W,Gold
+5307,Amsterdam,1928,Fencing,Fencing,"FREEMAN, Muriel B.",GBR,Women,foil individual,W,Silver
+5308,Amsterdam,1928,Fencing,Fencing,"ANGANUZZI, Raul",ARG,Men,foil team,M,Bronze
+5309,Amsterdam,1928,Fencing,Fencing,"CAMET, Carmelo F.",ARG,Men,foil team,M,Bronze
+5310,Amsterdam,1928,Fencing,Fencing,"LARRAZ, Roberto",ARG,Men,foil team,M,Bronze
+5311,Amsterdam,1928,Fencing,Fencing,"LUCCHETTI, Hector Pablo",ARG,Men,foil team,M,Bronze
+5312,Amsterdam,1928,Fencing,Fencing,"LUCCHETTI, Luis J.",ARG,Men,foil team,M,Bronze
+5313,Amsterdam,1928,Fencing,Fencing,"CHIAVACCI, Giorgio",ITA,Men,foil team,M,Gold
+5314,Amsterdam,1928,Fencing,Fencing,"GAUDINI, Giulio",ITA,Men,foil team,M,Gold
+5315,Amsterdam,1928,Fencing,Fencing,"GUARAGNA, Gioachino",ITA,Men,foil team,M,Gold
+5316,Amsterdam,1928,Fencing,Fencing,"PESSINA, Giorgio",ITA,Men,foil team,M,Gold
+5317,Amsterdam,1928,Fencing,Fencing,"PIGNOTTI, Ugo",ITA,Men,foil team,M,Gold
+5318,Amsterdam,1928,Fencing,Fencing,"PULITI, Oreste",ITA,Men,foil team,M,Gold
+5319,Amsterdam,1928,Fencing,Fencing,"CATTIAU, Philippe",FRA,Men,foil team,M,Silver
+5320,Amsterdam,1928,Fencing,Fencing,"DUCRET, Roger François",FRA,Men,foil team,M,Silver
+5321,Amsterdam,1928,Fencing,Fencing,"FLACHER, Raymond P.",FRA,Men,foil team,M,Silver
+5322,Amsterdam,1928,Fencing,Fencing,"GABORIAUD, André",FRA,Men,foil team,M,Silver
+5323,Amsterdam,1928,Fencing,Fencing,"GAUDIN, Lucien",FRA,Men,foil team,M,Silver
+5324,Amsterdam,1928,Fencing,Fencing,"LABATTUT, André",FRA,Men,foil team,M,Silver
+5325,Amsterdam,1928,Fencing,Fencing,"BINI, Bino",ITA,Men,sabre individual,M,Bronze
+5326,Amsterdam,1928,Fencing,Fencing,"VITEZ TERSZTYANSZKY, Odön",HUN,Men,sabre individual,M,Gold
+5327,Amsterdam,1928,Fencing,Fencing,"PETSCHAUER, Attila",HUN,Men,sabre individual,M,Silver
+5328,Amsterdam,1928,Fencing,Fencing,"FRIEDRICH, Tadeusz",POL,Men,sabre team,M,Bronze
+5329,Amsterdam,1928,Fencing,Fencing,"LASKOWSKI, Kazimierz",POL,Men,sabre team,M,Bronze
+5330,Amsterdam,1928,Fencing,Fencing,"MALECKI, Aleksander S.",POL,Men,sabre team,M,Bronze
+5331,Amsterdam,1928,Fencing,Fencing,"PAPÉE, Adam",POL,Men,sabre team,M,Bronze
+5332,Amsterdam,1928,Fencing,Fencing,"SEGDA, Wladyslaw",POL,Men,sabre team,M,Bronze
+5333,Amsterdam,1928,Fencing,Fencing,"ZABIELSKI, Jerzy",POL,Men,sabre team,M,Bronze
+5334,Amsterdam,1928,Fencing,Fencing,"GARAY, Janos",HUN,Men,sabre team,M,Gold
+5335,Amsterdam,1928,Fencing,Fencing,"GLYKAIS, Gyula",HUN,Men,sabre team,M,Gold
+5336,Amsterdam,1928,Fencing,Fencing,"GOMBOS, Sandor",HUN,Men,sabre team,M,Gold
+5337,Amsterdam,1928,Fencing,Fencing,"PETSCHAUER, Attila",HUN,Men,sabre team,M,Gold
+5338,Amsterdam,1928,Fencing,Fencing,"RADY, Jozsef",HUN,Men,sabre team,M,Gold
+5339,Amsterdam,1928,Fencing,Fencing,"TERSZTYANSZKY, Ödön",HUN,Men,sabre team,M,Gold
+5340,Amsterdam,1928,Fencing,Fencing,"ANSELMI, Renato",ITA,Men,sabre team,M,Silver
+5341,Amsterdam,1928,Fencing,Fencing,"BINI, Bino",ITA,Men,sabre team,M,Silver
+5342,Amsterdam,1928,Fencing,Fencing,"MARZI, Gustavo",ITA,Men,sabre team,M,Silver
+5343,Amsterdam,1928,Fencing,Fencing,"PULITI, Oreste",ITA,Men,sabre team,M,Silver
+5344,Amsterdam,1928,Fencing,Fencing,"SALAFIA, Emilio",ITA,Men,sabre team,M,Silver
+5345,Amsterdam,1928,Fencing,Fencing,"SARROCCHI, Giulio",ITA,Men,sabre team,M,Silver
+5346,Amsterdam,1928,Football,Football,"BALONCIERI, Adolfo",ITA,Men,football,M,Bronze
+5347,Amsterdam,1928,Football,Football,"BANCHERO, Elvio",ITA,Men,football,M,Bronze
+5348,Amsterdam,1928,Football,Football,"BELLINI, Delfo",ITA,Men,football,M,Bronze
+5349,Amsterdam,1928,Football,Football,"BERNARDINI, Fulvio",ITA,Men,football,M,Bronze
+5350,Amsterdam,1928,Football,Football,"CALIGARIS, Umberto",ITA,Men,football,M,Bronze
+5351,Amsterdam,1928,Football,Football,"COMBI, Giampero",ITA,Men,football,M,Bronze
+5352,Amsterdam,1928,Football,Football,"DEGANI, V.",ITA,Men,football,M,Bronze
+5353,Amsterdam,1928,Football,Football,"DEPRA, Giovanni",ITA,Men,football,M,Bronze
+5354,Amsterdam,1928,Football,Football,"FERRARIS, A.",ITA,Men,football,M,Bronze
+5355,Amsterdam,1928,Football,Football,"GASPERI, F.",ITA,Men,football,M,Bronze
+5356,Amsterdam,1928,Football,Football,"GENOVESI, Pietro",ITA,Men,football,M,Bronze
+5357,Amsterdam,1928,Football,Football,"JANNI, Antonio",ITA,Men,football,M,Bronze
+5358,Amsterdam,1928,Football,Football,"LEVRATTO, Virgilio Felice",ITA,Men,football,M,Bronze
+5359,Amsterdam,1928,Football,Football,"MAGNOZZI, Mario",ITA,Men,football,M,Bronze
+5360,Amsterdam,1928,Football,Football,"PASTORE, P.",ITA,Men,football,M,Bronze
+5361,Amsterdam,1928,Football,Football,"PIETROBONI, Silvio",ITA,Men,football,M,Bronze
+5362,Amsterdam,1928,Football,Football,"PITTO, Alfredo",ITA,Men,football,M,Bronze
+5363,Amsterdam,1928,Football,Football,"RIVOLTA, Enrico",ITA,Men,football,M,Bronze
+5364,Amsterdam,1928,Football,Football,"ROSETTA, Virginio",ITA,Men,football,M,Bronze
+5365,Amsterdam,1928,Football,Football,"ROSSETTI, Gino",ITA,Men,football,M,Bronze
+5366,Amsterdam,1928,Football,Football,"SCHIAVIO, Angelo",ITA,Men,football,M,Bronze
+5367,Amsterdam,1928,Football,Football,"VIVIANO, A.",ITA,Men,football,M,Bronze
+5368,Amsterdam,1928,Football,Football,"ANDRADE, José",URU,Men,football,M,Gold
+5369,Amsterdam,1928,Football,Football,"ANSELMO, P.",URU,Men,football,M,Gold
+5370,Amsterdam,1928,Football,Football,"ARISPE, Pedro",URU,Men,football,M,Gold
+5371,Amsterdam,1928,Football,Football,"ARREMON, Juan Pedro",URU,Men,football,M,Gold
+5372,Amsterdam,1928,Football,Football,"BARTIBAS, V.",URU,Men,football,M,Gold
+5373,Amsterdam,1928,Football,Football,"BATIGNANI, F.",URU,Men,football,M,Gold
+5374,Amsterdam,1928,Football,Football,"BORJAS, René",URU,Men,football,M,Gold
+5375,Amsterdam,1928,Football,Football,"CAMPOLO, Antonio",URU,Men,football,M,Gold
+5376,Amsterdam,1928,Football,Football,"CANAVESI, Adhemar",URU,Men,football,M,Gold
+5377,Amsterdam,1928,Football,Football,"CASTRO, Hector",URU,Men,football,M,Gold
+5378,Amsterdam,1928,Football,Football,"CEA, Pedro",URU,Men,football,M,Gold
+5379,Amsterdam,1928,Football,Football,"FERNANDEZ, Lorenzo",URU,Men,football,M,Gold
+5380,Amsterdam,1928,Football,Football,"FIGUEROA, Roberto",URU,Men,football,M,Gold
+5381,Amsterdam,1928,Football,Football,"GESTIDO, Alvaro",URU,Men,football,M,Gold
+5382,Amsterdam,1928,Football,Football,"MAZALI, AndrÃ©s",URU,Men,football,M,Gold
+5383,Amsterdam,1928,Football,Football,"MELOGNO, A.",URU,Men,football,M,Gold
+5384,Amsterdam,1928,Football,Football,"NASAZZI, José",URU,Men,football,M,Gold
+5385,Amsterdam,1928,Football,Football,"PETRONE, Pedro",URU,Men,football,M,Gold
+5386,Amsterdam,1928,Football,Football,"PIRIZ, Juan",URU,Men,football,M,Gold
+5387,Amsterdam,1928,Football,Football,"SCARONE, Hector",URU,Men,football,M,Gold
+5388,Amsterdam,1928,Football,Football,"TEJERA, D.",URU,Men,football,M,Gold
+5389,Amsterdam,1928,Football,Football,"URDINARAN, Antonio",URU,Men,football,M,Gold
+5390,Amsterdam,1928,Football,Football,"BIDOGLIO, Ludovico",ARG,Men,football,M,Silver
+5391,Amsterdam,1928,Football,Football,"BOSIO, Angel",ARG,Men,football,M,Silver
+5392,Amsterdam,1928,Football,Football,"CALANDRA, Saul H.",ARG,Men,football,M,Silver
+5393,Amsterdam,1928,Football,Football,"CARRICABERRY, Alfredo D.",ARG,Men,football,M,Silver
+5394,Amsterdam,1928,Football,Football,"CHERRO, Roberto",ARG,Men,football,M,Silver
+5395,Amsterdam,1928,Football,Football,"DIAZ, Octavio J.",ARG,Men,football,M,Silver
+5396,Amsterdam,1928,Football,Football,"EVARISTO, J.",ARG,Men,football,M,Silver
+5397,Amsterdam,1928,Football,Football,"FERREIRA, Manuel",ARG,Men,football,M,Silver
+5398,Amsterdam,1928,Football,Football,"GAINZARAIN, Enrique",ARG,Men,football,M,Silver
+5399,Amsterdam,1928,Football,Football,"GOMEZ, S. N.",ARG,Men,football,M,Silver
+5400,Amsterdam,1928,Football,Football,"HELMAN, A.",ARG,Men,football,M,Silver
+5401,Amsterdam,1928,Football,Football,"MEDICI, Angel Segundo",ARG,Men,football,M,Silver
+5402,Amsterdam,1928,Football,Football,"MONTI, Luis Felipe",ARG,Men,football,M,Silver
+5403,Amsterdam,1928,Football,Football,"OCHOA, P.",ARG,Men,football,M,Silver
+5404,Amsterdam,1928,Football,Football,"ORLANDINI, Rodolfo",ARG,Men,football,M,Silver
+5405,Amsterdam,1928,Football,Football,"ORSI, Raimundo B.",ARG,Men,football,M,Silver
+5406,Amsterdam,1928,Football,Football,"PATERNOSTER, Fernando",ARG,Men,football,M,Silver
+5407,Amsterdam,1928,Football,Football,"PERDUCCA, Feliciano Angel",ARG,Men,football,M,Silver
+5408,Amsterdam,1928,Football,Football,"PERINETTI, N.",ARG,Men,football,M,Silver
+5409,Amsterdam,1928,Football,Football,"TARASCONI, Domingo Alberto",ARG,Men,football,M,Silver
+5410,Amsterdam,1928,Football,Football,"WEIHMULLER, L. F.",ARG,Men,football,M,Silver
+5411,Amsterdam,1928,Football,Football,"ZUMELZU, A. B.",ARG,Men,football,M,Silver
+5412,Amsterdam,1928,Gymnastics,Artistic G.,"MACK, Eugen",SUI,Men,horizontal bar,M,Bronze
+5413,Amsterdam,1928,Gymnastics,Artistic G.,"MIEZ, Georges",SUI,Men,horizontal bar,M,Gold
+5414,Amsterdam,1928,Gymnastics,Artistic G.,"NERI, Romeo",ITA,Men,horizontal bar,M,Silver
+5415,Amsterdam,1928,Gymnastics,Artistic G.,"STUKELJ, Leon",YUG,Men,individual all-round,M,Bronze
+5416,Amsterdam,1928,Gymnastics,Artistic G.,"MIEZ, Georges",SUI,Men,individual all-round,M,Gold
+5417,Amsterdam,1928,Gymnastics,Artistic G.,"HÄNGGI, Hermann",SUI,Men,individual all-round,M,Silver
+5418,Amsterdam,1928,Gymnastics,Artistic G.,"HÄNGGI, Hermann",SUI,Men,parallel bars,M,Bronze
+5419,Amsterdam,1928,Gymnastics,Artistic G.,"VACHA, Ladislav",TCH,Men,parallel bars,M,Gold
+5420,Amsterdam,1928,Gymnastics,Artistic G.,"PRIMOZIC, Josip",YUG,Men,parallel bars,M,Silver
+5421,Amsterdam,1928,Gymnastics,Artistic G.,"SAVOLAINEN, Heikki",FIN,Men,pommel horse,M,Bronze
+5422,Amsterdam,1928,Gymnastics,Artistic G.,"HÄNGGI, Hermann",SUI,Men,pommel horse,M,Gold
+5423,Amsterdam,1928,Gymnastics,Artistic G.,"MIEZ, Georges",SUI,Men,pommel horse,M,Silver
+5424,Amsterdam,1928,Gymnastics,Artistic G.,"LOFFLER, Emanuel",TCH,Men,rings,M,Bronze
+5425,Amsterdam,1928,Gymnastics,Artistic G.,"STUKELJ, Leon",YUG,Men,rings,M,Gold
+5426,Amsterdam,1928,Gymnastics,Artistic G.,"VACHA, Ladislav",TCH,Men,rings,M,Silver
+5427,Amsterdam,1928,Gymnastics,Artistic G.,"ANTOSIEWIC, Eduard",YUG,Men,team competition,M,Bronze
+5428,Amsterdam,1928,Gymnastics,Artistic G.,"CIOTTI, Dragutin",YUG,Men,team competition,M,Bronze
+5429,Amsterdam,1928,Gymnastics,Artistic G.,"DERGANC, Stane",YUG,Men,team competition,M,Bronze
+5430,Amsterdam,1928,Gymnastics,Artistic G.,"GREGORKA, Boris",YUG,Men,team competition,M,Bronze
+5431,Amsterdam,1928,Gymnastics,Artistic G.,"MALEJ, Anton",YUG,Men,team competition,M,Bronze
+5432,Amsterdam,1928,Gymnastics,Artistic G.,"PORENTA, Ivan",YUG,Men,team competition,M,Bronze
+5433,Amsterdam,1928,Gymnastics,Artistic G.,"PRIMOZIC, Josip",YUG,Men,team competition,M,Bronze
+5434,Amsterdam,1928,Gymnastics,Artistic G.,"STUKELJ, Leon",YUG,Men,team competition,M,Bronze
+5435,Amsterdam,1928,Gymnastics,Artistic G.,"GRIEDER, Hans",SUI,Men,team competition,M,Gold
+5436,Amsterdam,1928,Gymnastics,Artistic G.,"GÜTTINGER, August",SUI,Men,team competition,M,Gold
+5437,Amsterdam,1928,Gymnastics,Artistic G.,"HÄNGGI, Hermann",SUI,Men,team competition,M,Gold
+5438,Amsterdam,1928,Gymnastics,Artistic G.,"MACK, Eugen",SUI,Men,team competition,M,Gold
+5439,Amsterdam,1928,Gymnastics,Artistic G.,"MIEZ, Georges",SUI,Men,team competition,M,Gold
+5440,Amsterdam,1928,Gymnastics,Artistic G.,"PFISTER, Otto",SUI,Men,team competition,M,Gold
+5441,Amsterdam,1928,Gymnastics,Artistic G.,"STEINEMANN, Eduard",SUI,Men,team competition,M,Gold
+5442,Amsterdam,1928,Gymnastics,Artistic G.,"WEZEL, Melchior",SUI,Men,team competition,M,Gold
+5443,Amsterdam,1928,Gymnastics,Artistic G.,"EFFENBERGER, Josef",TCH,Men,team competition,M,Silver
+5444,Amsterdam,1928,Gymnastics,Artistic G.,"GAJDOS, Jan",TCH,Men,team competition,M,Silver
+5445,Amsterdam,1928,Gymnastics,Artistic G.,"KOUTNY, Jan",TCH,Men,team competition,M,Silver
+5446,Amsterdam,1928,Gymnastics,Artistic G.,"LOFFLER, Emanuel",TCH,Men,team competition,M,Silver
+5447,Amsterdam,1928,Gymnastics,Artistic G.,"SUPCIK, Bedrich",TCH,Men,team competition,M,Silver
+5448,Amsterdam,1928,Gymnastics,Artistic G.,"TIKAL, Ladislav",TCH,Men,team competition,M,Silver
+5449,Amsterdam,1928,Gymnastics,Artistic G.,"VACHA, Ladislav",TCH,Men,team competition,M,Silver
+5450,Amsterdam,1928,Gymnastics,Artistic G.,"VESELY, Vaclav",TCH,Men,team competition,M,Silver
+5451,Amsterdam,1928,Gymnastics,Artistic G.,"BROADBENT, Annie",GBR,Women,team competition,W,Bronze
+5452,Amsterdam,1928,Gymnastics,Artistic G.,"DESMOND, Lucy",GBR,Women,team competition,W,Bronze
+5453,Amsterdam,1928,Gymnastics,Artistic G.,"HARTLEY, Margaret B.",GBR,Women,team competition,W,Bronze
+5454,Amsterdam,1928,Gymnastics,Artistic G.,"JAGGER, Amy C.",GBR,Women,team competition,W,Bronze
+5455,Amsterdam,1928,Gymnastics,Artistic G.,"JUDD, Isobel M. R.",GBR,Women,team competition,W,Bronze
+5456,Amsterdam,1928,Gymnastics,Artistic G.,"KITE, Jessie T.",GBR,Women,team competition,W,Bronze
+5457,Amsterdam,1928,Gymnastics,Artistic G.,"MOREMAN, Marjorie",GBR,Women,team competition,W,Bronze
+5458,Amsterdam,1928,Gymnastics,Artistic G.,"PICKLES, Edith Carrie",GBR,Women,team competition,W,Bronze
+5459,Amsterdam,1928,Gymnastics,Artistic G.,"SEYMOUR, Ethel",GBR,Women,team competition,W,Bronze
+5460,Amsterdam,1928,Gymnastics,Artistic G.,"SMITH, Ada",GBR,Women,team competition,W,Bronze
+5461,Amsterdam,1928,Gymnastics,Artistic G.,"SMITH, Hilda",GBR,Women,team competition,W,Bronze
+5462,Amsterdam,1928,Gymnastics,Artistic G.,"WOODS, Doris",GBR,Women,team competition,W,Bronze
+5463,Amsterdam,1928,Gymnastics,Artistic G.,"AGSTERIBBE, Estella",NED,Women,team competition,W,Gold
+5464,Amsterdam,1928,Gymnastics,Artistic G.,"BURGERHOF, Petronella",NED,Women,team competition,W,Gold
+5465,Amsterdam,1928,Gymnastics,Artistic G.,"DE LEVIE, Elka",NED,Women,team competition,W,Gold
+5466,Amsterdam,1928,Gymnastics,Artistic G.,"NORDHEIM, Helena",NED,Women,team competition,W,Gold
+5467,Amsterdam,1928,Gymnastics,Artistic G.,"POLAK, Ans",NED,Women,team competition,W,Gold
+5468,Amsterdam,1928,Gymnastics,Artistic G.,"SIMONS, Jud",NED,Women,team competition,W,Gold
+5469,Amsterdam,1928,Gymnastics,Artistic G.,"STELMA, Jacoba Cornelia",NED,Women,team competition,W,Gold
+5470,Amsterdam,1928,Gymnastics,Artistic G.,"VAN DEN BERG, Jacomina",NED,Women,team competition,W,Gold
+5471,Amsterdam,1928,Gymnastics,Artistic G.,"VAN DEN BOS, Alida Johanna",NED,Women,team competition,W,Gold
+5472,Amsterdam,1928,Gymnastics,Artistic G.,"VAN DER VEGT, Anna Maria",NED,Women,team competition,W,Gold
+5473,Amsterdam,1928,Gymnastics,Artistic G.,"VAN RANDWIJK, Petronella Phillemina Johanna",NED,Women,team competition,W,Gold
+5474,Amsterdam,1928,Gymnastics,Artistic G.,"VAN RUMT, Hendrika Alida",NED,Women,team competition,W,Gold
+5475,Amsterdam,1928,Gymnastics,Artistic G.,"AMBROSETTI, Bianca",ITA,Women,team competition,W,Silver
+5476,Amsterdam,1928,Gymnastics,Artistic G.,"GIANONI, Lavinia",ITA,Women,team competition,W,Silver
+5477,Amsterdam,1928,Gymnastics,Artistic G.,"GIAVOTTI, Luigina",ITA,Women,team competition,W,Silver
+5478,Amsterdam,1928,Gymnastics,Artistic G.,"GIORGI, Virginia",ITA,Women,team competition,W,Silver
+5479,Amsterdam,1928,Gymnastics,Artistic G.,"MALABARBA, Germana",ITA,Women,team competition,W,Silver
+5480,Amsterdam,1928,Gymnastics,Artistic G.,"MARANGONI, Clara",ITA,Women,team competition,W,Silver
+5481,Amsterdam,1928,Gymnastics,Artistic G.,"PERVERSI, Luigina",ITA,Women,team competition,W,Silver
+5482,Amsterdam,1928,Gymnastics,Artistic G.,"PIZZAVINI, Diana",ITA,Women,team competition,W,Silver
+5483,Amsterdam,1928,Gymnastics,Artistic G.,"TANZINI, Luisa",ITA,Women,team competition,W,Silver
+5484,Amsterdam,1928,Gymnastics,Artistic G.,"TRONCONI, Carolina",ITA,Women,team competition,W,Silver
+5485,Amsterdam,1928,Gymnastics,Artistic G.,"VERCESI, Ines",ITA,Women,team competition,W,Silver
+5486,Amsterdam,1928,Gymnastics,Artistic G.,"VITTADINI, Rita",ITA,Women,team competition,W,Silver
+5487,Amsterdam,1928,Gymnastics,Artistic G.,"DERGANC, Stane",YUG,Men,vault,M,Bronze
+5488,Amsterdam,1928,Gymnastics,Artistic G.,"MACK, Eugen",SUI,Men,vault,M,Gold
+5489,Amsterdam,1928,Gymnastics,Artistic G.,"LOFFLER, Emanuel",TCH,Men,vault,M,Silver
+5490,Amsterdam,1928,Hockey,Hockey,"BOCHE, Bruno",GER,Men,hockey,M,Bronze
+5491,Amsterdam,1928,Hockey,Hockey,"BRUNNER, Georg",GER,Men,hockey,M,Bronze
+5492,Amsterdam,1928,Hockey,Hockey,"FÖRSTENDORF, Heinz",GER,Men,hockey,M,Bronze
+5493,Amsterdam,1928,Hockey,Hockey,"FRANZKOWIAK, Erwin",GER,Men,hockey,M,Bronze
+5494,Amsterdam,1928,Hockey,Hockey,"FREYBERG, Werner",GER,Men,hockey,M,Bronze
+5495,Amsterdam,1928,Hockey,Hockey,"HAAG, Theodor",GER,Men,hockey,M,Bronze
+5496,Amsterdam,1928,Hockey,Hockey,"HAUSSMANN, Hans Heinrich",GER,Men,hockey,M,Bronze
+5497,Amsterdam,1928,Hockey,Hockey,"HAVERBECK, Kurt",GER,Men,hockey,M,Bronze
+5498,Amsterdam,1928,Hockey,Hockey,"HEYMANN, Aribert",GER,Men,hockey,M,Bronze
+5499,Amsterdam,1928,Hockey,Hockey,"HOBEIN, Herbert",GER,Men,hockey,M,Bronze
+5500,Amsterdam,1928,Hockey,Hockey,"HORN, Fritz",GER,Men,hockey,M,Bronze
+5501,Amsterdam,1928,Hockey,Hockey,"IRMER, Karl-Heinz",GER,Men,hockey,M,Bronze
+5502,Amsterdam,1928,Hockey,Hockey,"KEMMER, Herbert",GER,Men,hockey,M,Bronze
+5503,Amsterdam,1928,Hockey,Hockey,"LINCKE, F.",GER,Men,hockey,M,Bronze
+5504,Amsterdam,1928,Hockey,Hockey,"MÜLLER, Herbert",GER,Men,hockey,M,Bronze
+5505,Amsterdam,1928,Hockey,Hockey,"PROFT, Werner",GER,Men,hockey,M,Bronze
+5506,Amsterdam,1928,Hockey,Hockey,"SCHÄFER, H.",GER,Men,hockey,M,Bronze
+5507,Amsterdam,1928,Hockey,Hockey,"STRANTZEN, Gerd",GER,Men,hockey,M,Bronze
+5508,Amsterdam,1928,Hockey,Hockey,"WEISS, Kurt",GER,Men,hockey,M,Bronze
+5509,Amsterdam,1928,Hockey,Hockey,"WOLLNER, Rolf",GER,Men,hockey,M,Bronze
+5510,Amsterdam,1928,Hockey,Hockey,"WÖLTJE, Heinz",GER,Men,hockey,M,Bronze
+5511,Amsterdam,1928,Hockey,Hockey,"ZANDER, Erich",GER,Men,hockey,M,Bronze
+5512,Amsterdam,1928,Hockey,Hockey,"ALLEN, Richard James",IND,Men,hockey,M,Gold
+5513,Amsterdam,1928,Hockey,Hockey,"CHAND, Dyan",IND,Men,hockey,M,Gold
+5514,Amsterdam,1928,Hockey,Hockey,"GATELEY, Maurice A.",IND,Men,hockey,M,Gold
+5515,Amsterdam,1928,Hockey,Hockey,"GILL, K. S.",IND,Men,hockey,M,Gold
+5516,Amsterdam,1928,Hockey,Hockey,"GOODSIR-CULLEN, William John",IND,Men,hockey,M,Gold
+5517,Amsterdam,1928,Hockey,Hockey,"HAMMOND, Leslie Charles",IND,Men,hockey,M,Gold
+5518,Amsterdam,1928,Hockey,Hockey,"KHAN, Feroze Uddin",IND,Men,hockey,M,Gold
+5519,Amsterdam,1928,Hockey,Hockey,"MARTHINS, George E.",IND,Men,hockey,M,Gold
+5520,Amsterdam,1928,Hockey,Hockey,"NORRIS, Rex A.",IND,Men,hockey,M,Gold
+5521,Amsterdam,1928,Hockey,Hockey,"PINNIGER, Broome Eric",IND,Men,hockey,M,Gold
+5522,Amsterdam,1928,Hockey,Hockey,"ROCQUE, Michael E.",IND,Men,hockey,M,Gold
+5523,Amsterdam,1928,Hockey,Hockey,"SEAMAN, Frederic S.",IND,Men,hockey,M,Gold
+5524,Amsterdam,1928,Hockey,Hockey,"SHAUKAT, Ali",IND,Men,hockey,M,Gold
+5525,Amsterdam,1928,Hockey,Hockey,"SINGH, Jaipal",IND,Men,hockey,M,Gold
+5526,Amsterdam,1928,Hockey,Hockey,"YUSUF, Sayed Mohamed",IND,Men,hockey,M,Gold
+5527,Amsterdam,1928,Hockey,Hockey,"ANKERMAN, Jan Geert",NED,Men,hockey,M,Silver
+5528,Amsterdam,1928,Hockey,Hockey,"BRAND, Johannes Willem",NED,Men,hockey,M,Silver
+5529,Amsterdam,1928,Hockey,Hockey,"DE WAAL, Reindert Berend Jan",NED,Men,hockey,M,Silver
+5530,Amsterdam,1928,Hockey,Hockey,"DUSON, Emiel Paulus Josef",NED,Men,hockey,M,Silver
+5531,Amsterdam,1928,Hockey,Hockey,"HARDEBECK, C. J. J.",NED,Men,hockey,M,Silver
+5532,Amsterdam,1928,Hockey,Hockey,"HUBRECHT, T. F.",NED,Men,hockey,M,Silver
+5533,Amsterdam,1928,Hockey,Hockey,"JANNINK, Gerrit Jan Arnold",NED,Men,hockey,M,Silver
+5534,Amsterdam,1928,Hockey,Hockey,"KATTE, Adriaan Johan Louis",NED,Men,hockey,M,Silver
+5535,Amsterdam,1928,Hockey,Hockey,"KOP, August Johannes",NED,Men,hockey,M,Silver
+5536,Amsterdam,1928,Hockey,Hockey,"LEEMBRUGGEN, G.",NED,Men,hockey,M,Silver
+5537,Amsterdam,1928,Hockey,Hockey,"MANGELAAR MEERTENS, H. J. L.",NED,Men,hockey,M,Silver
+5538,Amsterdam,1928,Hockey,Hockey,"MULLER V. CZERNICKI, O. F.",NED,Men,hockey,M,Silver
+5539,Amsterdam,1928,Hockey,Hockey,"TRESLING, Albert Willem",NED,Men,hockey,M,Silver
+5540,Amsterdam,1928,Hockey,Hockey,"VAN CITTERS, W. J.",NED,Men,hockey,M,Silver
+5541,Amsterdam,1928,Hockey,Hockey,"VAN DE ROVAERT, Paulus",NED,Men,hockey,M,Silver
+5542,Amsterdam,1928,Hockey,Hockey,"VAN DER HAGEN, C. J.",NED,Men,hockey,M,Silver
+5543,Amsterdam,1928,Hockey,Hockey,"VAN DER VEEN, Robert",NED,Men,hockey,M,Silver
+5544,Amsterdam,1928,Hockey,Hockey,"VAN LIEROP, Antoine Robert",NED,Men,hockey,M,Silver
+5545,Amsterdam,1928,Hockey,Hockey,"VAN TIENHOVEN VAN DEN BOGAARD, J. J.",NED,Men,hockey,M,Silver
+5546,Amsterdam,1928,Hockey,Hockey,"VAN VOORST VAN BEEST, J. M.",NED,Men,hockey,M,Silver
+5547,Amsterdam,1928,Hockey,Hockey,"VISSER 'T HOOFT, Hendrik Philip",NED,Men,hockey,M,Silver
+5548,Amsterdam,1928,Hockey,Hockey,"WENTHOLT, N.",NED,Men,hockey,M,Silver
+5549,Amsterdam,1928,Modern Pentathlon,Modern Pentath.,"KAHL, Helmut",GER,Men,Individual competition,M,Bronze
+5550,Amsterdam,1928,Modern Pentathlon,Modern Pentath.,"THOFELT, Sven",SWE,Men,Individual competition,M,Gold
+5551,Amsterdam,1928,Modern Pentathlon,Modern Pentath.,"LINDMAN, Bo S. G.",SWE,Men,Individual competition,M,Silver
+5552,Amsterdam,1928,Rowing,Rowing,"MCDOWELL, Paul L.",USA,Men,coxless pair (2-),M,Bronze
+5553,Amsterdam,1928,Rowing,Rowing,"SCHMITT, John Victor",USA,Men,coxless pair (2-),M,Bronze
+5554,Amsterdam,1928,Rowing,Rowing,"MÖSCHTER, Kurt",GER,Men,coxless pair (2-),M,Gold
+5555,Amsterdam,1928,Rowing,Rowing,"MÜLLER, Bruno",GER,Men,coxless pair (2-),M,Gold
+5556,Amsterdam,1928,Rowing,Rowing,"NISBET, Robert Archibald",GBR,Men,coxless pair (2-),M,Silver
+5557,Amsterdam,1928,Rowing,Rowing,"O'BRIEN, Terence Noel",GBR,Men,coxless pair (2-),M,Silver
+5558,Amsterdam,1928,Rowing,Rowing,"FLESSL, Viktor",AUT,Men,double sculls (2x),M,Bronze
+5559,Amsterdam,1928,Rowing,Rowing,"LOSERT, Leo",AUT,Men,double sculls (2x),M,Bronze
+5560,Amsterdam,1928,Rowing,Rowing,"COSTELLO, Paul Vincent",USA,Men,double sculls (2x),M,Gold
+5561,Amsterdam,1928,Rowing,Rowing,"MCILVAINE, Charles Joseph",USA,Men,double sculls (2x),M,Gold
+5562,Amsterdam,1928,Rowing,Rowing,"GUEST, John Schofield",CAN,Men,double sculls (2x),M,Silver
+5563,Amsterdam,1928,Rowing,Rowing,"WRIGHT JR., Joseph William",CAN,Men,double sculls (2x),M,Silver
+5564,Amsterdam,1928,Rowing,Rowing,"DONNELLY, John Henry",CAN,Men,eight with coxswain (8+),M,Bronze
+5565,Amsterdam,1928,Rowing,Rowing,"FIDDES, Frank James",CAN,Men,eight with coxswain (8+),M,Bronze
+5566,Amsterdam,1928,Rowing,Rowing,"HAND, John L.",CAN,Men,eight with coxswain (8+),M,Bronze
+5567,Amsterdam,1928,Rowing,Rowing,"HEDGES, Frederick Charles",CAN,Men,eight with coxswain (8+),M,Bronze
+5568,Amsterdam,1928,Rowing,Rowing,"MEECH, Athol Charles",CAN,Men,eight with coxswain (8+),M,Bronze
+5569,Amsterdam,1928,Rowing,Rowing,"MURDOCH, Jack L.",CAN,Men,eight with coxswain (8+),M,Bronze
+5570,Amsterdam,1928,Rowing,Rowing,"NORRIS, Charles Edgar",CAN,Men,eight with coxswain (8+),M,Bronze
+5571,Amsterdam,1928,Rowing,Rowing,"RICHARDSON, Herbert Trenchard",CAN,Men,eight with coxswain (8+),M,Bronze
+5572,Amsterdam,1928,Rowing,Rowing,"ROSS, William M.",CAN,Men,eight with coxswain (8+),M,Bronze
+5573,Amsterdam,1928,Rowing,Rowing,"BLESSING, Donald F.",USA,Men,eight with coxswain (8+),M,Gold
+5574,Amsterdam,1928,Rowing,Rowing,"BRINCK, John Manning",USA,Men,eight with coxswain (8+),M,Gold
+5575,Amsterdam,1928,Rowing,Rowing,"CALDWELL, Hubert Aspinwall",USA,Men,eight with coxswain (8+),M,Gold
+5576,Amsterdam,1928,Rowing,Rowing,"DALLY, William Morris",USA,Men,eight with coxswain (8+),M,Gold
+5577,Amsterdam,1928,Rowing,Rowing,"DONLON, Peter Dwight",USA,Men,eight with coxswain (8+),M,Gold
+5578,Amsterdam,1928,Rowing,Rowing,"FREDERICK, Francis Harland",USA,Men,eight with coxswain (8+),M,Gold
+5579,Amsterdam,1928,Rowing,Rowing,"STALDER, Marvin Frederick",USA,Men,eight with coxswain (8+),M,Gold
+5580,Amsterdam,1928,Rowing,Rowing,"THOMPSON, William G.",USA,Men,eight with coxswain (8+),M,Gold
+5581,Amsterdam,1928,Rowing,Rowing,"WORKMAN, James Theodore",USA,Men,eight with coxswain (8+),M,Gold
+5582,Amsterdam,1928,Rowing,Rowing,"BADCOCK, John Charles",GBR,Men,eight with coxswain (8+),M,Silver
+5583,Amsterdam,1928,Rowing,Rowing,"BERESFORD, Jack",GBR,Men,eight with coxswain (8+),M,Silver
+5584,Amsterdam,1928,Rowing,Rowing,"GOLLAN, Donald Herbert Louis",GBR,Men,eight with coxswain (8+),M,Silver
+5585,Amsterdam,1928,Rowing,Rowing,"HAMILTON, James Hamish",GBR,Men,eight with coxswain (8+),M,Silver
+5586,Amsterdam,1928,Rowing,Rowing,"KILLICK, G. Cecil",GBR,Men,eight with coxswain (8+),M,Silver
+5587,Amsterdam,1928,Rowing,Rowing,"LANE, Harold Mansfield",GBR,Men,eight with coxswain (8+),M,Silver
+5588,Amsterdam,1928,Rowing,Rowing,"NICKALLS, Guy Oliver Jr.",GBR,Men,eight with coxswain (8+),M,Silver
+5589,Amsterdam,1928,Rowing,Rowing,"SULLEY, Arthur Lindsay",GBR,Men,eight with coxswain (8+),M,Silver
+5590,Amsterdam,1928,Rowing,Rowing,"WEST, Harold E.",GBR,Men,eight with coxswain (8+),M,Silver
+5591,Amsterdam,1928,Rowing,Rowing,"BONADE, Umberto",ITA,Men,four without coxswain (4-),M,Bronze
+5592,Amsterdam,1928,Rowing,Rowing,"FRESCHI, Pietro",ITA,Men,four without coxswain (4-),M,Bronze
+5593,Amsterdam,1928,Rowing,Rowing,"GENNARI, Paolo",ITA,Men,four without coxswain (4-),M,Bronze
+5594,Amsterdam,1928,Rowing,Rowing,"ROSSI, Cesare",ITA,Men,four without coxswain (4-),M,Bronze
+5595,Amsterdam,1928,Rowing,Rowing,"BEESLY, Richard",GBR,Men,four without coxswain (4-),M,Gold
+5596,Amsterdam,1928,Rowing,Rowing,"BEVAN, Edward Vaughan",GBR,Men,four without coxswain (4-),M,Gold
+5597,Amsterdam,1928,Rowing,Rowing,"LANDER, John Gerard Heath",GBR,Men,four without coxswain (4-),M,Gold
+5598,Amsterdam,1928,Rowing,Rowing,"WARRINER, Michael Henry",GBR,Men,four without coxswain (4-),M,Gold
+5599,Amsterdam,1928,Rowing,Rowing,"BAYER, Ernest Henry",USA,Men,four without coxswain (4-),M,Silver
+5600,Amsterdam,1928,Rowing,Rowing,"HEALIS, George",USA,Men,four without coxswain (4-),M,Silver
+5601,Amsterdam,1928,Rowing,Rowing,"KARLE, Charles G.",USA,Men,four without coxswain (4-),M,Silver
+5602,Amsterdam,1928,Rowing,Rowing,"MILLER, William G.",USA,Men,four without coxswain (4-),M,Silver
+5603,Amsterdam,1928,Rowing,Rowing,"BIRKHOLZ, Leszek Leon",POL,Men,four-oared shell with coxswain (4-),M,Bronze
+5604,Amsterdam,1928,Rowing,Rowing,"BRONIKOWSKI, Franciszek",POL,Men,four-oared shell with coxswain (4-),M,Bronze
+5605,Amsterdam,1928,Rowing,Rowing,"DREWEK, Boleslaw",POL,Men,four-oared shell with coxswain (4-),M,Bronze
+5606,Amsterdam,1928,Rowing,Rowing,"JANKOWSKI, Edmund",POL,Men,four-oared shell with coxswain (4-),M,Bronze
+5607,Amsterdam,1928,Rowing,Rowing,"ORMANOWSKI, Bernard",POL,Men,four-oared shell with coxswain (4-),M,Bronze
+5608,Amsterdam,1928,Rowing,Rowing,"D, Giliante",ITA,Men,four-oared shell with coxswain (4-),M,Gold
+5609,Amsterdam,1928,Rowing,Rowing,"DELISE, Giovanni",ITA,Men,four-oared shell with coxswain (4-),M,Gold
+5610,Amsterdam,1928,Rowing,Rowing,"PERENTIN, Valerio",ITA,Men,four-oared shell with coxswain (4-),M,Gold
+5611,Amsterdam,1928,Rowing,Rowing,"PETRONIO, Renato",ITA,Men,four-oared shell with coxswain (4-),M,Gold
+5612,Amsterdam,1928,Rowing,Rowing,"VITTORI, Nicolo",ITA,Men,four-oared shell with coxswain (4-),M,Gold
+5613,Amsterdam,1928,Rowing,Rowing,"BÖSCH, Fritz",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+5614,Amsterdam,1928,Rowing,Rowing,"BUCHER, Otto",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+5615,Amsterdam,1928,Rowing,Rowing,"HAAS, Ernst",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+5616,Amsterdam,1928,Rowing,Rowing,"MEYER, Joseph",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+5617,Amsterdam,1928,Rowing,Rowing,"SCHWEGLER, Karl",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+5618,Amsterdam,1928,Rowing,Rowing,"ANTHONY, Georges",BEL,Men,pair-oared shell with coxswain (2+),M,Bronze
+5619,Amsterdam,1928,Rowing,Rowing,"DE CONINCK, François",BEL,Men,pair-oared shell with coxswain (2+),M,Bronze
+5620,Amsterdam,1928,Rowing,Rowing,"FLAMENT, Léon",BEL,Men,pair-oared shell with coxswain (2+),M,Bronze
+5621,Amsterdam,1928,Rowing,Rowing,"BOURQUIN, Hans",SUI,Men,pair-oared shell with coxswain (2+),M,Gold
+5622,Amsterdam,1928,Rowing,Rowing,"SCHÖCHLIN, Hans W.",SUI,Men,pair-oared shell with coxswain (2+),M,Gold
+5623,Amsterdam,1928,Rowing,Rowing,"SCHÖCHLIN, Karl F.",SUI,Men,pair-oared shell with coxswain (2+),M,Gold
+5624,Amsterdam,1928,Rowing,Rowing,"MARCELLE, Armand",FRA,Men,pair-oared shell with coxswain (2+),M,Silver
+5625,Amsterdam,1928,Rowing,Rowing,"MARCELLE, Edouard",FRA,Men,pair-oared shell with coxswain (2+),M,Silver
+5626,Amsterdam,1928,Rowing,Rowing,"PRÉAUX, Henri",FRA,Men,pair-oared shell with coxswain (2+),M,Silver
+5627,Amsterdam,1928,Rowing,Rowing,"COLLET, Theodore David Anthony",GBR,Men,single sculls (1x),M,Bronze
+5628,Amsterdam,1928,Rowing,Rowing,"PEARCE, Henry Robert",AUS,Men,single sculls (1x),M,Gold
+5629,Amsterdam,1928,Rowing,Rowing,"MYERS, Kenneth",USA,Men,single sculls (1x),M,Silver
+5630,Amsterdam,1928,Sailing,Sailing,"BROMAN, B.",FIN,Men,12 foot dinghy individual,X,Bronze
+5631,Amsterdam,1928,Sailing,Sailing,"THORELL, Sven",SWE,Men,12 foot dinghy individual,X,Gold
+5632,Amsterdam,1928,Sailing,Sailing,"ROBERT, Henrik",NOR,Men,12 foot dinghy individual,X,Silver
+5633,Amsterdam,1928,Sailing,Sailing,"FAEHLMANN, A.",EST,Men,6m,X,Bronze
+5634,Amsterdam,1928,Sailing,Sailing,"FAEHLMANN, G.",EST,Men,6m,X,Bronze
+5635,Amsterdam,1928,Sailing,Sailing,"VOGDT, E.",EST,Men,6m,X,Bronze
+5636,Amsterdam,1928,Sailing,Sailing,"VON WIREN, W.",EST,Men,6m,X,Bronze
+5637,Amsterdam,1928,Sailing,Sailing,"WEKSCHIN, N.",EST,Men,6m,X,Bronze
+5638,Amsterdam,1928,Sailing,Sailing,"ANKER, E.",NOR,Men,6m,X,Gold
+5639,Amsterdam,1928,Sailing,Sailing,"ANKER, Johan August",NOR,Men,6m,X,Gold
+5640,Amsterdam,1928,Sailing,Sailing,"BRYHN, H.P.",NOR,Men,6m,X,Gold
+5641,Amsterdam,1928,Sailing,Sailing,"CROWN PRINCE OLAV, H.R.H.",NOR,Men,6m,X,Gold
+5642,Amsterdam,1928,Sailing,Sailing,HOY-PETERSEN,DEN,Men,6m,X,Silver
+5643,Amsterdam,1928,Sailing,Sailing,"LINCK, S.",DEN,Men,6m,X,Silver
+5644,Amsterdam,1928,Sailing,Sailing,"MOELLER, Edmund Otto Jr.",DEN,Men,6m,X,Silver
+5645,Amsterdam,1928,Sailing,Sailing,"SCHLÜTTER, P.",DEN,Men,6m,X,Silver
+5646,Amsterdam,1928,Sailing,Sailing,"VETT, Vilhelm",DEN,Men,6m,X,Silver
+5647,Amsterdam,1928,Sailing,Sailing,"HAMMAR, Clarence",SWE,Men,8m,X,Bronze
+5648,Amsterdam,1928,Sailing,Sailing,"HOLM, Tore",SWE,Men,8m,X,Bronze
+5649,Amsterdam,1928,Sailing,Sailing,"SANDBLOM, C.G.",SWE,Men,8m,X,Bronze
+5650,Amsterdam,1928,Sailing,Sailing,"SANDBLOM, J.N.",SWE,Men,8m,X,Bronze
+5651,Amsterdam,1928,Sailing,Sailing,"SANDBLOM, J.P.",SWE,Men,8m,X,Bronze
+5652,Amsterdam,1928,Sailing,Sailing,"TOERSLEFF, O.W.F.",SWE,Men,8m,X,Bronze
+5653,Amsterdam,1928,Sailing,Sailing,"DE VRIES LENTSCH JR., Willem",NED,Men,8m,X,Silver
+5654,Amsterdam,1928,Sailing,Sailing,"DE WIT, M.",NED,Men,8m,X,Silver
+5655,Amsterdam,1928,Sailing,Sailing,"DOEDES, L.",NED,Men,8m,X,Silver
+5656,Amsterdam,1928,Sailing,Sailing,"KERSKEN, H.",NED,Men,8m,X,Silver
+5657,Amsterdam,1928,Sailing,Sailing,"VAN HOOLWERFF, J.C.",NED,Men,8m,X,Silver
+5658,Amsterdam,1928,Sailing,Sailing,"VAN STAVEREN, C.",NED,Men,8m,X,Silver
+5659,Amsterdam,1928,Sailing,Sailing,"HERIOT, Virginie",FRA,Women,8m,X,Gold
+5660,Amsterdam,1928,Weightlifting,Weightlifting,"WÖLPERT, Hans",GER,Men,"- 60kg, total (featherweight)",M,Bronze
+5661,Amsterdam,1928,Weightlifting,Weightlifting,"ANDRYSEK, Franz Joseph",AUT,Men,"- 60kg, total (featherweight)",M,Gold
+5662,Amsterdam,1928,Weightlifting,Weightlifting,"GABETTI, Pierino",ITA,Men,"- 60kg, total (featherweight)",M,Silver
+5663,Amsterdam,1928,Weightlifting,Weightlifting,"SKOBLA, Jaroslav",TCH,Men,"+ 82.5kg, total (heavyweight)",M,Bronze
+5664,Amsterdam,1928,Weightlifting,Weightlifting,"STRASSBERGER, Josef",GER,Men,"+ 82.5kg, total (heavyweight)",M,Gold
+5665,Amsterdam,1928,Weightlifting,Weightlifting,"LUHAÄÄR, Arnold",EST,Men,"+ 82.5kg, total (heavyweight)",M,Silver
+5666,Amsterdam,1928,Weightlifting,Weightlifting,"ARNOUT, Fernand",FRA,Men,"60 - 67.5kg, total (lightweight)",M,Bronze
+5667,Amsterdam,1928,Weightlifting,Weightlifting,"HAAS, Hans",AUT,Men,"60 - 67.5kg, total (lightweight)",M,Gold
+5668,Amsterdam,1928,Weightlifting,Weightlifting,"HELBIG, Kurt",GER,Men,"60 - 67.5kg, total (lightweight)",M,Gold
+5669,Amsterdam,1928,Weightlifting,Weightlifting,"SCHEFFER, August",NED,Men,"67.5 - 75kg, total (middleweight)",M,Bronze
+5670,Amsterdam,1928,Weightlifting,Weightlifting,"FRANÇOIS, Roger",FRA,Men,"67.5 - 75kg, total (middleweight)",M,Gold
+5671,Amsterdam,1928,Weightlifting,Weightlifting,"GALIMBERTI, Carlo",ITA,Men,"67.5 - 75kg, total (middleweight)",M,Silver
+5672,Amsterdam,1928,Weightlifting,Weightlifting,"VERHEYEN, Johannes",NED,Men,"75 - 82.5kg, total (light-heavyweight)",M,Bronze
+5673,Amsterdam,1928,Weightlifting,Weightlifting,"NOSSEIR, El Sayed Mohamed",EGY,Men,"75 - 82.5kg, total (light-heavyweight)",M,Gold
+5674,Amsterdam,1928,Weightlifting,Weightlifting,"HOSTIN, Louis",FRA,Men,"75 - 82.5kg, total (light-heavyweight)",M,Silver
+5675,Amsterdam,1928,Wrestling,Wrestling Free.,"TRIFUNOV, James",CAN,Men,- 56kg (bantamweight),M,Bronze
+5676,Amsterdam,1928,Wrestling,Wrestling Free.,"MÄKINEN, Kaarlo E.",FIN,Men,- 56kg (bantamweight),M,Gold
+5677,Amsterdam,1928,Wrestling,Wrestling Free.,"SPAPEN, Edmond",BEL,Men,- 56kg (bantamweight),M,Silver
+5678,Amsterdam,1928,Wrestling,Wrestling Free.,"DAME, Edmond",FRA,Men,+ 87kg (heavyweight),M,Bronze
+5679,Amsterdam,1928,Wrestling,Wrestling Free.,"RICKTTOFF, Johan",SWE,Men,+ 87kg (heavyweight),M,Gold
+5680,Amsterdam,1928,Wrestling,Wrestling Free.,"SIHVOLA, A.",FIN,Men,+ 87kg (heavyweight),M,Silver
+5681,Amsterdam,1928,Wrestling,Wrestling Free.,"MINDER, Hans",SUI,Men,56 - 61kg (featherweight),M,Bronze
+5682,Amsterdam,1928,Wrestling,Wrestling Free.,"MORRISON, Allie Roy",USA,Men,56 - 61kg (featherweight),M,Gold
+5683,Amsterdam,1928,Wrestling,Wrestling Free.,"PIHLAJAMÄKI, Kustaa",FIN,Men,56 - 61kg (featherweight),M,Silver
+5684,Amsterdam,1928,Wrestling,Wrestling Free.,"LEINO, Eino Aukusti",FIN,Men,61 - 66kg (lightweight),M,Bronze
+5685,Amsterdam,1928,Wrestling,Wrestling Free.,"KAPP, Osvald",EST,Men,61 - 66kg (lightweight),M,Gold
+5686,Amsterdam,1928,Wrestling,Wrestling Free.,"PACÔME, Charles",FRA,Men,61 - 66kg (lightweight),M,Silver
+5687,Amsterdam,1928,Wrestling,Wrestling Free.,"LETCHFORD, Maurice E.",CAN,Men,66 - 72kg (welterweight),M,Bronze
+5688,Amsterdam,1928,Wrestling,Wrestling Free.,"HAAVISTO, Arvo",FIN,Men,66 - 72kg (welterweight),M,Gold
+5689,Amsterdam,1928,Wrestling,Wrestling Free.,"APPLETON, Lloyd Otto",USA,Men,66 - 72kg (welterweight),M,Silver
+5690,Amsterdam,1928,Wrestling,Wrestling Free.,"RABIN, S.",GBR,Men,72 - 79kg (middleweight),M,Bronze
+5691,Amsterdam,1928,Wrestling,Wrestling Free.,"KYBURZ, E.",SUI,Men,72 - 79kg (middleweight),M,Gold
+5692,Amsterdam,1928,Wrestling,Wrestling Free.,"STOCKTON, Donald Parker",CAN,Men,72 - 79kg (middleweight),M,Silver
+5693,Amsterdam,1928,Wrestling,Wrestling Free.,"LEFEBVRE, H.",FRA,Men,79 - 87kg (light-heavyweight),M,Bronze
+5694,Amsterdam,1928,Wrestling,Wrestling Free.,"SJÖSTEDT, Thure",SWE,Men,79 - 87kg (light-heavyweight),M,Gold
+5695,Amsterdam,1928,Wrestling,Wrestling Free.,"BÖGLI, A.",SUI,Men,79 - 87kg (light-heavyweight),M,Silver
+5696,Amsterdam,1928,Wrestling,Wrestling Gre-R,"GOZZI, Giovanni",ITA,Men,- 58kg (bantamweight),M,Bronze
+5697,Amsterdam,1928,Wrestling,Wrestling Gre-R,"LEUCHT, K.",GER,Men,- 58kg (bantamweight),M,Gold
+5698,Amsterdam,1928,Wrestling,Wrestling Gre-R,"MAUDR, Jindrich",TCH,Men,- 58kg (bantamweight),M,Silver
+5699,Amsterdam,1928,Wrestling,Wrestling Gre-R,"GEHRING, Georg",GER,Men,+ 82.5kg (super heavyweight),M,Bronze
+5700,Amsterdam,1928,Wrestling,Wrestling Gre-R,"SVENSSON, Rudolf",SWE,Men,+ 82.5kg (super heavyweight),M,Gold
+5701,Amsterdam,1928,Wrestling,Wrestling Gre-R,"NYSTRÖM, Hjalmar Eemil",FIN,Men,+ 82.5kg (super heavyweight),M,Silver
+5702,Amsterdam,1928,Wrestling,Wrestling Gre-R,"QUAGLIA, Gerolamo",ITA,Men,58 - 60kg (featherweight),M,Bronze
+5703,Amsterdam,1928,Wrestling,Wrestling Gre-R,"WALI, W.",EST,Men,58 - 60kg (featherweight),M,Gold
+5704,Amsterdam,1928,Wrestling,Wrestling Gre-R,"MALMBERG, Eric",SWE,Men,58 - 60kg (featherweight),M,Silver
+5705,Amsterdam,1928,Wrestling,Wrestling Gre-R,"VESTERLUND, E.V.",FIN,Men,60 - 67.5kg (lightweight),M,Bronze
+5706,Amsterdam,1928,Wrestling,Wrestling Gre-R,"KERESZTES, Lajos",HUN,Men,60 - 67.5kg (lightweight),M,Gold
+5707,Amsterdam,1928,Wrestling,Wrestling Gre-R,"SPERLING, Eduard",GER,Men,60 - 67.5kg (lightweight),M,Silver
+5708,Amsterdam,1928,Wrestling,Wrestling Gre-R,"KUSNETS, Albert",EST,Men,67.5 - 75kg (middleweight),M,Bronze
+5709,Amsterdam,1928,Wrestling,Wrestling Gre-R,"KOKKINEN, Väinö Anselmi",FIN,Men,67.5 - 75kg (middleweight),M,Gold
+5710,Amsterdam,1928,Wrestling,Wrestling Gre-R,"PAPP, L.",HUN,Men,67.5 - 75kg (middleweight),M,Silver
+5711,Amsterdam,1928,Wrestling,Wrestling Gre-R,"PELLINEN, Onni",FIN,Men,75 - 82.5kg (light-heavyweight),M,Bronze
+5712,Amsterdam,1928,Wrestling,Wrestling Gre-R,"MOUSTAPHA, Ibrahim",EGY,Men,75 - 82.5kg (light-heavyweight),M,Gold
+5713,Amsterdam,1928,Wrestling,Wrestling Gre-R,"RIEGER, A.",GER,Men,75 - 82.5kg (light-heavyweight),M,Silver

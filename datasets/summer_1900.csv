@@ -1,0 +1,513 @@
+,City,Edition,Sport,Discipline,Athlete,NOC,Gender,Event,Event_gender,Medal
+151,Paris,1900,Aquatics,Swimming,"HALMAY, Zoltan",HUN,Men,1500m freestyle,M,Bronze
+152,Paris,1900,Aquatics,Swimming,"JARVIS, John Arthur",GBR,Men,1500m freestyle,M,Gold
+153,Paris,1900,Aquatics,Swimming,"WAHLE, Otto",AUT,Men,1500m freestyle,M,Silver
+154,Paris,1900,Aquatics,Swimming,"DROST, Johannes",NED,Men,200m backstroke,M,Bronze
+155,Paris,1900,Aquatics,Swimming,"HOPPENBERG, Ernst",GER,Men,200m backstroke,M,Gold
+156,Paris,1900,Aquatics,Swimming,"RUBERL, Karl",AUT,Men,200m backstroke,M,Silver
+157,Paris,1900,Aquatics,Swimming,"RUBERL, Karl",AUT,Men,200m freestyle,M,Bronze
+158,Paris,1900,Aquatics,Swimming,"LANE, Frederick C.V.",AUS,Men,200m freestyle,M,Gold
+159,Paris,1900,Aquatics,Swimming,"HALMAY, Zoltan",HUN,Men,200m freestyle,M,Silver
+160,Paris,1900,Aquatics,Swimming,"KEMP, Peter",GBR,Men,200m obstacle event,M,Bronze
+161,Paris,1900,Aquatics,Swimming,"LANE, Frederick C.V.",AUS,Men,200m obstacle event,M,Gold
+162,Paris,1900,Aquatics,Swimming,"WAHLE, Otto",AUT,Men,200m obstacle event,M,Silver
+163,Paris,1900,Aquatics,Swimming,HOUBEN,FRA,Men,200m team swimming,M,Bronze
+164,Paris,1900,Aquatics,Swimming,"LEUILLIEUX, Jean",FRA,Men,200m team swimming,M,Bronze
+165,Paris,1900,Aquatics,Swimming,"MARTIN, Louis",FRA,Men,200m team swimming,M,Bronze
+166,Paris,1900,Aquatics,Swimming,"MERCHEZ, Désiré",FRA,Men,200m team swimming,M,Bronze
+167,Paris,1900,Aquatics,Swimming,TARTARA,FRA,Men,200m team swimming,M,Bronze
+168,Paris,1900,Aquatics,Swimming,"FREY, Julius",GER,Men,200m team swimming,M,Gold
+169,Paris,1900,Aquatics,Swimming,"HAINLE, Max",GER,Men,200m team swimming,M,Gold
+170,Paris,1900,Aquatics,Swimming,"HOPPENBERG, Ernst",GER,Men,200m team swimming,M,Gold
+171,Paris,1900,Aquatics,Swimming,"SCHÖNE, Max",GER,Men,200m team swimming,M,Gold
+172,Paris,1900,Aquatics,Swimming,"VON PETERSDORFF, Herbert",GER,Men,200m team swimming,M,Gold
+173,Paris,1900,Aquatics,Swimming,BERTRAND,FRA,Men,200m team swimming,M,Silver
+174,Paris,1900,Aquatics,Swimming,CADET,FRA,Men,200m team swimming,M,Silver
+175,Paris,1900,Aquatics,Swimming,"HOCHEPIED, Maurice",FRA,Men,200m team swimming,M,Silver
+176,Paris,1900,Aquatics,Swimming,"HOCHEPIED, Victor",FRA,Men,200m team swimming,M,Silver
+177,Paris,1900,Aquatics,Swimming,VERBECKE,FRA,Men,200m team swimming,M,Silver
+178,Paris,1900,Aquatics,Swimming,"MARTIN, Louis",FRA,Men,4000m freestyle,M,Bronze
+179,Paris,1900,Aquatics,Swimming,"JARVIS, John Arthur",GBR,Men,4000m freestyle,M,Gold
+180,Paris,1900,Aquatics,Swimming,"HALMAY, Zoltan",HUN,Men,4000m freestyle,M,Silver
+181,Paris,1900,Aquatics,Swimming,"LYKKEBERG, Peder",DEN,Men,underwater swimming,M,Bronze
+182,Paris,1900,Aquatics,Swimming,"DE VENDEVILLE, Charles",FRA,Men,underwater swimming,M,Gold
+183,Paris,1900,Aquatics,Swimming,"SIX, André",FRA,Men,underwater swimming,M,Silver
+184,Paris,1900,Aquatics,Water polo,"BURGESS, Thomas",FRA,Men,water polo,M,Bronze
+185,Paris,1900,Aquatics,Water polo,COULON,FRA,Men,water polo,M,Bronze
+186,Paris,1900,Aquatics,Water polo,"DECUYPER, Alphonse",FRA,Men,water polo,M,Bronze
+187,Paris,1900,Aquatics,Water polo,DEVENOT,FRA,Men,water polo,M,Bronze
+188,Paris,1900,Aquatics,Water polo,FARDELLE,FRA,Men,water polo,M,Bronze
+189,Paris,1900,Aquatics,Water polo,FAVIER,FRA,Men,water polo,M,Bronze
+190,Paris,1900,Aquatics,Water polo,"LAUFRAY, Louis",FRA,Men,water polo,M,Bronze
+191,Paris,1900,Aquatics,Water polo,LERICHE,FRA,Men,water polo,M,Bronze
+192,Paris,1900,Aquatics,Water polo,"MARTIN, Louis",FRA,Men,water polo,M,Bronze
+193,Paris,1900,Aquatics,Water polo,"MERCHEZ, Désiré",FRA,Men,water polo,M,Bronze
+194,Paris,1900,Aquatics,Water polo,"PESLIER, Henri",FRA,Men,water polo,M,Bronze
+195,Paris,1900,Aquatics,Water polo,PESLOY,FRA,Men,water polo,M,Bronze
+196,Paris,1900,Aquatics,Water polo,"TREFFEL, Charles",FRA,Men,water polo,M,Bronze
+197,Paris,1900,Aquatics,Water polo,"VASSEUR, Paul",FRA,Men,water polo,M,Bronze
+198,Paris,1900,Aquatics,Water polo,"COE, Thomas",GBR,Men,water polo,M,Gold
+199,Paris,1900,Aquatics,Water polo,"DERBYSHIRE, John Henry",GBR,Men,water polo,M,Gold
+200,Paris,1900,Aquatics,Water polo,"KEMP, Peter",GBR,Men,water polo,M,Gold
+201,Paris,1900,Aquatics,Water polo,"LISTER, William",GBR,Men,water polo,M,Gold
+202,Paris,1900,Aquatics,Water polo,"ROBERTSON, Arthur",GBR,Men,water polo,M,Gold
+203,Paris,1900,Aquatics,Water polo,"ROBINSON, Eric",GBR,Men,water polo,M,Gold
+204,Paris,1900,Aquatics,Water polo,"WILKINSON, George",GBR,Men,water polo,M,Gold
+205,Paris,1900,Aquatics,Water polo,"COHEN, Henri",BEL,Men,water polo,M,Silver
+206,Paris,1900,Aquatics,Water polo,"DE BACKER, Jean",BEL,Men,water polo,M,Silver
+207,Paris,1900,Aquatics,Water polo,"DE BEHR, Victor",BEL,Men,water polo,M,Silver
+208,Paris,1900,Aquatics,Water polo,"FEYAERTS, Fernand",BEL,Men,water polo,M,Silver
+209,Paris,1900,Aquatics,Water polo,"GREGOIRE, Oscar",BEL,Men,water polo,M,Silver
+210,Paris,1900,Aquatics,Water polo,"MICHANT, Albert",BEL,Men,water polo,M,Silver
+211,Paris,1900,Aquatics,Water polo,"SONNEMANS, Victor",BEL,Men,water polo,M,Silver
+212,Paris,1900,Archery,Archery,"PETIT, Charles Frédéric",FRA,Men,"au chapelet, 33m",M,Bronze
+213,Paris,1900,Archery,Archery,"VAN INNIS, Hubert",BEL,Men,"au chapelet, 33m",M,Gold
+214,Paris,1900,Archery,Archery,"THIBAUD, Victor",FRA,Men,"au chapelet, 33m",M,Silver
+215,Paris,1900,Archery,Archery,"MERCIER, Emile",FRA,Men,"au chapelet, 50m",M,Bronze
+216,Paris,1900,Archery,Archery,"MOUGIN, Eugène",FRA,Men,"au chapelet, 50m",M,Gold
+217,Paris,1900,Archery,Archery,"HELLE, Henri",FRA,Men,"au chapelet, 50m",M,Silver
+218,Paris,1900,Archery,Archery,"PETIT, Charles Frédéric",FRA,Men,"au cordon doré, 33m",M,Bronze
+219,Paris,1900,Archery,Archery,"VAN INNIS, Hubert",BEL,Men,"au cordon doré, 33m",M,Gold
+220,Paris,1900,Archery,Archery,"THIBAUD, Victor",FRA,Men,"au cordon doré, 33m",M,Silver
+221,Paris,1900,Archery,Archery,"FISSEUX, Emile",FRA,Men,"au cordon doré, 50m",M,Bronze
+222,Paris,1900,Archery,Archery,"HEROUIN, Henri",FRA,Men,"au cordon doré, 50m",M,Gold
+223,Paris,1900,Archery,Archery,"VAN INNIS, Hubert",BEL,Men,"au cordon doré, 50m",M,Silver
+224,Paris,1900,Archery,Archery,"FOULON, Emmanuel",BEL,Men,sur la perche à la herse,M,Gold
+225,Paris,1900,Archery,Archery,"DRUART, Jr.",BEL,Men,sur la perche à la herse,M,Silver
+226,Paris,1900,Archery,Archery,"SERRURIER, Auguste",FRA,Men,sur la perche à la herse,M,Silver
+227,Paris,1900,Archery,Archery,"GLINEUX, Louis",BEL,Men,sur la perche à la pyramide,M,Bronze
+228,Paris,1900,Archery,Archery,"GRUMIAUX, Emile",FRA,Men,sur la perche à la pyramide,M,Gold
+229,Paris,1900,Archery,Archery,"SERRURIER, Auguste",FRA,Men,sur la perche à la pyramide,M,Silver
+230,Paris,1900,Athletics,Athletics,"ROWLEY, Stanley",AUS,Men,100m,M,Bronze
+231,Paris,1900,Athletics,Athletics,"JARVIS, Francis",USA,Men,100m,M,Gold
+232,Paris,1900,Athletics,Athletics,"TEWKSBURY, Walter B. John",USA,Men,100m,M,Silver
+233,Paris,1900,Athletics,Athletics,"MOLONEY, Frederick",USA,Men,110m hurdles,M,Bronze
+234,Paris,1900,Athletics,Athletics,"KRAENZLEIN, Alvin",USA,Men,110m hurdles,M,Gold
+235,Paris,1900,Athletics,Athletics,"MCLEAN, John",USA,Men,110m hurdles,M,Silver
+236,Paris,1900,Athletics,Athletics,"BRAY, John",USA,Men,1500m,M,Bronze
+237,Paris,1900,Athletics,Athletics,"BENNETT, Charles",GBR,Men,1500m,M,Gold
+238,Paris,1900,Athletics,Athletics,"DELOGE, Henri",FRA,Men,1500m,M,Silver
+239,Paris,1900,Athletics,Athletics,"ROWLEY, Stanley",AUS,Men,200m,M,Bronze
+240,Paris,1900,Athletics,Athletics,"TEWKSBURY, Walter B. John",USA,Men,200m,M,Gold
+241,Paris,1900,Athletics,Athletics,"PRITCHARD, Norman",IND,Men,200m,M,Silver
+242,Paris,1900,Athletics,Athletics,"TEWKSBURY, Walter B. John",USA,Men,200m hurdles,M,Bronze
+243,Paris,1900,Athletics,Athletics,"KRAENZLEIN, Alvin",USA,Men,200m hurdles,M,Gold
+244,Paris,1900,Athletics,Athletics,"PRITCHARD, Norman",IND,Men,200m hurdles,M,Silver
+245,Paris,1900,Athletics,Athletics,"CHASTANIE, Jacques",FRA,Men,3000m steeplechase,M,Bronze
+246,Paris,1900,Athletics,Athletics,"ORTON, George",CAN,Men,3000m steeplechase,M,Gold
+247,Paris,1900,Athletics,Athletics,"ROBINSON, Sidney",GBR,Men,3000m steeplechase,M,Silver
+248,Paris,1900,Athletics,Athletics,"ROBINSON, Sidney",GBR,Men,4000m steeplechase,M,Bronze
+249,Paris,1900,Athletics,Athletics,"RIMMER, John",GBR,Men,4000m steeplechase,M,Gold
+250,Paris,1900,Athletics,Athletics,"BENNETT, Charles",GBR,Men,4000m steeplechase,M,Silver
+251,Paris,1900,Athletics,Athletics,"SCHULTZ, Ernst",DEN,Men,400m,M,Bronze
+252,Paris,1900,Athletics,Athletics,"LONG, Maxwell W.Maxey",USA,Men,400m,M,Gold
+253,Paris,1900,Athletics,Athletics,"HOLLAND, William",USA,Men,400m,M,Silver
+254,Paris,1900,Athletics,Athletics,"ORTON, George",CAN,Men,400m hurdles,M,Bronze
+255,Paris,1900,Athletics,Athletics,"TEWKSBURY, Walter B. John",USA,Men,400m hurdles,M,Gold
+256,Paris,1900,Athletics,Athletics,"TAUZIN, Henri",FRA,Men,400m hurdles,M,Silver
+257,Paris,1900,Athletics,Athletics,"BENNETT, Charles",ZZX,Men,5000m team,M,Gold
+258,Paris,1900,Athletics,Athletics,"RIMMER, John",ZZX,Men,5000m team,M,Gold
+259,Paris,1900,Athletics,Athletics,"ROBINSON, Sidney",ZZX,Men,5000m team,M,Gold
+260,Paris,1900,Athletics,Athletics,"ROWLEY, Stanley",ZZX,Men,5000m team,M,Gold
+261,Paris,1900,Athletics,Athletics,"TYSOE, Alfred",ZZX,Men,5000m team,M,Gold
+262,Paris,1900,Athletics,Athletics,"CASTANET, André",FRA,Men,5000m team,M,Silver
+263,Paris,1900,Athletics,Athletics,"CHAMPOUDRY, Michel",FRA,Men,5000m team,M,Silver
+264,Paris,1900,Athletics,Athletics,"CHASTANIE, Jacques",FRA,Men,5000m team,M,Silver
+265,Paris,1900,Athletics,Athletics,"DELOGE, Henri",FRA,Men,5000m team,M,Silver
+266,Paris,1900,Athletics,Athletics,"RAGUENEAU, Gaston",FRA,Men,5000m team,M,Silver
+267,Paris,1900,Athletics,Athletics,"ROWLEY, Stanley",AUS,Men,60m,M,Bronze
+268,Paris,1900,Athletics,Athletics,"KRAENZLEIN, Alvin",USA,Men,60m,M,Gold
+269,Paris,1900,Athletics,Athletics,"TEWKSBURY, Walter B. John",USA,Men,60m,M,Silver
+270,Paris,1900,Athletics,Athletics,"HALL, David",USA,Men,800m,M,Bronze
+271,Paris,1900,Athletics,Athletics,"TYSOE, Alfred",GBR,Men,800m,M,Gold
+272,Paris,1900,Athletics,Athletics,"CREGAN, John",USA,Men,800m,M,Silver
+273,Paris,1900,Athletics,Athletics,"SHELDON, Richard",USA,Men,discus throw,M,Bronze
+274,Paris,1900,Athletics,Athletics,"BAUER, Rudolf",HUN,Men,discus throw,M,Gold
+275,Paris,1900,Athletics,Athletics,"JANDA, Frantisek",BOH,Men,discus throw,M,Silver
+276,Paris,1900,Athletics,Athletics,"MCCRACKEN, Josiah",USA,Men,hammer throw,M,Bronze
+277,Paris,1900,Athletics,Athletics,"FLANAGAN, John Jesus",USA,Men,hammer throw,M,Gold
+278,Paris,1900,Athletics,Athletics,"HARE, Thomas Truxton",USA,Men,hammer throw,M,Silver
+279,Paris,1900,Athletics,Athletics,"GÖNCZY, Lajos",HUN,Men,high jump,M,Bronze
+280,Paris,1900,Athletics,Athletics,"BAXTER, Irving",USA,Men,high jump,M,Gold
+281,Paris,1900,Athletics,Athletics,"LEAHY, Patrick Joseph",GBR,Men,high jump,M,Silver
+282,Paris,1900,Athletics,Athletics,"SHELDON, Lewis Pendleton",USA,Men,"high jump, standing",M,Bronze
+283,Paris,1900,Athletics,Athletics,"EWRY, Ray",USA,Men,"high jump, standing",M,Gold
+284,Paris,1900,Athletics,Athletics,"BAXTER, Irving",USA,Men,"high jump, standing",M,Silver
+285,Paris,1900,Athletics,Athletics,"LEAHY, Patrick Joseph",GBR,Men,long jump,M,Bronze
+286,Paris,1900,Athletics,Athletics,"KRAENZLEIN, Alvin",USA,Men,long jump,M,Gold
+287,Paris,1900,Athletics,Athletics,"PRINSTEIN, Meyer",USA,Men,long jump,M,Silver
+288,Paris,1900,Athletics,Athletics,"TORCHEBOEUF, Emile",FRA,Men,"long jump, standing",M,Bronze
+289,Paris,1900,Athletics,Athletics,"EWRY, Ray",USA,Men,"long jump, standing",M,Gold
+290,Paris,1900,Athletics,Athletics,"BAXTER, Irving",USA,Men,"long jump, standing",M,Silver
+291,Paris,1900,Athletics,Athletics,"FAST, Ernst",SWE,Men,marathon,M,Bronze
+292,Paris,1900,Athletics,Athletics,"THEATO, Michel",FRA,Men,marathon,M,Gold
+293,Paris,1900,Athletics,Athletics,"CHAMPION, Emile",FRA,Men,marathon,M,Silver
+294,Paris,1900,Athletics,Athletics,"ANDERSEN, Carl Albert",NOR,Men,pole vault,M,Bronze
+295,Paris,1900,Athletics,Athletics,"BAXTER, Irving",USA,Men,pole vault,M,Gold
+296,Paris,1900,Athletics,Athletics,"COLKETT, Meredith Bright",USA,Men,pole vault,M,Silver
+297,Paris,1900,Athletics,Athletics,"GARRETT, Robert",USA,Men,shot put,M,Bronze
+298,Paris,1900,Athletics,Athletics,"SHELDON, Richard",USA,Men,shot put,M,Gold
+299,Paris,1900,Athletics,Athletics,"MCCRACKEN, Josiah",USA,Men,shot put,M,Silver
+300,Paris,1900,Athletics,Athletics,"SHELDON, Lewis Pendleton",USA,Men,triple jump,M,Bronze
+301,Paris,1900,Athletics,Athletics,"PRINSTEIN, Meyer",USA,Men,triple jump,M,Gold
+302,Paris,1900,Athletics,Athletics,"CONNOLLY, James",USA,Men,triple jump,M,Silver
+303,Paris,1900,Athletics,Athletics,"GARRETT, Robert",USA,Men,"triple jump, standing",M,Bronze
+304,Paris,1900,Athletics,Athletics,"EWRY, Ray",USA,Men,"triple jump, standing",M,Gold
+305,Paris,1900,Athletics,Athletics,"BAXTER, Irving",USA,Men,"triple jump, standing",M,Silver
+306,Paris,1900,Basque Pelota,Basque Pelota,"De AMEZOLA y ASPIZUA, José",ESP,Men,cesta punta,M,Gold
+307,Paris,1900,Basque Pelota,Basque Pelota,"VILLOTA BAQUIOLA, Francisco",ESP,Men,cesta punta,M,Gold
+308,Paris,1900,Basque Pelota,Basque Pelota,"DURQUETTY, Maurice",FRA,Men,cesta punta,M,Silver
+309,Paris,1900,Basque Pelota,Basque Pelota,ETCHEGARAY,FRA,Men,cesta punta,M,Silver
+310,Paris,1900,Cricket,Cricket,"BEACHCROFT, Charles",GBR,Men,cricket,M,Gold
+311,Paris,1900,Cricket,Cricket,"BIRKETT, Arthur Ernest",GBR,Men,cricket,M,Gold
+312,Paris,1900,Cricket,Cricket,"BOWERMAN, Alfred James",GBR,Men,cricket,M,Gold
+313,Paris,1900,Cricket,Cricket,"BUCKLEY, George John",GBR,Men,cricket,M,Gold
+314,Paris,1900,Cricket,Cricket,"BURCHELL, Francis Romulus",GBR,Men,cricket,M,Gold
+315,Paris,1900,Cricket,Cricket,"CHRISTIAN, Frederick William",GBR,Men,cricket,M,Gold
+316,Paris,1900,Cricket,Cricket,"CORNER, Harry Richard",GBR,Men,cricket,M,Gold
+317,Paris,1900,Cricket,Cricket,"CUMING, Frederick Wlliam",GBR,Men,cricket,M,Gold
+318,Paris,1900,Cricket,Cricket,"DONNE, William Stephen",GBR,Men,cricket,M,Gold
+319,Paris,1900,Cricket,Cricket,"POWLESLAND, Alfred James",GBR,Men,cricket,M,Gold
+320,Paris,1900,Cricket,Cricket,"SYMES, John",GBR,Men,cricket,M,Gold
+321,Paris,1900,Cricket,Cricket,"TOLLER, Montagu Henry",GBR,Men,cricket,M,Gold
+322,Paris,1900,Cricket,Cricket,"ANDERSON, W.",FRA,Men,cricket,M,Silver
+323,Paris,1900,Cricket,Cricket,"ATTRILL, W.T.",FRA,Men,cricket,M,Silver
+324,Paris,1900,Cricket,Cricket,"BRAID, J.",FRA,Men,cricket,M,Silver
+325,Paris,1900,Cricket,Cricket,"BROWNING, W.",FRA,Men,cricket,M,Silver
+326,Paris,1900,Cricket,Cricket,"HORNE, R.",FRA,Men,cricket,M,Silver
+327,Paris,1900,Cricket,Cricket,"JORDAN, T.H.",FRA,Men,cricket,M,Silver
+328,Paris,1900,Cricket,Cricket,"MCEVOY, A.",FRA,Men,cricket,M,Silver
+329,Paris,1900,Cricket,Cricket,"ROBINSON, D.",FRA,Men,cricket,M,Silver
+330,Paris,1900,Cricket,Cricket,"ROQUES, F.",FRA,Men,cricket,M,Silver
+331,Paris,1900,Cricket,Cricket,"SCHNEIDAU, A.J.",FRA,Men,cricket,M,Silver
+332,Paris,1900,Cricket,Cricket,"TERRY, Henry John",FRA,Men,cricket,M,Silver
+333,Paris,1900,Cricket,Cricket,"TOMALIN, P.H.",FRA,Men,cricket,M,Silver
+334,Paris,1900,Croquet,Croquet,AUMOITTE,FRA,Men,double,M,Gold
+335,Paris,1900,Croquet,Croquet,JOHIN,FRA,Men,double,M,Gold
+336,Paris,1900,Croquet,Croquet,WAYDELICH,FRA,Men,individual 1 ball,M,Bronze
+337,Paris,1900,Croquet,Croquet,AUMOITTE,FRA,Men,individual 1 ball,M,Gold
+338,Paris,1900,Croquet,Croquet,JOHIN,FRA,Men,individual 1 ball,M,Silver
+339,Paris,1900,Croquet,Croquet,SAUTREAU,FRA,Men,individual 2 balls,M,Bronze
+340,Paris,1900,Croquet,Croquet,WAYDELICH,FRA,Men,individual 2 balls,M,Gold
+341,Paris,1900,Croquet,Croquet,VIGNEROT,FRA,Men,individual 2 balls,M,Silver
+342,Paris,1900,Cycling,Cycling Track,"DAUMAIN, .....",FRA,Men,25 kilometres,M,Bronze
+343,Paris,1900,Cycling,Cycling Track,"BASTIEN, Louis",FRA,Men,25 kilometres,M,Gold
+344,Paris,1900,Cycling,Cycling Track,"HILDEBRAND, Louis",FRA,Men,25 kilometres,M,Silver
+345,Paris,1900,Cycling,Cycling Track,"LAKE, John Henry",USA,Men,Sprint indivual,M,Bronze
+346,Paris,1900,Cycling,Cycling Track,"TAILLANDIER, Georges",FRA,Men,Sprint indivual,M,Gold
+347,Paris,1900,Cycling,Cycling Track,"SANZ, Fernand",FRA,Men,Sprint indivual,M,Silver
+348,Paris,1900,Equestrian,Jumping,"VAN DE POELE, Georges",BEL,Men,high jump,X,Bronze
+349,Paris,1900,Equestrian,Jumping,"GARDERES, Dominique Maximien",FRA,Men,high jump,X,Gold
+350,Paris,1900,Equestrian,Jumping,"TRISSINO, Gian Giorgio",ITA,Men,high jump,X,Gold
+351,Paris,1900,Equestrian,Jumping,"DE CHAMPSAVIN, Louis",FRA,Men,individual,X,Bronze
+352,Paris,1900,Equestrian,Jumping,"HAEGEMAN, Aimé",BEL,Men,individual,X,Gold
+353,Paris,1900,Equestrian,Jumping,"VAN DE POELE, Georges",BEL,Men,individual,X,Silver
+354,Paris,1900,Equestrian,Jumping,DE BELLEGARDE,FRA,Men,long jump individual,X,Bronze
+355,Paris,1900,Equestrian,Jumping,"VAN LANGHENDONCK, Constant",BEL,Men,long jump individual,X,Gold
+356,Paris,1900,Equestrian,Jumping,"TRISSINO, Gian Giorgio",ITA,Men,long jump individual,X,Silver
+357,Paris,1900,Fencing,Fencing,"SEE, Léon",FRA,Men,épée individual,M,Bronze
+358,Paris,1900,Fencing,Fencing,"FONST, Ramon",CUB,Men,épée individual,M,Gold
+359,Paris,1900,Fencing,Fencing,"PERREE, Louis",FRA,Men,épée individual,M,Silver
+360,Paris,1900,Fencing,Fencing,"SEE, Léon",FRA,Men,"épée, amateurs and masters",M,Bronze
+361,Paris,1900,Fencing,Fencing,"AYAT, Albert",FRA,Men,"épée, amateurs and masters",M,Gold
+362,Paris,1900,Fencing,Fencing,"FONST, Ramon",CUB,Men,"épée, amateurs and masters",M,Silver
+363,Paris,1900,Fencing,Fencing,"LAURENT, Henri",FRA,Men,"épée, masters",M,Bronze
+364,Paris,1900,Fencing,Fencing,"AYAT, Albert",FRA,Men,"épée, masters",M,Gold
+365,Paris,1900,Fencing,Fencing,"BOUGNOL, Emile",FRA,Men,"épée, masters",M,Silver
+366,Paris,1900,Fencing,Fencing,"BOULENGER, Marcel Jacques",FRA,Men,foil individual,M,Bronze
+367,Paris,1900,Fencing,Fencing,"COSTE, Emile",FRA,Men,foil individual,M,Gold
+368,Paris,1900,Fencing,Fencing,"MASSON, Henri",FRA,Men,foil individual,M,Silver
+369,Paris,1900,Fencing,Fencing,"MIMIAGUE, Jean-Baptiste",FRA,Men,"foil, masters",M,Bronze
+370,Paris,1900,Fencing,Fencing,"MERIGNAC, Lucien",FRA,Men,"foil, masters",M,Gold
+371,Paris,1900,Fencing,Fencing,"KIRCHHOFFER, Alphonse",FRA,Men,"foil, masters",M,Silver
+372,Paris,1900,Fencing,Fencing,"FLESCH, Siegfried",AUT,Men,sabre individual,M,Bronze
+373,Paris,1900,Fencing,Fencing,"DE LA FALAISE, Georges",FRA,Men,sabre individual,M,Gold
+374,Paris,1900,Fencing,Fencing,"THIEBAUT, Léon",FRA,Men,sabre individual,M,Silver
+375,Paris,1900,Fencing,Fencing,"NERALIC, Milan",AUT,Men,"sabre, masters",M,Bronze
+376,Paris,1900,Fencing,Fencing,"CONTE, Antonio",ITA,Men,"sabre, masters",M,Gold
+377,Paris,1900,Fencing,Fencing,"SANTELLI, Italo",ITA,Men,"sabre, masters",M,Silver
+378,Paris,1900,Football,Football,"DELBECQUE, Albert",BEL,Men,football,M,Bronze
+379,Paris,1900,Football,Football,"KELECOM, R.",BEL,Men,football,M,Bronze
+380,Paris,1900,Football,Football,"LEBOUTTE, Marcel",BEL,Men,football,M,Bronze
+381,Paris,1900,Football,Football,LONDOT,BEL,Men,football,M,Bronze
+382,Paris,1900,Football,Football,"MOREAU, Ernest",BEL,Men,football,M,Bronze
+383,Paris,1900,Football,Football,"NEEFS, E.",BEL,Men,football,M,Bronze
+384,Paris,1900,Football,Football,"PELGRIMS, Georges",BEL,Men,football,M,Bronze
+385,Paris,1900,Football,Football,"RENIER, Alphonse",BEL,Men,football,M,Bronze
+386,Paris,1900,Football,Football,"SPANNOGHE, E.",BEL,Men,football,M,Bronze
+387,Paris,1900,Football,Football,"THORNTON, Erich",BEL,Men,football,M,Bronze
+388,Paris,1900,Football,Football,VAN HEUCKELUM,BEL,Men,football,M,Bronze
+389,Paris,1900,Football,Football,"BUCKENHAM, Claude Percy",GBR,Men,football,M,Gold
+390,Paris,1900,Football,Football,"BURRIDGE, T.E.",GBR,Men,football,M,Gold
+391,Paris,1900,Football,Football,"CHALK, Alfred Ernest",GBR,Men,football,M,Gold
+392,Paris,1900,Football,Football,"GROSLING, William Sullivan",GBR,Men,football,M,Gold
+393,Paris,1900,Football,Football,"HASLAM, A.",GBR,Men,football,M,Gold
+394,Paris,1900,Football,Football,"JONES, J.H.",GBR,Men,football,M,Gold
+395,Paris,1900,Football,Football,"NICHOLAS, J.",GBR,Men,football,M,Gold
+396,Paris,1900,Football,Football,"QUASH, William Francis",GBR,Men,football,M,Gold
+397,Paris,1900,Football,Football,"SPACKMAN, F.G.",GBR,Men,football,M,Gold
+398,Paris,1900,Football,Football,"TURNER, R.R.",GBR,Men,football,M,Gold
+399,Paris,1900,Football,Football,"ZEALLEY, James Edward",GBR,Men,football,M,Gold
+400,Paris,1900,Football,Football,"ALLEMANE, Pierre",FRA,Men,football,M,Silver
+401,Paris,1900,Football,Football,BACH,FRA,Men,football,M,Silver
+402,Paris,1900,Football,Football,"BLOCH, Jean",FRA,Men,football,M,Silver
+403,Paris,1900,Football,Football,"CANELLE, Fernand",FRA,Men,football,M,Silver
+404,Paris,1900,Football,Football,DUPARC,FRA,Men,football,M,Silver
+405,Paris,1900,Football,Football,FRAYSSE,FRA,Men,football,M,Silver
+406,Paris,1900,Football,Football,GAILLARD,FRA,Men,football,M,Silver
+407,Paris,1900,Football,Football,"GARNIER, René",FRA,Men,football,M,Silver
+408,Paris,1900,Football,Football,GRANDJEAN,FRA,Men,football,M,Silver
+409,Paris,1900,Football,Football,HUTEAU,FRA,Men,football,M,Silver
+410,Paris,1900,Football,Football,LAMBERT,FRA,Men,football,M,Silver
+411,Paris,1900,Football,Football,MACAIRE,FRA,Men,football,M,Silver
+412,Paris,1900,Football,Football,PELTIER,FRA,Men,football,M,Silver
+413,Paris,1900,Golf,Golf,"ROBERTSON, David Donaldson",GBR,Men,individual,M,Bronze
+414,Paris,1900,Golf,Golf,"SANDS, Charles Edward",USA,Men,individual,M,Gold
+415,Paris,1900,Golf,Golf,"RUTHERFORD, Walter",GBR,Men,individual,M,Silver
+416,Paris,1900,Golf,Golf,"PRATT, Daria",USA,Women,individual,W,Bronze
+417,Paris,1900,Golf,Golf,"ABBOTT, Margaret Ives",USA,Women,individual,W,Gold
+418,Paris,1900,Golf,Golf,"WHITTIER, Pauline",USA,Women,individual,W,Silver
+419,Paris,1900,Gymnastics,Artistic G.,"DEMANET, Lucien",FRA,Men,individual all-round,M,Bronze
+420,Paris,1900,Gymnastics,Artistic G.,"SANDRAS, Gustave",FRA,Men,individual all-round,M,Gold
+421,Paris,1900,Gymnastics,Artistic G.,"BAS, Noël",FRA,Men,individual all-round,M,Silver
+422,Paris,1900,Polo,Polo,"BOUSSOD, Jean",ZZX,Men,polo,M,Bronze
+423,Paris,1900,Polo,Polo,"DUC DE BISACCIA, Louis",ZZX,Men,polo,M,Bronze
+424,Paris,1900,Polo,Polo,"FAUQUET LEMAITRE, A.",ZZX,Men,polo,M,Bronze
+425,Paris,1900,Polo,Polo,"RAOUL-DUVAL, Maurice",ZZX,Men,polo,M,Bronze
+426,Paris,1900,Polo,Polo,"DALY, Dennis",ZZX,Men,polo,M,Gold
+427,Paris,1900,Polo,Polo,"KEENE, Foxhall Parker",ZZX,Men,polo,M,Gold
+428,Paris,1900,Polo,Polo,"MACKEY, Frank Jay",ZZX,Men,polo,M,Gold
+429,Paris,1900,Polo,Polo,"RAWLINSON, Alfred",ZZX,Men,polo,M,Gold
+430,Paris,1900,Polo,Polo,"BUCKMASTER, Walter Selby",ZZX,Men,polo,M,Silver
+431,Paris,1900,Polo,Polo,"COMTE DE MADRE, José Pierre M.J.",ZZX,Men,polo,M,Silver
+432,Paris,1900,Polo,Polo,"FREAKE, Frederick Maitland",ZZX,Men,polo,M,Silver
+433,Paris,1900,Polo,Polo,"MCCREERY, Walter Adolph",ZZX,Men,polo,M,Silver
+434,Paris,1900,Rowing,Rowing,"BRANDT, Francois Antoine",NED,Men,eight with coxswain (8+),M,Bronze
+435,Paris,1900,Rowing,Rowing,"BROCKMANN, Hermanus Gerardus",NED,Men,eight with coxswain (8+),M,Bronze
+436,Paris,1900,Rowing,Rowing,"KLEIN, Roelof",NED,Men,eight with coxswain (8+),M,Bronze
+437,Paris,1900,Rowing,Rowing,"LEEGSTRA, Ruud Gerbens",NED,Men,eight with coxswain (8+),M,Bronze
+438,Paris,1900,Rowing,Rowing,"MIDDELBERG, Walter",NED,Men,eight with coxswain (8+),M,Bronze
+439,Paris,1900,Rowing,Rowing,"OFFERHAUS, Hendrik Karel",NED,Men,eight with coxswain (8+),M,Bronze
+440,Paris,1900,Rowing,Rowing,"THIJSSEN, Walter",NED,Men,eight with coxswain (8+),M,Bronze
+441,Paris,1900,Rowing,Rowing,"TROMP, Henricus",NED,Men,eight with coxswain (8+),M,Bronze
+442,Paris,1900,Rowing,Rowing,"VAN DIJK, Johannes Wilhelmus Maria",NED,Men,eight with coxswain (8+),M,Bronze
+443,Paris,1900,Rowing,Rowing,"ABELL, Louis",USA,Men,eight with coxswain (8+),M,Gold
+444,Paris,1900,Rowing,Rowing,"CARR, William",USA,Men,eight with coxswain (8+),M,Gold
+445,Paris,1900,Rowing,Rowing,"DEBAECKE, Harry",USA,Men,eight with coxswain (8+),M,Gold
+446,Paris,1900,Rowing,Rowing,"EXLEY, John",USA,Men,eight with coxswain (8+),M,Gold
+447,Paris,1900,Rowing,Rowing,"GEIGER, John",USA,Men,eight with coxswain (8+),M,Gold
+448,Paris,1900,Rowing,Rowing,"HEDLEY, Edward",USA,Men,eight with coxswain (8+),M,Gold
+449,Paris,1900,Rowing,Rowing,"JUVENAL, James",USA,Men,eight with coxswain (8+),M,Gold
+450,Paris,1900,Rowing,Rowing,"LOCKWOOD, Roscoe",USA,Men,eight with coxswain (8+),M,Gold
+451,Paris,1900,Rowing,Rowing,"MARSH, Edward",USA,Men,eight with coxswain (8+),M,Gold
+452,Paris,1900,Rowing,Rowing,"BRUGGEMAN, Prospère",BEL,Men,eight with coxswain (8+),M,Silver
+453,Paris,1900,Rowing,Rowing,"DE BISSCHOP, Jules",BEL,Men,eight with coxswain (8+),M,Silver
+454,Paris,1900,Rowing,Rowing,"DE COCK, Oscar",BEL,Men,eight with coxswain (8+),M,Silver
+455,Paris,1900,Rowing,Rowing,"DE SOMVILLE, Oscar Charles",BEL,Men,eight with coxswain (8+),M,Silver
+456,Paris,1900,Rowing,Rowing,"HEMELSOET, Maurice",BEL,Men,eight with coxswain (8+),M,Silver
+457,Paris,1900,Rowing,Rowing,"ODBERG, Frank",BEL,Men,eight with coxswain (8+),M,Silver
+458,Paris,1900,Rowing,Rowing,"VAN CROMBRUGGHE, Marcel Lucien",BEL,Men,eight with coxswain (8+),M,Silver
+459,Paris,1900,Rowing,Rowing,"VAN LANDEGHEM, Alfred",BEL,Men,eight with coxswain (8+),M,Silver
+460,Paris,1900,Rowing,Rowing,"VERDONCK, Maurice",BEL,Men,eight with coxswain (8+),M,Silver
+461,Paris,1900,Rowing,Rowing,"CARSTENS, Wilhelm",GER,Men,four-oared shell with coxswain (4-),M,Bronze
+462,Paris,1900,Rowing,Rowing,"FELLE, Ernst",GER,Men,four-oared shell with coxswain (4-),M,Bronze
+463,Paris,1900,Rowing,Rowing,"FICKEISEN, Otto",GER,Men,four-oared shell with coxswain (4-),M,Bronze
+464,Paris,1900,Rowing,Rowing,"KÖRNER, Julius",GER,Men,four-oared shell with coxswain (4-),M,Bronze
+465,Paris,1900,Rowing,Rowing,"KRÖWERATH, Franz",GER,Men,four-oared shell with coxswain (4-),M,Bronze
+466,Paris,1900,Rowing,Rowing,"LEHLE, Carl",GER,Men,four-oared shell with coxswain (4-),M,Bronze
+467,Paris,1900,Rowing,Rowing,"MÖLLER, Adolf",GER,Men,four-oared shell with coxswain (4-),M,Bronze
+468,Paris,1900,Rowing,Rowing,"MOTHS, Gustav Adolf",GER,Men,four-oared shell with coxswain (4-),M,Bronze
+469,Paris,1900,Rowing,Rowing,"RÜSTER, Hugo",GER,Men,four-oared shell with coxswain (4-),M,Bronze
+470,Paris,1900,Rowing,Rowing,"WILKER, Hermann",GER,Men,four-oared shell with coxswain (4-),M,Bronze
+471,Paris,1900,Rowing,Rowing,"BOUCKAERT, Henri",FRA,Men,four-oared shell with coxswain (4-),M,Gold
+472,Paris,1900,Rowing,Rowing,"CAU, Jean",FRA,Men,four-oared shell with coxswain (4-),M,Gold
+473,Paris,1900,Rowing,Rowing,CHARLOT,FRA,Men,four-oared shell with coxswain (4-),M,Gold
+474,Paris,1900,Rowing,Rowing,"DELCHAMBRE, Emile",FRA,Men,four-oared shell with coxswain (4-),M,Gold
+475,Paris,1900,Rowing,Rowing,"GOSSLER, Carl Heinrich",GER,Men,four-oared shell with coxswain (4-),M,Gold
+476,Paris,1900,Rowing,Rowing,"GOSSLER, Gustav Ludwig",GER,Men,four-oared shell with coxswain (4-),M,Gold
+477,Paris,1900,Rowing,Rowing,"GOSSLER, Oscar",GER,Men,four-oared shell with coxswain (4-),M,Gold
+478,Paris,1900,Rowing,Rowing,"HAZEBROUCK, Henri",FRA,Men,four-oared shell with coxswain (4-),M,Gold
+479,Paris,1900,Rowing,Rowing,"KATZENSTEIN, Walther",GER,Men,four-oared shell with coxswain (4-),M,Gold
+480,Paris,1900,Rowing,Rowing,"TIETGENS, Waldemar",GER,Men,four-oared shell with coxswain (4-),M,Gold
+481,Paris,1900,Rowing,Rowing,"BROCKMANN, Hermanus Gerardus",NED,Men,four-oared shell with coxswain (4-),M,Silver
+482,Paris,1900,Rowing,Rowing,"HIEBENDAAI, Coenraad Christiaan",NED,Men,four-oared shell with coxswain (4-),M,Silver
+483,Paris,1900,Rowing,Rowing,"LOTSY, Gerhard Oswald",NED,Men,four-oared shell with coxswain (4-),M,Silver
+484,Paris,1900,Rowing,Rowing,"LOTSY, Paulus Jan",NED,Men,four-oared shell with coxswain (4-),M,Silver
+485,Paris,1900,Rowing,Rowing,"LUMPP, Georges",FRA,Men,four-oared shell with coxswain (4-),M,Silver
+486,Paris,1900,Rowing,Rowing,"PERRIN, Charles",FRA,Men,four-oared shell with coxswain (4-),M,Silver
+487,Paris,1900,Rowing,Rowing,"SOUBEYRAN, Daniel",FRA,Men,four-oared shell with coxswain (4-),M,Silver
+488,Paris,1900,Rowing,Rowing,"TERWOGT, Johannes Hester Lambertus",NED,Men,four-oared shell with coxswain (4-),M,Silver
+489,Paris,1900,Rowing,Rowing,"WEGELIN, Emile",FRA,Men,four-oared shell with coxswain (4-),M,Silver
+490,Paris,1900,Rowing,Rowing,"DELTOUR, Carlos",FRA,Men,pair-oared shell with coxswain (2+),M,Bronze
+491,Paris,1900,Rowing,Rowing,"PAOLI, Raoul",FRA,Men,pair-oared shell with coxswain (2+),M,Bronze
+492,Paris,1900,Rowing,Rowing,"VEDRENNE, Antoine Erneste",FRA,Men,pair-oared shell with coxswain (2+),M,Bronze
+493,Paris,1900,Rowing,Rowing,"BRANDT, Francois Antoine",ZZX,Men,pair-oared shell with coxswain (2+),M,Gold
+494,Paris,1900,Rowing,Rowing,"BROCKMANN, Hermanus Gerardus",ZZX,Men,pair-oared shell with coxswain (2+),M,Gold
+495,Paris,1900,Rowing,Rowing,"KLEIN, Roelof",ZZX,Men,pair-oared shell with coxswain (2+),M,Gold
+496,Paris,1900,Rowing,Rowing,"MARTINET, Louis",FRA,Men,pair-oared shell with coxswain (2+),M,Silver
+497,Paris,1900,Rowing,Rowing,UNKNOWN COX / BARREUR INCONNU,FRA,Men,pair-oared shell with coxswain (2+),M,Silver
+498,Paris,1900,Rowing,Rowing,WALEFF,FRA,Men,pair-oared shell with coxswain (2+),M,Silver
+499,Paris,1900,Rowing,Rowing,"ASHE, Saint-George",GBR,Men,single sculls (1x),M,Bronze
+500,Paris,1900,Rowing,Rowing,"BARRELET, Henri",FRA,Men,single sculls (1x),M,Gold
+501,Paris,1900,Rowing,Rowing,"GAUDIN, André",FRA,Men,single sculls (1x),M,Silver
+502,Paris,1900,Rugby,Rugby,"AITOFF, Vladimir",FRA,Men,rugby,M,Gold
+503,Paris,1900,Rugby,Rugby,"ALBERT, A.",FRA,Men,rugby,M,Gold
+504,Paris,1900,Rugby,Rugby,"BINOCHE, Jean, LÃ©on",FRA,Men,rugby,M,Gold
+505,Paris,1900,Rugby,Rugby,"COLLAS, Jean",FRA,Men,rugby,M,Gold
+506,Paris,1900,Rugby,Rugby,"GAUTIER, Jean Guy",FRA,Men,rugby,M,Gold
+507,Paris,1900,Rugby,Rugby,"GIROUX, Auguste",FRA,Men,rugby,M,Gold
+508,Paris,1900,Rugby,Rugby,"GONDOUIN, Charles",FRA,Men,rugby,M,Gold
+509,Paris,1900,Rugby,Rugby,"HENRIQUEZ DE ZUBIERRA, Constantin",FRA,Men,rugby,M,Gold
+510,Paris,1900,Rugby,Rugby,"HERVE, Jean",FRA,Men,rugby,M,Gold
+511,Paris,1900,Rugby,Rugby,"LARDANCHET, Victor",FRA,Men,rugby,M,Gold
+512,Paris,1900,Rugby,Rugby,"LEFEBVRE, Hubert",FRA,Men,rugby,M,Gold
+513,Paris,1900,Rugby,Rugby,"OLIVIER, Joseph",FRA,Men,rugby,M,Gold
+514,Paris,1900,Rugby,Rugby,"PHARAMOND, Alexandre",FRA,Men,rugby,M,Gold
+515,Paris,1900,Rugby,Rugby,"REICHEL, Frantz",FRA,Men,rugby,M,Gold
+516,Paris,1900,Rugby,Rugby,"RISCHMANN, André",FRA,Men,rugby,M,Gold
+517,Paris,1900,Rugby,Rugby,"ROOSEVELT, Albert",FRA,Men,rugby,M,Gold
+518,Paris,1900,Rugby,Rugby,"SARRADE, Emile",FRA,Men,rugby,M,Gold
+519,Paris,1900,Rugby,Rugby,"AMRHEIN, Albert",GER,Men,rugby,M,Silver
+520,Paris,1900,Rugby,Rugby,"BAYLISS, F.C.",GBR,Men,rugby,M,Silver
+521,Paris,1900,Rugby,Rugby,"BETTING, Hugo",GER,Men,rugby,M,Silver
+522,Paris,1900,Rugby,Rugby,"BIRTLES, J.Henry",GBR,Men,rugby,M,Silver
+523,Paris,1900,Rugby,Rugby,"CAUTLON, J.",GBR,Men,rugby,M,Silver
+524,Paris,1900,Rugby,Rugby,"DARBY, Artur John",GBR,Men,rugby,M,Silver
+525,Paris,1900,Rugby,Rugby,"DEYKIN, C.P.",GBR,Men,rugby,M,Silver
+526,Paris,1900,Rugby,Rugby,"HERRMANN, Jacob",GER,Men,rugby,M,Silver
+527,Paris,1900,Rugby,Rugby,"HOFMEISTER, Willy",GER,Men,rugby,M,Silver
+528,Paris,1900,Rugby,Rugby,"HOOD, L.",GBR,Men,rugby,M,Silver
+529,Paris,1900,Rugby,Rugby,"KREUZER, Hermann",GER,Men,rugby,M,Silver
+530,Paris,1900,Rugby,Rugby,"LANDVOIGT, Arnold",GER,Men,rugby,M,Silver
+531,Paris,1900,Rugby,Rugby,"LATSCHA, Hans",GER,Men,rugby,M,Silver
+532,Paris,1900,Rugby,Rugby,"LOGAN, M.L.",GBR,Men,rugby,M,Silver
+533,Paris,1900,Rugby,Rugby,"LOVEITT, H.A.",GBR,Men,rugby,M,Silver
+534,Paris,1900,Rugby,Rugby,"LUDWIG, Erich",GER,Men,rugby,M,Silver
+535,Paris,1900,Rugby,Rugby,"LUDWIG, Richard",GER,Men,rugby,M,Silver
+536,Paris,1900,Rugby,Rugby,"MÜLLER, Fritz",GER,Men,rugby,M,Silver
+537,Paris,1900,Rugby,Rugby,"NICOL, N.S.",GBR,Men,rugby,M,Silver
+538,Paris,1900,Rugby,Rugby,"POPPE, Eduard",GER,Men,rugby,M,Silver
+539,Paris,1900,Rugby,Rugby,"REITZ, Heinrich",GER,Men,rugby,M,Silver
+540,Paris,1900,Rugby,Rugby,"SCHMIERER, August",GER,Men,rugby,M,Silver
+541,Paris,1900,Rugby,Rugby,"SMITH, V.",GBR,Men,rugby,M,Silver
+542,Paris,1900,Rugby,Rugby,"STOCKHAUSEN, Adolf",GER,Men,rugby,M,Silver
+543,Paris,1900,Rugby,Rugby,"TALBOT, M.W.",GBR,Men,rugby,M,Silver
+544,Paris,1900,Rugby,Rugby,"WALLIS, J.G.",GBR,Men,rugby,M,Silver
+545,Paris,1900,Rugby,Rugby,"WENDEROTH, Georg",GER,Men,rugby,M,Silver
+546,Paris,1900,Rugby,Rugby,"WHITTINDALE, Claud",GBR,Men,rugby,M,Silver
+547,Paris,1900,Rugby,Rugby,"WHITTINDALE, Raymond",GBR,Men,rugby,M,Silver
+548,Paris,1900,Rugby,Rugby,"WILSON, Francis Henry",GBR,Men,rugby,M,Silver
+549,Paris,1900,Sailing,Sailing,"MICHELET, E.",FRA,Men,0.5-1t,X,Bronze
+550,Paris,1900,Sailing,Sailing,"MICHELET, F.",FRA,Men,0.5-1t,X,Bronze
+551,Paris,1900,Sailing,Sailing,"GRETTON, John H.",GBR,Men,0.5-1t,X,Gold
+552,Paris,1900,Sailing,Sailing,"HOPE, Linton",GBR,Men,0.5-1t,X,Gold
+553,Paris,1900,Sailing,Sailing,"LORD CURRIE, Lorne Campbell",GBR,Men,0.5-1t,X,Gold
+554,Paris,1900,Sailing,Sailing,"BAUDRIER, Jacques",FRA,Men,0.5-1t,X,Silver
+555,Paris,1900,Sailing,Sailing,"LEBRET, Jean",FRA,Men,0.5-1t,X,Silver
+556,Paris,1900,Sailing,Sailing,MARCOTTE,FRA,Men,0.5-1t,X,Silver
+557,Paris,1900,Sailing,Sailing,"MARTIN, William",FRA,Men,0.5-1t,X,Silver
+558,Paris,1900,Sailing,Sailing,VALTON,FRA,Men,0.5-1t,X,Silver
+559,Paris,1900,Sailing,Sailing,"HORE, Edward",GBR,Men,10-20t,X,Bronze
+560,Paris,1900,Sailing,Sailing,"BILLARD, Emile",FRA,Men,10-20t,X,Gold
+561,Paris,1900,Sailing,Sailing,"PERQUER, P.",FRA,Men,10-20t,X,Gold
+562,Paris,1900,Sailing,Sailing,"LE DUC DECAZES, Jean",FRA,Men,10-20t,X,Silver
+563,Paris,1900,Sailing,Sailing,"MACHENRY, M.",USA,Men,3-10t,X,Bronze
+564,Paris,1900,Sailing,Sailing,"TAYLOR, Howard",GBR,Men,3-10t,X,Gold
+565,Paris,1900,Sailing,Sailing,"GUFFLET, Maurice",FRA,Men,3-10t,X,Silver
+566,Paris,1900,Sailing,Sailing,"MICHELET, E.",FRA,Men,open class,X,Bronze
+567,Paris,1900,Sailing,Sailing,"MICHELET, F.",FRA,Men,open class,X,Bronze
+568,Paris,1900,Sailing,Sailing,"GRETTON, John H.",GBR,Men,open class,X,Gold
+569,Paris,1900,Sailing,Sailing,"HOPE, Linton",GBR,Men,open class,X,Gold
+570,Paris,1900,Sailing,Sailing,"LORD CURRIE, Lorne Campbell",GBR,Men,open class,X,Gold
+571,Paris,1900,Sailing,Sailing,"NAUE, Georg",GER,Men,open class,X,Silver
+572,Paris,1900,Sailing,Sailing,"PETERS, Heinrich",GER,Men,open class,X,Silver
+573,Paris,1900,Sailing,Sailing,"WEISE, Ottokar",GER,Men,open class,X,Silver
+574,Paris,1900,Sailing,Sailing,"WIESNER, Martin",GER,Men,open class,X,Silver
+575,Paris,1900,Shooting,Shooting,"BALME, Eugène",FRA,Men,25m rapid fire pistol (60 shots),M,Bronze
+576,Paris,1900,Shooting,Shooting,"LARROUY, Maurice",FRA,Men,25m rapid fire pistol (60 shots),M,Gold
+577,Paris,1900,Shooting,Shooting,"MOREAUX, Léon",FRA,Men,25m rapid fire pistol (60 shots),M,Silver
+578,Paris,1900,Shooting,Shooting,"BOUWENS, Antonius",NED,Men,"50m army pistol, team",M,Bronze
+579,Paris,1900,Shooting,Shooting,"SILLEM, Henrik",NED,Men,"50m army pistol, team",M,Bronze
+580,Paris,1900,Shooting,Shooting,"SWEYS, Anthony Ahasuerus",NED,Men,"50m army pistol, team",M,Bronze
+581,Paris,1900,Shooting,Shooting,"VAN DEN BERGH, Solko Johannes",NED,Men,"50m army pistol, team",M,Bronze
+582,Paris,1900,Shooting,Shooting,"VAN HAAN, Gerardus",NED,Men,"50m army pistol, team",M,Bronze
+583,Paris,1900,Shooting,Shooting,"LÜTHI, Friedrich",SUI,Men,"50m army pistol, team",M,Gold
+584,Paris,1900,Shooting,Shooting,"PROBST, Paul",SUI,Men,"50m army pistol, team",M,Gold
+585,Paris,1900,Shooting,Shooting,"RICHARDET, Louis-Marc",SUI,Men,"50m army pistol, team",M,Gold
+586,Paris,1900,Shooting,Shooting,"RÖDERER, Karl Konrad",SUI,Men,"50m army pistol, team",M,Gold
+587,Paris,1900,Shooting,Shooting,"STÄHELI, Konrad",SUI,Men,"50m army pistol, team",M,Gold
+588,Paris,1900,Shooting,Shooting,"DUFFOY, Louis",FRA,Men,"50m army pistol, team",M,Silver
+589,Paris,1900,Shooting,Shooting,"LECOQ, Maurice",FRA,Men,"50m army pistol, team",M,Silver
+590,Paris,1900,Shooting,Shooting,"MOREAUX, Léon",FRA,Men,"50m army pistol, team",M,Silver
+591,Paris,1900,Shooting,Shooting,"PAROCHE, Achille",FRA,Men,"50m army pistol, team",M,Silver
+592,Paris,1900,Shooting,Shooting,TRINITE,FRA,Men,"50m army pistol, team",M,Silver
+593,Paris,1900,Shooting,Shooting,"STÄHELI, Konrad",SUI,Men,50m pistol (60 shots),M,Bronze
+594,Paris,1900,Shooting,Shooting,"RÖDERER, Karl Konrad",SUI,Men,50m pistol (60 shots),M,Gold
+595,Paris,1900,Shooting,Shooting,"PAROCHE, Achille",FRA,Men,50m pistol (60 shots),M,Silver
+596,Paris,1900,Shooting,Shooting,"ÖSTMO, Ole",NOR,Men,"army rifle, 300m, 3 positions",M,Bronze
+597,Paris,1900,Shooting,Shooting,"VAN ASBROECK, Paul",BEL,Men,"army rifle, 300m, 3 positions",M,Bronze
+598,Paris,1900,Shooting,Shooting,"KELLENBERGER, Emil",SUI,Men,"army rifle, 300m, 3 positions",M,Gold
+599,Paris,1900,Shooting,Shooting,"NIELSEN, Anders Peter",DEN,Men,"army rifle, 300m, 3 positions",M,Silver
+600,Paris,1900,Shooting,Shooting,"STÄHELI, Konrad",SUI,Men,"army rifle, 300m, kneeling",M,Gold
+601,Paris,1900,Shooting,Shooting,"KELLENBERGER, Emil",SUI,Men,"army rifle, 300m, kneeling",M,Silver
+602,Paris,1900,Shooting,Shooting,"NIELSEN, Anders Peter",DEN,Men,"army rifle, 300m, kneeling",M,Silver
+603,Paris,1900,Shooting,Shooting,"ÖSTMO, Ole",NOR,Men,"army rifle, 300m, prone",M,Bronze
+604,Paris,1900,Shooting,Shooting,"PAROCHE, Achille",FRA,Men,"army rifle, 300m, prone",M,Gold
+605,Paris,1900,Shooting,Shooting,"NIELSEN, Anders Peter",DEN,Men,"army rifle, 300m, prone",M,Silver
+606,Paris,1900,Shooting,Shooting,"PAUMIER DU VERGIER, Charles",BEL,Men,"army rifle, 300m, standing",M,Bronze
+607,Paris,1900,Shooting,Shooting,"MADSEN, Lars Jörgen",DEN,Men,"army rifle, 300m, standing",M,Gold
+608,Paris,1900,Shooting,Shooting,"ÖSTMO, Ole",NOR,Men,"army rifle, 300m, standing",M,Silver
+609,Paris,1900,Shooting,Shooting,"CAVADINI, Auguste",FRA,Men,"free rifle, team",M,Bronze
+610,Paris,1900,Shooting,Shooting,"LECOQ, Maurice",FRA,Men,"free rifle, team",M,Bronze
+611,Paris,1900,Shooting,Shooting,"MOREAUX, Léon",FRA,Men,"free rifle, team",M,Bronze
+612,Paris,1900,Shooting,Shooting,"PAROCHE, Achille",FRA,Men,"free rifle, team",M,Bronze
+613,Paris,1900,Shooting,Shooting,"THOMAS, René",FRA,Men,"free rifle, team",M,Bronze
+614,Paris,1900,Shooting,Shooting,"BÖCKLI, Franz",SUI,Men,"free rifle, team",M,Gold
+615,Paris,1900,Shooting,Shooting,"GRÜTER, Alfred",SUI,Men,"free rifle, team",M,Gold
+616,Paris,1900,Shooting,Shooting,"KELLENBERGER, Emil",SUI,Men,"free rifle, team",M,Gold
+617,Paris,1900,Shooting,Shooting,"RICHARDET, Louis-Marc",SUI,Men,"free rifle, team",M,Gold
+618,Paris,1900,Shooting,Shooting,"STÄHELI, Konrad",SUI,Men,"free rifle, team",M,Gold
+619,Paris,1900,Shooting,Shooting,"FRYDENLUND, Olaf Emil",NOR,Men,"free rifle, team",M,Silver
+620,Paris,1900,Shooting,Shooting,"HERMANDSEN, Hellmer",NOR,Men,"free rifle, team",M,Silver
+621,Paris,1900,Shooting,Shooting,"ÖSTMO, Ole",NOR,Men,"free rifle, team",M,Silver
+622,Paris,1900,Shooting,Shooting,"SAETHER, Ole Andreas",NOR,Men,"free rifle, team",M,Silver
+623,Paris,1900,Shooting,Shooting,"SEEBERG, Tom",NOR,Men,"free rifle, team",M,Silver
+624,Paris,1900,Shooting,Shooting,"DE CLARY, Justinien",FRA,Men,trap (125 targets),M,Bronze
+625,Paris,1900,Shooting,Shooting,"DE BARBARIN, Roger",FRA,Men,trap (125 targets),M,Gold
+626,Paris,1900,Shooting,Shooting,"GUYOT, René",FRA,Men,trap (125 targets),M,Silver
+627,Paris,1900,Tennis,Tennis,"DE LA CHAPELLE, Georges",FRA,Men,doubles,M,Bronze
+628,Paris,1900,Tennis,Tennis,"MAHONY, Harold Sergerson",GBR,Men,doubles,M,Bronze
+629,Paris,1900,Tennis,Tennis,"NORRIS, Arthur B.J.",GBR,Men,doubles,M,Bronze
+630,Paris,1900,Tennis,Tennis,"PREVOST, André",FRA,Men,doubles,M,Bronze
+631,Paris,1900,Tennis,Tennis,"DOHERTY, Hugh Lawrence",GBR,Men,doubles,M,Gold
+632,Paris,1900,Tennis,Tennis,"DOHERTY, Reginald Frank",GBR,Men,doubles,M,Gold
+633,Paris,1900,Tennis,Tennis,"DE GARMENDIA, Basil Spalding",ZZX,Men,doubles,M,Silver
+634,Paris,1900,Tennis,Tennis,"DECUGIS, Max",ZZX,Men,doubles,M,Silver
+635,Paris,1900,Tennis,Tennis,"DOHERTY, Hugh Lawrence",ZZX,Men,mixed doubles,X,Bronze
+636,Paris,1900,Tennis,Tennis,"WARDEN, Archibald A.",ZZX,Men,mixed doubles,X,Bronze
+637,Paris,1900,Tennis,Tennis,"DOHERTY, Reginald Frank",GBR,Men,mixed doubles,X,Gold
+638,Paris,1900,Tennis,Tennis,"MAHONY, Harold Sergerson",ZZX,Men,mixed doubles,X,Silver
+639,Paris,1900,Tennis,Tennis,"JONES, Marion",ZZX,Women,mixed doubles,X,Bronze
+640,Paris,1900,Tennis,Tennis,"ROSENBAUM, Hedwig",ZZX,Women,mixed doubles,X,Bronze
+641,Paris,1900,Tennis,Tennis,"COOPER, Charlotte",GBR,Women,mixed doubles,X,Gold
+642,Paris,1900,Tennis,Tennis,"PREVOST, Hélène",ZZX,Women,mixed doubles,X,Silver
+643,Paris,1900,Tennis,Tennis,"DOHERTY, Reginald Frank",GBR,Men,singles,M,Bronze
+644,Paris,1900,Tennis,Tennis,"NORRIS, Arthur B.J.",GBR,Men,singles,M,Bronze
+645,Paris,1900,Tennis,Tennis,"DOHERTY, Hugh Lawrence",GBR,Men,singles,M,Gold
+646,Paris,1900,Tennis,Tennis,"MAHONY, Harold Sergerson",GBR,Men,singles,M,Silver
+647,Paris,1900,Tennis,Tennis,"JONES, Marion",USA,Women,singles,W,Bronze
+648,Paris,1900,Tennis,Tennis,"ROSENBAUM, Hedwig",BOH,Women,singles,W,Bronze
+649,Paris,1900,Tennis,Tennis,"COOPER, Charlotte",GBR,Women,singles,W,Gold
+650,Paris,1900,Tennis,Tennis,"PREVOST, Hélène",FRA,Women,singles,W,Silver
+651,Paris,1900,Tug of War,Tug of War,"AABYE, Edgar",ZZX,Men,tug of war,M,Gold
+652,Paris,1900,Tug of War,Tug of War,"NILSSON, August",ZZX,Men,tug of war,M,Gold
+653,Paris,1900,Tug of War,Tug of War,"SCHMIDT, Eugen",ZZX,Men,tug of war,M,Gold
+654,Paris,1900,Tug of War,Tug of War,"SÖDERSTRÖM, Gustaf",ZZX,Men,tug of war,M,Gold
+655,Paris,1900,Tug of War,Tug of War,"STAAF, Karl Gustav",ZZX,Men,tug of war,M,Gold
+656,Paris,1900,Tug of War,Tug of War,"WINCKLER, Charles",ZZX,Men,tug of war,M,Gold
+657,Paris,1900,Tug of War,Tug of War,"BASSET, Pierre",FRA,Men,tug of war,M,Silver
+658,Paris,1900,Tug of War,Tug of War,"COLLAS, Jean",FRA,Men,tug of war,M,Silver
+659,Paris,1900,Tug of War,Tug of War,"GONDOUIN, Charles",FRA,Men,tug of war,M,Silver
+660,Paris,1900,Tug of War,Tug of War,"HENRIQUEZ DE ZUBIERRA, Constantin",FRA,Men,tug of war,M,Silver
+661,Paris,1900,Tug of War,Tug of War,"ROFFO, Joseph",FRA,Men,tug of war,M,Silver
+662,Paris,1900,Tug of War,Tug of War,"SARRADE, Emile",FRA,Men,tug of war,M,Silver
